@@ -1,0 +1,5 @@
+{"question":"Compute the sum of the integers 3 and 4.","gold":"7","source":"math","source_split":"train","level":"fixture","topic":"arithmetic"}
+{"question":"What is 9 multiplied by 7?","gold":"63","source":"math","source_split":"train","level":"fixture","topic":"arithmetic"}
+{"question":"Evaluate the square of 11.","gold":"121","source":"math","source_split":"train","level":"fixture","topic":"arithmetic"}
+{"question":"Find the additive inverse of -13.","gold":"13","source":"math","source_split":"test","level":"fixture","topic":"arithmetic"}
+{"question":"Compute one half of 36.","gold":"18","source":"math","source_split":"test","level":"fixture","topic":"arithmetic"}
