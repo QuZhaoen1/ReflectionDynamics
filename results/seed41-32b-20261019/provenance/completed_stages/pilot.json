@@ -1,0 +1,34 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "-m",
+      "torch.distributed.run",
+      "--standalone",
+      "--nproc_per_node=8",
+      "-m",
+      "refldyn.train_grpo",
+      "--config",
+      "configs/grpo_32b_a10080.yaml",
+      "--gate-report",
+      "data/selection/train_gate.json",
+      "--seed-override",
+      "41",
+      "--output-dir-override",
+      "runs/pilot_seed41",
+      "--pilot"
+    ],
+    "inputs": {
+      "configs/grpo_32b_a10080.yaml": "82372dc6b4da80fa16f5209c481d0388a0ad82fe77089a49279b166480b15ecd",
+      "configs/zero3_80gb.json": "f9a346121dd014709d101e5e3560ae7e48b93abae2c3bc12d7ae3eed05c35978",
+      "data/states/train.jsonl": "dbee9578aca59d68cef662438e5e7251dbb11153d101c355293dadc5bd8e41ee",
+      "data/selection/train_gate.json": "8254f0a7c51e656d625116d6dfcbec45c7798f630ce44eb11c3dca0b97b8de88",
+      "source/src/refldyn/train_grpo.py": "8ab5baf37356041635ad4b90890abf64958f6150673eba4019d014e65fcced96"
+    }
+  },
+  "time": 1792242622.6564796,
+  "outputs": {
+    "runs/pilot_seed41/training-success.json": "729cc04f6849e0d802b5107f9601403589340ff0c2ef4966920f5fb210889e26",
+    "runs/pilot_seed41/checkpoint-8/trainer_state.json": "26b9c99ae2d85d5d462b1ef301b63eebea5a588fe28b3c634eefcd2b3529303a"
+  }
+}

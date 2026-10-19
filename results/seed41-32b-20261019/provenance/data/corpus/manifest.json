@@ -1,0 +1,44 @@
+{
+  "accepted": 12584,
+  "adaptation_rejections": {
+    "train": 4
+  },
+  "aime_parquet_sha256": "025484a99fea498e7d0c3b0ee42afcbec0176405c19c5dbf557b9f6ca6445675",
+  "aime_platform": "ModelScope",
+  "aime_revision": "13f9e12f613e720c2a2b2f345dd04b998a29494d",
+  "aime_source_rows": 90,
+  "dataset": "jeggers/competition_math:original",
+  "importer_sha256": "3c2538610a5b4cf9082e6f89aec6e1615e34eb96e31d26c9be23260ee8b1629d",
+  "includes_aime": true,
+  "includes_gsm8k": false,
+  "math_archive_sha256": "d9b88da85e6ffa3e1057ae675238d6e192574243bdc45ca7d00a1339fc4d0874",
+  "math_download_endpoint": "https://hf-mirror.com",
+  "math_download_url": "https://sail-moe.oss-cn-hangzhou.aliyuncs.com/open_data/math/MATH.zip",
+  "math_original_content_cross_checked": true,
+  "math_parquet_sha256": {
+    "test": "f9f344088a5d918a4ad167cb4451db423cdea41168746c613283e6df8b97865f",
+    "train": "ce0e56832dbe5de53f3eafafedd1f2a6f17d77da6c3c65dae9acf1b2556eb662"
+  },
+  "math_revision": "bd76e17d5b06797bc5ae48f30d0d9634c3255a86",
+  "math_source_counts": {
+    "test": 5000,
+    "train": 7500
+  },
+  "math_url_reference": "modelscope/competition_math/competition_math.py",
+  "preview": false,
+  "project_commit": "6f2e91eb7d22bd65ab44b4815be823fa03878e1f",
+  "rejected_total": 0,
+  "split_checksums": {
+    "ood": "431aaa9b2f2b41fe1c70bb43234b8f34c773158ad0249a97340ec6a460b585e5",
+    "test": "c77ee083daf70cf1a33cf0c97bc283ead48afc54e3e164c416112f2641871694",
+    "train": "09e0a6b1584b899e6daa739d5fd85a1eec7d0a3a0b0352ec7e2d49713e58cc91",
+    "validation": "a97695707d5b88a734bc7031fd22aeac7f4975e2a1f71f0a6b5c8cfcee18d208"
+  },
+  "splits": {
+    "ood": 90,
+    "test": 5000,
+    "train": 6761,
+    "validation": 733
+  },
+  "strict_gold_check": true
+}

@@ -1,0 +1,29 @@
+model: Qwen/Qwen2.5-32B
+data: data/states/train.jsonl
+training:
+  output_dir: runs/grpo_32b_seed41
+  seed: 41
+  micro_batch_size: 1
+  accumulate: 4
+  num_generations: 4
+  max_steps: 400
+  max_prompt_tokens: 3200
+  max_completion_length: 896
+  learning_rate: 2.0e-06
+  warmup_ratio: 0.03
+  beta: 0.0
+  logging_steps: 1
+  save_steps: 40
+  save_total_limit: 16
+  deepspeed: configs/zero3_80gb.json
+  use_vllm: false
+  ds3_gather_for_generation: true
+  minimum_gpu_gib: 79
+  lora:
+    r: 16
+    alpha: 32
+    target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj

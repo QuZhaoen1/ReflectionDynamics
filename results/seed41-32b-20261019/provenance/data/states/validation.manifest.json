@@ -1,0 +1,16 @@
+{
+  "correct_states": 260,
+  "difficulty_bins_before_filter": {
+    "easy": 131,
+    "hard": 44,
+    "middle": 120
+  },
+  "easy_keep": 0.3,
+  "hard_keep": 0.5,
+  "min_valid_rate": 0.75,
+  "minimum_samples": 8,
+  "problems": 295,
+  "states": 458,
+  "states_file": "data/states/validation.jsonl",
+  "states_sha256": "aee3343d5f384cb4fd543c2ce2291269bc1a2cca8e89f600a8f51e3feb471a64"
+}

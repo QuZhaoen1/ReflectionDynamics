@@ -1,0 +1,38 @@
+{
+  "signature": {
+    "command": [
+      "evaluate",
+      "--states",
+      "data/states/validation.jsonl",
+      "--checkpoint",
+      "base",
+      "--repetitions",
+      "4",
+      "--max-new-tokens",
+      "1024",
+      "--retry-control"
+    ],
+    "inputs": {
+      "data/states/validation.jsonl": "aee3343d5f384cb4fd543c2ce2291269bc1a2cca8e89f600a8f51e3feb471a64"
+    }
+  },
+  "time": 1792241241.3751392,
+  "outputs": {
+    "data/evaluations/base/validation_0.jsonl": "a078bca95cd800a0c8815a97112b179813e654ee2f5d76491393f40d874cfd61",
+    "data/evaluations/base/validation_0.jsonl.manifest.json": "70f3318ca40bab057277e6f8bc82d43f3dcd8c472345756487e71ec98330458d",
+    "data/evaluations/base/validation_1.jsonl": "d80e08274cc83c1410de2e3869e4f98244915ea0c0fdec80c876382ee0c4a76b",
+    "data/evaluations/base/validation_1.jsonl.manifest.json": "0728ca5a4ba94c00a28a2e543e6e0eccce8ba17e01f78064b7ed3a9a830e4ec4",
+    "data/evaluations/base/validation_2.jsonl": "f809a031dce160415dd72b747c82abf3fcaaf18d2955efbf86d1355fbbbf9300",
+    "data/evaluations/base/validation_2.jsonl.manifest.json": "1456938405db0db4300e5d8e47ad696873d7aae013b29f7144b2c4be6ec633c3",
+    "data/evaluations/base/validation_3.jsonl": "7c6fa9def3af61a3836d0f2405033e913c9660adeb56ca8d48e16c304ae76718",
+    "data/evaluations/base/validation_3.jsonl.manifest.json": "9419023abf605c12a3f7aeae0ac9412374b463e436e7169ca5d6089b985cde1d",
+    "data/evaluations/base/validation_4.jsonl": "be25fe723b53903a37067cd0b770a04695937ab7ef6c379a12f6599726ce0dd6",
+    "data/evaluations/base/validation_4.jsonl.manifest.json": "59826f52bad85ed729307654453fb190ecd13333c9eba6b55a979663b0139663",
+    "data/evaluations/base/validation_5.jsonl": "45eb95ac3753ded6bdd4dbee6ece2da1e56554c1d42d8d1c1cb3a0579a986910",
+    "data/evaluations/base/validation_5.jsonl.manifest.json": "cc0903efabeb6d5f847e14caa95e355e529d6165b92f18afea9c309fb8fb0257",
+    "data/evaluations/base/validation_6.jsonl": "502aa8eda21526d18d5371ac8fbe53404a97de7d92e527c7116f90cdb8a1e778",
+    "data/evaluations/base/validation_6.jsonl.manifest.json": "7dfdbaac3c4f388ccc80d8d81edae30410a65d6ab9ade8362f6c2d5af702bfe4",
+    "data/evaluations/base/validation_7.jsonl": "d4f11449957050db3350a43fb32b34041b06343389addd3aa2c89cabc0560a75",
+    "data/evaluations/base/validation_7.jsonl.manifest.json": "4f2cc9571ab6b8522281ea3ee78d0d0dc7fd16b93276fa597054c3983200467a"
+  }
+}

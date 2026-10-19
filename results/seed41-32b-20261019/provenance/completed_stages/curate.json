@@ -1,0 +1,41 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "-m",
+      "refldyn.cli",
+      "curate",
+      "--candidate-states",
+      "data/states/train_candidates.jsonl",
+      "--probe-results",
+      "data/evaluations/train_probe/train_0.jsonl",
+      "data/evaluations/train_probe/train_1.jsonl",
+      "data/evaluations/train_probe/train_2.jsonl",
+      "data/evaluations/train_probe/train_3.jsonl",
+      "data/evaluations/train_probe/train_4.jsonl",
+      "data/evaluations/train_probe/train_5.jsonl",
+      "data/evaluations/train_probe/train_6.jsonl",
+      "data/evaluations/train_probe/train_7.jsonl",
+      "--target",
+      "600",
+      "--output",
+      "data/states/train.jsonl"
+    ],
+    "inputs": {
+      "data/states/train_candidates.jsonl": "465e6abc503a4b7da8f60cb843aa4d3ed9633e5c38d11d263f8ba97812b95f92",
+      "data/evaluations/train_probe/train_0.jsonl": "5dee0093971afb9b7d6bb20aec7d8d04863afba69270ff1c98d763799f271882",
+      "data/evaluations/train_probe/train_1.jsonl": "d559a1cea8ed35a75b7969bc724c023f3b29f19bbdd59695c782dd2c75677b40",
+      "data/evaluations/train_probe/train_2.jsonl": "ada7dc74bd2de10d629a4abf3492288d9de3f1efdc69ede9d9503f8e3538c14c",
+      "data/evaluations/train_probe/train_3.jsonl": "bf9988a5a89d04207924321d49bc5d6e4fffa1382d39bd61e1d2743d41cc2641",
+      "data/evaluations/train_probe/train_4.jsonl": "beb2da0c36ddffd19b10a9bf5f8527e7a1e4b2eff8b962a1f6fb2c2ea5f1130f",
+      "data/evaluations/train_probe/train_5.jsonl": "64a36db699794427f1455bdc27e62a07b52f30d8676f21328c12d81662621ed5",
+      "data/evaluations/train_probe/train_6.jsonl": "08ef40fedb33a293c02afa2ebc2592e8fc077687bf49b348b117ae3cb3dc51a5",
+      "data/evaluations/train_probe/train_7.jsonl": "46f6d56dd3604a80b302110b6bb7c986d1d28675a035efd80a30223c46b92291"
+    }
+  },
+  "time": 1792235125.738039,
+  "outputs": {
+    "data/states/train.jsonl": "dbee9578aca59d68cef662438e5e7251dbb11153d101c355293dadc5bd8e41ee",
+    "data/states/train.curation.json": "385c713fe72113652e0ee637cc578b687be30240f5d2098768424146b6a9e811"
+  }
+}

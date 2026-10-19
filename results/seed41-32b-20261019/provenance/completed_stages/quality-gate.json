@@ -1,0 +1,46 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "-m",
+      "refldyn.cli",
+      "gate",
+      "--train-states",
+      "data/states/train.jsonl",
+      "--curation-report",
+      "data/states/train.curation.json",
+      "--validation-states",
+      "data/states/validation.jsonl",
+      "--validation-results",
+      "data/evaluations/base/validation_0.jsonl",
+      "data/evaluations/base/validation_1.jsonl",
+      "data/evaluations/base/validation_2.jsonl",
+      "data/evaluations/base/validation_3.jsonl",
+      "data/evaluations/base/validation_4.jsonl",
+      "data/evaluations/base/validation_5.jsonl",
+      "data/evaluations/base/validation_6.jsonl",
+      "data/evaluations/base/validation_7.jsonl",
+      "--model",
+      "Qwen/Qwen2.5-32B",
+      "--output",
+      "data/selection/train_gate.json"
+    ],
+    "inputs": {
+      "data/states/train.jsonl": "dbee9578aca59d68cef662438e5e7251dbb11153d101c355293dadc5bd8e41ee",
+      "data/states/train.curation.json": "385c713fe72113652e0ee637cc578b687be30240f5d2098768424146b6a9e811",
+      "data/states/validation.jsonl": "aee3343d5f384cb4fd543c2ce2291269bc1a2cca8e89f600a8f51e3feb471a64",
+      "data/evaluations/base/validation_0.jsonl": "a078bca95cd800a0c8815a97112b179813e654ee2f5d76491393f40d874cfd61",
+      "data/evaluations/base/validation_1.jsonl": "d80e08274cc83c1410de2e3869e4f98244915ea0c0fdec80c876382ee0c4a76b",
+      "data/evaluations/base/validation_2.jsonl": "f809a031dce160415dd72b747c82abf3fcaaf18d2955efbf86d1355fbbbf9300",
+      "data/evaluations/base/validation_3.jsonl": "7c6fa9def3af61a3836d0f2405033e913c9660adeb56ca8d48e16c304ae76718",
+      "data/evaluations/base/validation_4.jsonl": "be25fe723b53903a37067cd0b770a04695937ab7ef6c379a12f6599726ce0dd6",
+      "data/evaluations/base/validation_5.jsonl": "45eb95ac3753ded6bdd4dbee6ece2da1e56554c1d42d8d1c1cb3a0579a986910",
+      "data/evaluations/base/validation_6.jsonl": "502aa8eda21526d18d5371ac8fbe53404a97de7d92e527c7116f90cdb8a1e778",
+      "data/evaluations/base/validation_7.jsonl": "d4f11449957050db3350a43fb32b34041b06343389addd3aa2c89cabc0560a75"
+    }
+  },
+  "time": 1792241241.6704407,
+  "outputs": {
+    "data/selection/train_gate.json": "8254f0a7c51e656d625116d6dfcbec45c7798f630ce44eb11c3dca0b97b8de88"
+  }
+}

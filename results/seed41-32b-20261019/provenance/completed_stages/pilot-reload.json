@@ -1,0 +1,17 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "verify_adapter.py",
+      "adapters/pilot-step8"
+    ],
+    "inputs": {
+      "adapters/pilot-step8/adapter_model.safetensors": "9c4c0ca36670443827ee4b19e3780f5c2afae5ddc979ce35e6185f597075f8d4",
+      "data/states/train.jsonl": "dbee9578aca59d68cef662438e5e7251dbb11153d101c355293dadc5bd8e41ee"
+    }
+  },
+  "time": 1792242662.712426,
+  "outputs": {
+    "adapters/pilot-step8/reload-result.json": "5f104983a35871fdfb1dc26b028b29de2cc40ef06b7d5bc9f9db5477c11135c0"
+  }
+}

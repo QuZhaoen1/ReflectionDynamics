@@ -1,0 +1,41 @@
+{
+  "signature": {
+    "command": [
+      "evaluate",
+      "--states",
+      "data/states/validation.jsonl",
+      "--checkpoint",
+      "step360",
+      "--adapter",
+      "adapters/step360",
+      "--repetitions",
+      "4",
+      "--max-new-tokens",
+      "1024",
+      "--retry-control"
+    ],
+    "inputs": {
+      "data/states/validation.jsonl": "aee3343d5f384cb4fd543c2ce2291269bc1a2cca8e89f600a8f51e3feb471a64",
+      "adapters/step360/adapter_model.safetensors": "24ff5bc676b1841d2c7c0347020442129763bcd148e86d6ea955cb73ac2873b8"
+    }
+  },
+  "time": 1792377042.8498468,
+  "outputs": {
+    "data/evaluations/step360/validation_0.jsonl": "e72f1d3d453d3c0659cba408126355910e0879f9660e5a3b132a7c0183e21258",
+    "data/evaluations/step360/validation_0.jsonl.manifest.json": "ae71cf35abb60238718b3987e18d8c861a4d38747cc2ae9646d0268aae5b4bf8",
+    "data/evaluations/step360/validation_1.jsonl": "2be6d8c932e76939e2e2199c7e1cc6891b1925d2703ead85f33e9af4dc977fed",
+    "data/evaluations/step360/validation_1.jsonl.manifest.json": "0590f958ed7fa34ee74d4c942cebb4e08d339a2ed78c31c3aadf040869e0c7b8",
+    "data/evaluations/step360/validation_2.jsonl": "329efd8ea79994f1222ed110efdcaa0c86d37b2a5f06cdd415bb8818000ea44e",
+    "data/evaluations/step360/validation_2.jsonl.manifest.json": "5e272b1c86a72459005ed8e416418cf2ab9e64368ee579685c5ba0f94e5fb525",
+    "data/evaluations/step360/validation_3.jsonl": "a535bbdae039c5c22ef30dd88ad530e77f7784ce70c37b3f0df0e0d63a9bd1b6",
+    "data/evaluations/step360/validation_3.jsonl.manifest.json": "bf2d828e54b63678c0a6d9f2e42e9c9e46701c1d831283d8cf4e285d34b7ef64",
+    "data/evaluations/step360/validation_4.jsonl": "579fecc3fc7382c859b1f15c34c998ae2241c0712eb736ad3e7bc4fecb5b8852",
+    "data/evaluations/step360/validation_4.jsonl.manifest.json": "a43f42927285c6662feee178314a7b8a83c76f64f07ef9a6bf0d00546d0796f2",
+    "data/evaluations/step360/validation_5.jsonl": "4f7f102538a8bf22e02eb735f220417e310c787b9e00f4e27e80cf216b30dded",
+    "data/evaluations/step360/validation_5.jsonl.manifest.json": "06cf08000634271c468b6e603c6d2f0ccffb4dd7a23c530ac86d52b6014369c5",
+    "data/evaluations/step360/validation_6.jsonl": "367ea84e2ee9531817b086fda6c1dbf839b182a4cc99371da5e689478fd6402c",
+    "data/evaluations/step360/validation_6.jsonl.manifest.json": "bbb4bff058e561f0884645b925592f462c8ea90ac3faca87c306355b8dc137a9",
+    "data/evaluations/step360/validation_7.jsonl": "e8610c12e67b21ba924dec073a22d4dea0b433bad467b85fdee2337c4cf3ddd9",
+    "data/evaluations/step360/validation_7.jsonl.manifest.json": "7070a3d11f98c27f395e0eb8007813899116e6338b6838d9dae4484114faf9a4"
+  }
+}

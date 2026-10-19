@@ -1,0 +1,11 @@
+{
+  "pilot_checkpoint_bytes": 423058402,
+  "formal_checkpoint_count": 10,
+  "budget_per_checkpoint_bytes": 1073741824,
+  "current_used_bytes": 2326777856,
+  "additional_budget_bytes": 26575110144,
+  "reserve_bytes": 21474836480,
+  "quota_bytes": 107374182400,
+  "required_bytes": 50376724480,
+  "fits": true
+}

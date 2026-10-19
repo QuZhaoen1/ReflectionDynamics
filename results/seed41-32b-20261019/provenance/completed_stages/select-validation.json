@@ -1,0 +1,42 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "-m",
+      "refldyn.cli",
+      "select",
+      "--drafts",
+      "data/drafts/validation_0.jsonl",
+      "data/drafts/validation_1.jsonl",
+      "data/drafts/validation_2.jsonl",
+      "data/drafts/validation_3.jsonl",
+      "data/drafts/validation_4.jsonl",
+      "data/drafts/validation_5.jsonl",
+      "data/drafts/validation_6.jsonl",
+      "data/drafts/validation_7.jsonl",
+      "--split",
+      "validation",
+      "--minimum-samples",
+      "8",
+      "--output-dir",
+      "data/states",
+      "--output-file",
+      "data/states/validation.jsonl"
+    ],
+    "inputs": {
+      "data/drafts/validation_0.jsonl": "8869ef6940d449997f78c1b0510a8a02aa84a81572a8d9a4aad2ef96801e53ed",
+      "data/drafts/validation_1.jsonl": "d4390ccb2fc5e8f37477cfaf4d8c678b670844cac1f8760c72894e20d6e1aaaa",
+      "data/drafts/validation_2.jsonl": "5cc50e10259c12d795f4261d6a9360b673cd386c3d2b09f6df741ed52bd2230a",
+      "data/drafts/validation_3.jsonl": "d2ed6260030404aceb4c5470b4c61e6372aced9cf42ff27945c95f9e29724cfd",
+      "data/drafts/validation_4.jsonl": "770ea88a209dc805880b1e42e5d5525be198d42842e3764ae0e36d56d1da5bf2",
+      "data/drafts/validation_5.jsonl": "3f98112c87a6a8b1db649f4398badf740e956a21878cf0410683e0550965e8e8",
+      "data/drafts/validation_6.jsonl": "db3fa179cd35fa3be2a3f2374da8e4d56b95ade351e1435798b7f867aaa6f000",
+      "data/drafts/validation_7.jsonl": "2d003b117942584527f3ed709521c571e15f45f20a5cb9a664315e82a295b181"
+    }
+  },
+  "time": 1792219053.4907765,
+  "outputs": {
+    "data/states/validation.jsonl": "aee3343d5f384cb4fd543c2ce2291269bc1a2cca8e89f600a8f51e3feb471a64",
+    "data/states/validation.manifest.json": "b4ea1f72a67967c9182a60b1c5e5c7c2136c6a8b27e97fba12f2500e345efb28"
+  }
+}

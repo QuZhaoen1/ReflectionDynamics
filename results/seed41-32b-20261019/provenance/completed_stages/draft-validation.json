@@ -1,0 +1,37 @@
+{
+  "signature": {
+    "command": [
+      "draft",
+      "--questions",
+      "data/corpus/validation.jsonl",
+      "--limit",
+      "300",
+      "--samples",
+      "8",
+      "--max-new-tokens",
+      "1536"
+    ],
+    "inputs": {
+      "data/corpus/validation.jsonl": "a97695707d5b88a734bc7031fd22aeac7f4975e2a1f71f0a6b5c8cfcee18d208"
+    }
+  },
+  "time": 1792219053.0733116,
+  "outputs": {
+    "data/drafts/validation_0.jsonl": "8869ef6940d449997f78c1b0510a8a02aa84a81572a8d9a4aad2ef96801e53ed",
+    "data/drafts/validation_0.jsonl.manifest.json": "a46f2d6b13f20d6963300061bc713f9c18edfaac550d7cc7f38b46dd6b7dee43",
+    "data/drafts/validation_1.jsonl": "d4390ccb2fc5e8f37477cfaf4d8c678b670844cac1f8760c72894e20d6e1aaaa",
+    "data/drafts/validation_1.jsonl.manifest.json": "31b2e277b7fe11df7ce53cd16a0aac9e9a39bb4ec43ca3dbf57dd241f4ec2266",
+    "data/drafts/validation_2.jsonl": "5cc50e10259c12d795f4261d6a9360b673cd386c3d2b09f6df741ed52bd2230a",
+    "data/drafts/validation_2.jsonl.manifest.json": "c0f0766103708adf6d9c4c27cada328c8bfe1fbcef2490b9226a97a1e65885ce",
+    "data/drafts/validation_3.jsonl": "d2ed6260030404aceb4c5470b4c61e6372aced9cf42ff27945c95f9e29724cfd",
+    "data/drafts/validation_3.jsonl.manifest.json": "40aee5a026f6fd0fe7590d69c9d719dda9a0b2c9a044d89272ae67e9695ab06c",
+    "data/drafts/validation_4.jsonl": "770ea88a209dc805880b1e42e5d5525be198d42842e3764ae0e36d56d1da5bf2",
+    "data/drafts/validation_4.jsonl.manifest.json": "7d4cf15c1be2a6c353eb2000f39ff2deda327ed3bcdc4757ff6b4b5498a96518",
+    "data/drafts/validation_5.jsonl": "3f98112c87a6a8b1db649f4398badf740e956a21878cf0410683e0550965e8e8",
+    "data/drafts/validation_5.jsonl.manifest.json": "af9d66ae9672ed3b1a897a23be19119765f4c24af0da9d5c455ac430b8ad916c",
+    "data/drafts/validation_6.jsonl": "db3fa179cd35fa3be2a3f2374da8e4d56b95ade351e1435798b7f867aaa6f000",
+    "data/drafts/validation_6.jsonl.manifest.json": "761bd174751890f897e7f0b2664aae6263c49a0d147f68cdb0383fbae4227ecc",
+    "data/drafts/validation_7.jsonl": "2d003b117942584527f3ed709521c571e15f45f20a5cb9a664315e82a295b181",
+    "data/drafts/validation_7.jsonl.manifest.json": "7a857323c7caace44d3832394cde519561ace38c5e147b4f68e025c0c5c981d0"
+  }
+}

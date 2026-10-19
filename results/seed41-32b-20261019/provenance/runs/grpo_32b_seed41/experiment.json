@@ -1,0 +1,43 @@
+{
+  "config": {
+    "data": "data/states/train.jsonl",
+    "model": "Qwen/Qwen2.5-32B",
+    "training": {
+      "accumulate": 4,
+      "beta": 0.0,
+      "deepspeed": "configs/zero3_80gb.json",
+      "ds3_gather_for_generation": true,
+      "learning_rate": 2e-06,
+      "logging_steps": 1,
+      "lora": {
+        "alpha": 32,
+        "r": 16,
+        "target_modules": [
+          "q_proj",
+          "k_proj",
+          "v_proj",
+          "o_proj"
+        ]
+      },
+      "max_completion_length": 896,
+      "max_prompt_tokens": 3200,
+      "max_steps": 400,
+      "micro_batch_size": 1,
+      "minimum_gpu_gib": 79,
+      "num_generations": 4,
+      "output_dir": "runs/grpo_32b_seed41",
+      "save_steps": 40,
+      "save_total_limit": 16,
+      "seed": 41,
+      "use_vllm": false,
+      "warmup_ratio": 0.03
+    }
+  },
+  "data": "data/states/train.jsonl",
+  "data_sha256": "dbee9578aca59d68cef662438e5e7251dbb11153d101c355293dadc5bd8e41ee",
+  "init_adapter": null,
+  "model": "Qwen/Qwen2.5-32B",
+  "outcome_reward_only": true,
+  "pilot": false,
+  "sample_count": 600
+}
