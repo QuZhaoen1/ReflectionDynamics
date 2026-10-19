@@ -1,0 +1,12 @@
+{
+  "global_step": 400,
+  "last_checkpoint": "runs/grpo_32b_seed41/checkpoint-400",
+  "note": "Complete ZeRO checkpoint saved; standalone adapters exported by pipeline.",
+  "optimizer_steps": [
+    400.0
+  ],
+  "pilot": false,
+  "sample_count": 600,
+  "success": true,
+  "world_size": 8
+}

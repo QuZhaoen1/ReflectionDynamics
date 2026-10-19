@@ -1,0 +1,40 @@
+{
+  "signature": {
+    "command": [
+      "evaluate",
+      "--states",
+      "data/states/train_candidates.jsonl",
+      "--checkpoint",
+      "base",
+      "--limit",
+      "1200",
+      "--repetitions",
+      "4",
+      "--max-new-tokens",
+      "1024",
+      "--retry-control"
+    ],
+    "inputs": {
+      "data/states/train_candidates.jsonl": "465e6abc503a4b7da8f60cb843aa4d3ed9633e5c38d11d263f8ba97812b95f92"
+    }
+  },
+  "time": 1792235125.4198742,
+  "outputs": {
+    "data/evaluations/train_probe/train_0.jsonl": "5dee0093971afb9b7d6bb20aec7d8d04863afba69270ff1c98d763799f271882",
+    "data/evaluations/train_probe/train_0.jsonl.manifest.json": "988674eda9dcdb7686424e39882a50041d525eb8e417c70395ac20855caac0bf",
+    "data/evaluations/train_probe/train_1.jsonl": "d559a1cea8ed35a75b7969bc724c023f3b29f19bbdd59695c782dd2c75677b40",
+    "data/evaluations/train_probe/train_1.jsonl.manifest.json": "46d7037c63777546fe1622a2ae39504b7e4e2dfc358071a6445d2dccbd9f146e",
+    "data/evaluations/train_probe/train_2.jsonl": "ada7dc74bd2de10d629a4abf3492288d9de3f1efdc69ede9d9503f8e3538c14c",
+    "data/evaluations/train_probe/train_2.jsonl.manifest.json": "5dc484d3426d0bcae70b3df8ab703837661a5b592029b077b552f1a11b3d642e",
+    "data/evaluations/train_probe/train_3.jsonl": "bf9988a5a89d04207924321d49bc5d6e4fffa1382d39bd61e1d2743d41cc2641",
+    "data/evaluations/train_probe/train_3.jsonl.manifest.json": "ad5b891af36c7a52fdc50737733de12d6e6c1a6b71e9d6508be9a6632295d304",
+    "data/evaluations/train_probe/train_4.jsonl": "beb2da0c36ddffd19b10a9bf5f8527e7a1e4b2eff8b962a1f6fb2c2ea5f1130f",
+    "data/evaluations/train_probe/train_4.jsonl.manifest.json": "0313cfa0ed2fdba6663854eb99b0e27002dc16b5fc37fa792ab1deded617ec76",
+    "data/evaluations/train_probe/train_5.jsonl": "64a36db699794427f1455bdc27e62a07b52f30d8676f21328c12d81662621ed5",
+    "data/evaluations/train_probe/train_5.jsonl.manifest.json": "349c3f1460cdff0450514d7859299019abd3944f4360e4bdd1ba858bcd13a0e2",
+    "data/evaluations/train_probe/train_6.jsonl": "08ef40fedb33a293c02afa2ebc2592e8fc077687bf49b348b117ae3cb3dc51a5",
+    "data/evaluations/train_probe/train_6.jsonl.manifest.json": "d7b98f5316068e7a70732c88215b4b0a28e2c46df6c28567b793018ba65623bd",
+    "data/evaluations/train_probe/train_7.jsonl": "46f6d56dd3604a80b302110b6bb7c986d1d28675a035efd80a30223c46b92291",
+    "data/evaluations/train_probe/train_7.jsonl.manifest.json": "2319ea2723ead9d2003a395b210feacd8d23674766f60e5b7dd80d116ecfda6d"
+  }
+}

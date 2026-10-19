@@ -1,0 +1,19 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "-m",
+      "refldyn.cli",
+      "preflight",
+      "--config",
+      "configs/grpo_32b_a10080.yaml",
+      "--check-gpu"
+    ],
+    "inputs": {
+      "configs/grpo_32b_a10080.yaml": "82372dc6b4da80fa16f5209c481d0388a0ad82fe77089a49279b166480b15ecd",
+      "configs/zero3_80gb.json": "f9a346121dd014709d101e5e3560ae7e48b93abae2c3bc12d7ae3eed05c35978"
+    }
+  },
+  "time": 1792241242.0647168,
+  "outputs": {}
+}

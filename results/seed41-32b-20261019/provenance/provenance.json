@@ -1,0 +1,29 @@
+{
+  "base_source_commit": "6f2e91eb7d22bd65ab44b4815be823fa03878e1f",
+  "model_revision": "1818d35814b8319459f4bd55ed1ac8709630f003",
+  "reused_drafts": 2720,
+  "seed": 41,
+  "train_candidate_questions": 1600,
+  "validation_questions": 300,
+  "probe_states": 1200,
+  "curation_target": 600,
+  "pilot_steps": 8,
+  "training_steps": 400,
+  "checkpoint_steps": [
+    40,
+    80,
+    120,
+    160,
+    200,
+    240,
+    280,
+    320,
+    360,
+    400
+  ],
+  "gpu_count": 8,
+  "gpu_memory_required_gib": 79,
+  "explicit_wall_time_limit": null,
+  "evaluation_scope": "fixed validation panel for base + 10 checkpoints; excludes full test and additional seeds",
+  "source_patch_sha256": "bb9d8e3d3768132f030898dca475664eca42134c7860b6173aa45b67d5feab89"
+}

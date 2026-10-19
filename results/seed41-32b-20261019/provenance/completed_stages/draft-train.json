@@ -1,0 +1,37 @@
+{
+  "signature": {
+    "command": [
+      "draft",
+      "--questions",
+      "data/corpus/train.jsonl",
+      "--limit",
+      "1600",
+      "--samples",
+      "8",
+      "--max-new-tokens",
+      "1536"
+    ],
+    "inputs": {
+      "data/corpus/train.jsonl": "09e0a6b1584b899e6daa739d5fd85a1eec7d0a3a0b0352ec7e2d49713e58cc91"
+    }
+  },
+  "time": 1792213974.739717,
+  "outputs": {
+    "data/drafts/train_0.jsonl": "7c4948e47f0ce072fa5b974d0da08aa5cb025d97577a3cb3cbc6adeb366addb0",
+    "data/drafts/train_0.jsonl.manifest.json": "d0c965d6de1303a3ab6a8acffe27136325cfe74a190117d93c6be63a2f14de33",
+    "data/drafts/train_1.jsonl": "5948640c16ff1b56cc51da485a457f052b88b756875699b4bc3138940ac83597",
+    "data/drafts/train_1.jsonl.manifest.json": "32fd43515a441bb87101f07b1d547ace992079ca5b62e8e06ae31668a112ebbd",
+    "data/drafts/train_2.jsonl": "6d7556c960c054f9d4eb185695b68c319d8bf2c59d3be42358ee0ac608dd61ce",
+    "data/drafts/train_2.jsonl.manifest.json": "765822afcf005f5ad5938553b27abc0dc74601536dc6f7f2327ed796ef3561a2",
+    "data/drafts/train_3.jsonl": "568b436a636fd293b9cd97af45f129b7a60bc0b6007a27f857eab9c7685f7a59",
+    "data/drafts/train_3.jsonl.manifest.json": "32aebf29ef28718443e39ea44ab8244933d46d784c23c9a2878cc26278a5a679",
+    "data/drafts/train_4.jsonl": "4128356e7a631cd06c777401e733e2415bd0b900b8d415fc62bf4516cab35a5c",
+    "data/drafts/train_4.jsonl.manifest.json": "fea5c6656f65da084870f16bc1c69b4921f4ea497214fd4a809a3bd9cfb338c1",
+    "data/drafts/train_5.jsonl": "77e6051c42ff383de9ff8fcb3650d7a0f65c0287f0195c401ea2b559b0c3389c",
+    "data/drafts/train_5.jsonl.manifest.json": "77224bc6bac010837b816a6013e8acb5d055eb9fd09ef30fa3a033391d0d655f",
+    "data/drafts/train_6.jsonl": "e0cd5be336f5969bed4060e0e90381c12912a1959b34edc7d61bf56505467ac9",
+    "data/drafts/train_6.jsonl.manifest.json": "f16e7991f692c547599d27b350b42c30d80d7a5f7e48e6ad5023302ea1338f4e",
+    "data/drafts/train_7.jsonl": "c6b5ea87a3313598fd2c7acbfc509149ad72f195680619937167b04e4d24a8fe",
+    "data/drafts/train_7.jsonl.manifest.json": "6823e850f09feb162da8b10f8d1adb425d19643cf54fbffca21c9d88d63eebda"
+  }
+}

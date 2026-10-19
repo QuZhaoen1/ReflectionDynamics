@@ -1,0 +1,20 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "export_adapter.py",
+      "runs/pilot_seed41/checkpoint-8",
+      "adapters/pilot-step8"
+    ],
+    "inputs": {
+      "runs/pilot_seed41/checkpoint-8/trainer_state.json": "26b9c99ae2d85d5d462b1ef301b63eebea5a588fe28b3c634eefcd2b3529303a",
+      "runs/pilot_seed41/checkpoint-8/adapter_config.json": "d357afe73d1fd3076d2a47827e31505b76247d624e411ad7bb5050b66be075a3"
+    }
+  },
+  "time": 1792242629.5698826,
+  "outputs": {
+    "adapters/pilot-step8/adapter_model.safetensors": "9c4c0ca36670443827ee4b19e3780f5c2afae5ddc979ce35e6185f597075f8d4",
+    "adapters/pilot-step8/adapter_config.json": "d357afe73d1fd3076d2a47827e31505b76247d624e411ad7bb5050b66be075a3",
+    "adapters/pilot-step8/export-result.json": "20205331ccc03cdda53f70ff94d7c560d3a0392e401cd43f1cbad9f29639192d"
+  }
+}

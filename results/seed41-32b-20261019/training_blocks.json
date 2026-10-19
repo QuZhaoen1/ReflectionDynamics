@@ -1,0 +1,42 @@
+[
+  {
+    "first_step": 1,
+    "last_step": 50,
+    "reward": 0.22,
+    "completions/mean_length": 169.920625,
+    "entropy": 1.0703381982445717,
+    "frac_reward_zero_std": 0.5075
+  },
+  {
+    "first_step": 51,
+    "last_step": 100,
+    "reward": 0.234375,
+    "completions/mean_length": 186.301875,
+    "entropy": 1.035362763851881,
+    "frac_reward_zero_std": 0.4875
+  },
+  {
+    "first_step": 101,
+    "last_step": 200,
+    "reward": 0.2615625,
+    "completions/mean_length": 167.2165625,
+    "entropy": 0.9774972702562809,
+    "frac_reward_zero_std": 0.49
+  },
+  {
+    "first_step": 201,
+    "last_step": 300,
+    "reward": 0.301875,
+    "completions/mean_length": 145.4984375,
+    "entropy": 0.8641422324627638,
+    "frac_reward_zero_std": 0.50875
+  },
+  {
+    "first_step": 301,
+    "last_step": 400,
+    "reward": 0.3559375,
+    "completions/mean_length": 128.1109375,
+    "entropy": 0.7912057141959667,
+    "frac_reward_zero_std": 0.50625
+  }
+]

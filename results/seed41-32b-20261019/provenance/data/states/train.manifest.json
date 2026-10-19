@@ -1,0 +1,16 @@
+{
+  "correct_states": 863,
+  "difficulty_bins_before_filter": {
+    "easy": 732,
+    "hard": 230,
+    "middle": 599
+  },
+  "easy_keep": 0.3,
+  "hard_keep": 0.5,
+  "min_valid_rate": 0.75,
+  "minimum_samples": 8,
+  "problems": 935,
+  "states": 1613,
+  "states_file": "data/states/train_candidates.jsonl",
+  "states_sha256": "465e6abc503a4b7da8f60cb843aa4d3ed9633e5c38d11d263f8ba97812b95f92"
+}

@@ -1,0 +1,20 @@
+{
+  "signature": {
+    "command": [
+      "/personal_fast_storage/reflectiondynamics/envs/py311-torch291/bin/python",
+      "export_adapter.py",
+      "runs/grpo_32b_seed41/checkpoint-400",
+      "adapters/step400"
+    ],
+    "inputs": {
+      "runs/grpo_32b_seed41/checkpoint-400/trainer_state.json": "944784448d55a5b92626f031b2f8a0969e6ef4d079ef0d41971b10c5ad98d6eb",
+      "runs/grpo_32b_seed41/checkpoint-400/adapter_config.json": "e12d1c93e3725a80cd16fbbfb72739515b52bc61e6b27fd63589b9bc2270fe37"
+    }
+  },
+  "time": 1792377049.87995,
+  "outputs": {
+    "adapters/step400/adapter_model.safetensors": "b093f7ceabda364fdd6887bffa1ad4c0c1e3d1dd7acb2f3c9d594b1aed24b4dc",
+    "adapters/step400/adapter_config.json": "e12d1c93e3725a80cd16fbbfb72739515b52bc61e6b27fd63589b9bc2270fe37",
+    "adapters/step400/export-result.json": "2985ec5f4af87fe29ae3a085eb53fa92e48ea5c7275b662d209aa0d9737bef3e"
+  }
+}

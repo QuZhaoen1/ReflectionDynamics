@@ -1,0 +1,41 @@
+{
+  "signature": {
+    "command": [
+      "evaluate",
+      "--states",
+      "data/states/validation.jsonl",
+      "--checkpoint",
+      "step80",
+      "--adapter",
+      "adapters/step80",
+      "--repetitions",
+      "4",
+      "--max-new-tokens",
+      "1024",
+      "--retry-control"
+    ],
+    "inputs": {
+      "data/states/validation.jsonl": "aee3343d5f384cb4fd543c2ce2291269bc1a2cca8e89f600a8f51e3feb471a64",
+      "adapters/step80/adapter_model.safetensors": "ed0989f6176476ab1e00fa7fafc5006db44e6685a930c5722bf9e9e2858b6da7"
+    }
+  },
+  "time": 1792319358.0539126,
+  "outputs": {
+    "data/evaluations/step80/validation_0.jsonl": "c06413de4bc6ec0879c2c5bb8ad270f372a9901f6388f4d6e284fd386f4d05aa",
+    "data/evaluations/step80/validation_0.jsonl.manifest.json": "ed0332fbd743def2713589b7c6bdf7228988ef20ba11ac920d248ac05773834b",
+    "data/evaluations/step80/validation_1.jsonl": "59512e019f5fc8da65b4bfe138dcd39219c1a0cf0bbb009266ce7cb2961f4581",
+    "data/evaluations/step80/validation_1.jsonl.manifest.json": "809119350082d23be09e1f8525d6a91cfa8624875f1e2b6a9134e374aa3c67d4",
+    "data/evaluations/step80/validation_2.jsonl": "05276d6929b2d0fca5288353cdd44439d924b06b667d9ad5083009ef927ad779",
+    "data/evaluations/step80/validation_2.jsonl.manifest.json": "480cd9c090a5e0b0cec794567ecd81c11502292875b81036461576986d8eeceb",
+    "data/evaluations/step80/validation_3.jsonl": "c2f1c064149e9371ec45f190fff45ef14407047d968ce9ce57837f8a2a4a544f",
+    "data/evaluations/step80/validation_3.jsonl.manifest.json": "1200eb84839145304908bf3aa67a707a24008d22aea61045269d38b849f789c8",
+    "data/evaluations/step80/validation_4.jsonl": "b1f38f68f4a7492982c1a2141014d51a5cbbdec1ca3eb975eeef6fef74315ca7",
+    "data/evaluations/step80/validation_4.jsonl.manifest.json": "cd3d8b3a345551377499a519cbdd05beb6f41f5c54324309d2446c0bcde6d4e9",
+    "data/evaluations/step80/validation_5.jsonl": "ad7ebc7930961ff8838f7917ff1fe65b71b691124ce686301123a1aa1fde116e",
+    "data/evaluations/step80/validation_5.jsonl.manifest.json": "1a24adb6390d5be086e40b2772c13bea46b9306e8c59edc0fa2254144dae30a7",
+    "data/evaluations/step80/validation_6.jsonl": "cd4b7238aca9978d6c4b2be612553ab73054fa05dc7805e4987911e6e24659e2",
+    "data/evaluations/step80/validation_6.jsonl.manifest.json": "99754d147a26ad897f441a90b4e179bdb6b54d528847e437e502d3df877a315a",
+    "data/evaluations/step80/validation_7.jsonl": "d9787faaaf0ec1dbb912fb3a7e0595030eb013eeb3fa32ee82ea8b4a0cbdde28",
+    "data/evaluations/step80/validation_7.jsonl.manifest.json": "f2de29d9959157c327a70c19a29b0522fe05f300184bc2483a96787b0d47a5c9"
+  }
+}

@@ -1,0 +1,141 @@
+--- a/src/refldyn/checks.py
++++ b/src/refldyn/checks.py
+@@ -21,7 +21,7 @@
+         raise ValueError("32B profile requires ZeRO-3")
+     if tune.get("use_vllm"):
+         raise ValueError("This sharded generation profile does not use vLLM")
+-    if tune.get("ds3_gather_for_generation", False):
++    if tune.get("ds3_gather_for_generation", False) and int(tune.get("minimum_gpu_gib", 36)) < 79:
+         raise ValueError("Do not gather the 32B model onto one A100 during generation")
+     if not ds["zero_optimization"].get("offload_param"):
+         raise ValueError("CPU parameter offloading missing")
+@@ -54,7 +54,7 @@
+     args = parser.parse_args()
+     result = inspect_config(args.config)
+     if args.check_gpu:
+-        result["gpus"] = preflight_gpu()
++        result["gpus"] = preflight_gpu(minimum_gib=int(read_yaml(args.config)["training"].get("minimum_gpu_gib", 36)))
+     print(json.dumps(result, indent=2, ensure_ascii=False))
+ 
+ 
+--- a/src/refldyn/evaluate.py
++++ b/src/refldyn/evaluate.py
+@@ -113,7 +113,7 @@
+         observation["model"] = args.model
+         observation["adapter"] = args.adapter
+         results.append(observation)
+-        if idx % 10 == 0:
++        if idx % 1 == 0:
+             results.sort(key=lambda record: record["id"])
+             save_jsonl(output, results)
+             manifest["count"] = len(results)
+--- a/src/refldyn/rollouts.py
++++ b/src/refldyn/rollouts.py
+@@ -103,7 +103,7 @@
+             draft["model"] = args.model
+             draft["adapter"] = args.adapter
+             records.append(draft)
+-        if index % 20 == 0:
++        if index % 1 == 0:
+             save_jsonl(path, records)
+             manifest["rows"] = len(records)
+             write_json(manifest_path, manifest)
+--- a/src/refldyn/train_grpo.py
++++ b/src/refldyn/train_grpo.py
+@@ -42,15 +42,19 @@
+         cfg["training"]["seed"] = args.seed_override
+     if args.output_dir_override is not None:
+         cfg["training"]["output_dir"] = args.output_dir_override
+-    if not args.pilot:
+-        verify_gate(args.gate_report, model_id, train_path)
++    verify_gate(args.gate_report, model_id, train_path)
+     train_states = list(load_jsonl(train_path))
+     records = prepare_training_records(train_states, model_id, args.pilot)
++
++    if not args.pilot:
++        from storage_guard import check_full_run_budget
++        check_full_run_budget(cfg['training'])
+ 
+     from datasets import Dataset
+     from peft import LoraConfig
+     from transformers import AutoTokenizer
+     from trl import GRPOConfig, GRPOTrainer
++    from training_observer import Audit
+ 
+     tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=False)
+     tokenizer.padding_side = "left"
+@@ -59,8 +63,16 @@
+     tuning = cfg["training"]
+     maximum = int(tuning.get("max_prompt_tokens", 2450))
+     ready = [item for item in records if len(tokenizer.encode(item["prompt"], add_special_tokens=False)) <= maximum]
++    if not args.pilot:
++        ready_ids = {item["state_id"] for item in ready}
++        filtered_report = assess_train([row for row in train_states if row["id"] in ready_ids], model_id)
++        if not filtered_report["size_pass"] or not filtered_report["balanced"]:
++            raise ValueError("Prompt length filtering invalidated the training size or balance")
+     if args.pilot:
+-        ready = ready[:32]
++        # Include long real prompts in the pilot to exercise memory demand.
++        longest = sorted(ready, key=lambda item: len(tokenizer.encode(item["prompt"], add_special_tokens=False)), reverse=True)[:4]
++        picked = {item["state_id"] for item in longest}
++        ready = longest + [item for item in ready if item["state_id"] not in picked][:28]
+     if len(ready) < 8:
+         raise ValueError("Too few correctly sized prompts")
+     settings = GRPOConfig(
+@@ -77,14 +89,15 @@
+         bf16=True,
+         seed=int(tuning.get("seed", 41)),
+         logging_steps=int(tuning.get("logging_steps", 5)),
+-        save_steps=int(tuning.get("save_steps", 50)),
++        save_steps=8 if args.pilot else int(tuning.get("save_steps", 50)),
++        disable_tqdm=True,
+         save_total_limit=int(tuning.get("save_total_limit", 20)),
+         report_to="none",
+         remove_unused_columns=False,
+         gradient_checkpointing=True,
+         gradient_checkpointing_kwargs={"use_reentrant": True},
+         use_vllm=False,
+-        ds3_gather_for_generation=False,
++        ds3_gather_for_generation=bool(tuning.get("ds3_gather_for_generation", False)),
+         deepspeed=str(tuning.get("deepspeed", "configs/zero3_cpu.json")),
+         loss_type="dr_grpo",
+         mask_truncated_completions=True,
+@@ -95,16 +108,35 @@
+                          target_modules=lora["target_modules"], task_type="CAUSAL_LM")
+     trainer = GRPOTrainer(model=model_id, args=settings, reward_funcs=outcome_reward,
+                           train_dataset=Dataset.from_list(ready), processing_class=tokenizer,
+-                          peft_config=adapter)
++                          peft_config=adapter, callbacks=[Audit()])
+     if trainer.is_world_process_zero():
+         write_json(Path(settings.output_dir) / "experiment.json", {
+             "model": model_id, "data": train_path, "data_sha256": checksum_file(train_path),
+             "sample_count": len(ready), "pilot": args.pilot, "config": cfg,
+             "outcome_reward_only": True, "init_adapter": None})
+     trainer.train(resume_from_checkpoint=args.resume)
+-    trainer.save_model(str(Path(settings.output_dir) / "final_adapter"))
++    import math
++    import torch
++    import torch.distributed as dist
++    if dist.is_initialized():
++        dist.barrier()
++    expected = 8 if args.pilot else int(tuning["max_steps"])
++    steps = [float(s["step"]) for s in trainer.model_wrapped.optimizer.optimizer.state.values() if "step" in s]
++    assert trainer.state.global_step == expected and steps and all(step == expected for step in steps)
+     if trainer.is_world_process_zero():
+-        tokenizer.save_pretrained(str(Path(settings.output_dir) / "final_adapter"))
++        norms = [float(row["grad_norm"]) for row in trainer.state.log_history if "grad_norm" in row]
++        assert norms and all(math.isfinite(v) for v in norms) and any(v > 0 for v in norms), norms
++        checkpoint = Path(settings.output_dir) / f"checkpoint-{expected}"
++        assert (checkpoint / "trainer_state.json").exists()
++        assert len(list(checkpoint.glob("**/*optim_states.pt"))) == 8
++        write_json(Path(settings.output_dir) / "training-success.json", {
++            "success": True, "global_step": trainer.state.global_step, "pilot": args.pilot,
++            "sample_count": len(ready), "optimizer_steps": steps,
++            "last_checkpoint": str(checkpoint), "world_size": 8,
++            "note": "Complete ZeRO checkpoint saved; standalone adapters exported by pipeline."})
++    if dist.is_initialized():
++        dist.barrier()
++        dist.destroy_process_group()
+ 
+ 
+ if __name__ == "__main__":

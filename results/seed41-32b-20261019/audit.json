@@ -1,0 +1,16 @@
+{
+  "optimizer_steps": 400,
+  "mean_step_seconds": 151.6669150688313,
+  "peak_rank0_allocated_gib": 64.32466459274292,
+  "bootstrap_resamples": 5000,
+  "bootstrap_seed": 41,
+  "interval_unit": "original problem cluster; state-weighted statistic",
+  "excluded_metrics": [
+    "reflection_propensity",
+    "selectivity",
+    "policy_utility",
+    "frequency_matched_random",
+    "oracle_regret",
+    "cross_checkpoint_policy_execution"
+  ]
+}

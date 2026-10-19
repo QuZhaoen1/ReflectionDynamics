@@ -1,0 +1,7 @@
+{
+  "stage": "seed41_validation_complete",
+  "time": 1792385254.630385,
+  "train_question_target": 1600,
+  "validation_question_target": 300,
+  "note": "400 training steps and ten fixed-panel validation checkpoints complete. Full MATH test and extra seeds are not included."
+}
