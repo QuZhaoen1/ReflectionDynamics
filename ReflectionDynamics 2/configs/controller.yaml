@@ -1,0 +1,12 @@
+architecture: shared_mlp
+hidden: 128
+ensemble_seeds: [41, 73, 107]
+epochs: 120
+batch_size: 64
+learning_rate: 0.001
+patience: 15
+heads: [correctness, repair, damage, direct_utility, reflection_cost, retry_correctness, retry_cost]
+probe_repetitions: 16
+primary_cost_weight_per_1000_tokens: 0.05
+cost_sensitivity: [0.0, 0.05, 0.2]
+reflection_call_budgets: [0.1, 0.3, 0.5, 0.7]

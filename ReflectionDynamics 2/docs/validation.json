@@ -1,0 +1,80 @@
+{
+  "release": "0.5.0",
+  "date": "2026-10-19",
+  "python": "3.13.5",
+  "packages": {
+    "torch": "2.10.0+cpu",
+    "numpy": "2.3.5",
+    "pytest": "9.0.2",
+    "safetensors": "0.7.0",
+    "PyYAML": "6.0.3",
+    "matplotlib": "3.10.8",
+    "pandas": "2.2.3"
+  },
+  "tests": {
+    "tests": 134,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "checks": {
+    "editable_install": true,
+    "rd5_entrypoint": true,
+    "python_compile": true,
+    "shell_syntax": true,
+    "yaml_json_toml": true,
+    "fixture_pipeline": true,
+    "fixture_pipeline_resume": true,
+    "workflow_cli_plans": {
+      "crossed": {
+        "parsed_commands": 37,
+        "training_launch_commands": 0
+      },
+      "frozen": {
+        "parsed_commands": 40,
+        "training_launch_commands": 0
+      },
+      "measurement": {
+        "parsed_commands": 155,
+        "training_launch_commands": 0
+      },
+      "no_refresh": {
+        "parsed_commands": 48,
+        "training_launch_commands": 3
+      },
+      "online": {
+        "parsed_commands": 119,
+        "training_launch_commands": 3
+      },
+      "ood_aime": {
+        "parsed_commands": 13,
+        "training_launch_commands": 0
+      },
+      "ood_gsm8k": {
+        "parsed_commands": 13,
+        "training_launch_commands": 0
+      },
+      "ood_humaneval": {
+        "parsed_commands": 13,
+        "training_launch_commands": 0
+      },
+      "ood_math": {
+        "parsed_commands": 13,
+        "training_launch_commands": 0
+      },
+      "uniform": {
+        "parsed_commands": 116,
+        "training_launch_commands": 3
+      }
+    }
+  },
+  "not_executed": [
+    "32B backbone generation",
+    "32B distributed GRPO",
+    "real GPU checkpoint recovery",
+    "public benchmark downloads",
+    "Docker code execution",
+    "real Qwen tokenizer audit"
+  ],
+  "scope": "CPU software and controller integration; no new scientific performance results"
+}
