@@ -1,0 +1,11 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/online/no_refresh/round3-states.jsonl": "1d1d007313ff28352d9c7108b79f8a952dab7392fc6826bafaab81a138ef5df2"
+  },
+  "completed": 1793746595.2603068,
+  "result": {
+    "states": 245
+  },
+  "signature": "d84762516a374993048f70d0dc1933386223c908c14f31abc792ecaa2b8ab89a",
+  "started": 1793746594.9435284
+}

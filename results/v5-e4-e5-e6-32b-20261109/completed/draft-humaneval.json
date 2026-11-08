@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/drafts/humaneval/base-0.jsonl": "d4ae2f3754c952cfb821446005ad7abf1607094896ff80294ea835f14e28229c",
+    "${RUN_ROOT}/drafts/humaneval/base-0.jsonl.complete.json": "fe83a4610ebd201fa96b34f2bfbef41929975708c11a6576e9976491931790f7",
+    "${RUN_ROOT}/drafts/humaneval/base-0.jsonl.manifest.json": "d5f7364338f77120b05f87412b93906e2b947be55e2ca587b73e7ac374c25a04",
+    "${RUN_ROOT}/drafts/humaneval/base-1.jsonl": "97be604db792b42dfcc81405602b2e7c1821acfe63ce08200db3dfff44f69938",
+    "${RUN_ROOT}/drafts/humaneval/base-1.jsonl.complete.json": "d02f74fe860b0a8c7c88009c60454282208dba9bb878aae9662f1d87a1cb9d59",
+    "${RUN_ROOT}/drafts/humaneval/base-1.jsonl.manifest.json": "7443b96cb2d4f1e23e5cd948370998a0cc8865ec7be39e24cd98dd1fd4b9c8c0",
+    "${RUN_ROOT}/drafts/humaneval/base-2.jsonl": "65ba25aee88aa5c796013e6e825d297adcf8f5b0e8a7b999d9b4b3ed06ae0df2",
+    "${RUN_ROOT}/drafts/humaneval/base-2.jsonl.complete.json": "e9cc7de12e0b84209bdf36d408848687b4033456819ae05c520b4fc0ab1ff54e",
+    "${RUN_ROOT}/drafts/humaneval/base-2.jsonl.manifest.json": "b4822bef22c8e3cdab3a65f0b9f752606e1cf76d971293777a8602bcc4ceb5e6",
+    "${RUN_ROOT}/drafts/humaneval/base-3.jsonl": "02cd75eed49a28b418f6d5dc9172d1657ff93377316b48842c831589b4e80cbe",
+    "${RUN_ROOT}/drafts/humaneval/base-3.jsonl.complete.json": "78a5a07ac3246b7ce41eb26ff124a60e86a1c78d5e92eb4b02e6e02f1cd13275",
+    "${RUN_ROOT}/drafts/humaneval/base-3.jsonl.manifest.json": "7ddc2bdd0a4627732f8fe2c13a5a7fbef10bd3f3720e29081867fd8109199ba8",
+    "${RUN_ROOT}/drafts/humaneval/base-4.jsonl": "852a9f72b3cb37b4f867d0a9501098321d6470dc101c1e2d788beba811f2b7fc",
+    "${RUN_ROOT}/drafts/humaneval/base-4.jsonl.complete.json": "f89c59c79b6ae17fbcabb907a95945b6be904ff3c718fdb8afdc6c4ab67f289e",
+    "${RUN_ROOT}/drafts/humaneval/base-4.jsonl.manifest.json": "5973e04644b7238ebdd5bb108cbce8cf6beaf671a5aaee90dfce215d4e2e7a99",
+    "${RUN_ROOT}/drafts/humaneval/base-5.jsonl": "7cfde28d08737a44ce22b230a7afe6ac0cebf025ef8c3e05c48832acc89b77b3",
+    "${RUN_ROOT}/drafts/humaneval/base-5.jsonl.complete.json": "0c1f43729fbc5e2443dc1beda7110d814e37ea5274a4ed3f3e99a3811bbfa4c8",
+    "${RUN_ROOT}/drafts/humaneval/base-5.jsonl.manifest.json": "c84566482d8b726afe0e1ed859326a9421d35e73528bbf51947f8cba2cba06ab",
+    "${RUN_ROOT}/drafts/humaneval/base-6.jsonl": "c208b0efda1740207d58e1ddcd8d6cc7512ee6c75e65d28565d473f73b5a8c83",
+    "${RUN_ROOT}/drafts/humaneval/base-6.jsonl.complete.json": "d66651365ce8e64cf47eeb5053d0882a7e74c1c54401460d1ccc0ca4925ebc7e",
+    "${RUN_ROOT}/drafts/humaneval/base-6.jsonl.manifest.json": "89411ae5b2671e7b363cdaf6eff21ba74473ce6e7606b7355df6318e03ae9233",
+    "${RUN_ROOT}/drafts/humaneval/base-7.jsonl": "9de55b56b826e4d1ef378794318883d46b4706c0c3027e58390ee477a51c268e",
+    "${RUN_ROOT}/drafts/humaneval/base-7.jsonl.complete.json": "7289e210acfda7d7f66bf48c056b94a63d986d6f4c8ad57bad3c31ac44d7d537",
+    "${RUN_ROOT}/drafts/humaneval/base-7.jsonl.manifest.json": "e3ec62dc3b3af44ba66933e72fb8efb047d0ebf36d9b4a10a0087a282d707a93"
+  },
+  "completed": 1793970436.3005452,
+  "result": {
+    "${RUN_ROOT}/drafts/humaneval/base": 328
+  },
+  "signature": "a4f0b9900421fa3e6a70e50424bedec116d2736f6fd0f037e670815efb8422b6",
+  "started": 1793970281.274456
+}

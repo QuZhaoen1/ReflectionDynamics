@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/base/confidence/calibration-107.json": "2fa00b227ef62b17db09de71c99a012750b9c98ff76ef7445a9efafea41a97c5",
+    "${RUN_ROOT}/controllers/base/confidence/calibration-41.json": "eecebf616443f440388e2f6145dd67201126019efa8a9f04540a7b2a188f8ca2",
+    "${RUN_ROOT}/controllers/base/confidence/calibration-73.json": "86a38e0169282ed8a6592dcee3ee12ec42c62a91d60a4bde33b7e6ae769435eb",
+    "${RUN_ROOT}/controllers/base/confidence/head-107.safetensors": "78d02e573780d5b134c73e67031c25418fa00c6521eb5f2f4fa8a939ab346012",
+    "${RUN_ROOT}/controllers/base/confidence/head-41.safetensors": "d52df3cb87400a4a6daf98b83f571280c809ab88f13964249edaa07f06c3bbed",
+    "${RUN_ROOT}/controllers/base/confidence/head-73.safetensors": "8f6a56d276eb23c153c84a9023639687e0a0959c637725c1239355fc938f115b",
+    "${RUN_ROOT}/controllers/base/confidence/history.json": "3f61f8b407d42a5bc3d5c3acc202a53b37b740d87662abda96406dabc1f3cfa9",
+    "${RUN_ROOT}/controllers/base/confidence/model.json": "e749341c4c90dea1626fe1d02ed0ed1fce518eb1ee73ae02c559597a792d9bfd",
+    "${RUN_ROOT}/controllers/base/confidence/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/base/confidence/train-107.pt": "4e7150e741bf0645445284ec36f110f5719098232a79ebe1ad3abe899f74a09a",
+    "${RUN_ROOT}/controllers/base/confidence/train-41.pt": "95537ec36b9c02ef9699fe295a9a85f0e538e81bb031094e86bc57cabfa5db4f",
+    "${RUN_ROOT}/controllers/base/confidence/train-73.pt": "74c1b15611fc73c645c05b86b256c77ea3e646f24b5987bc9541531addb32836",
+    "${RUN_ROOT}/reports/frozen/base/confidence/gate_holdout/label_oracle.json": "d17a982b1d2ba205effa78a55c80cd0267c16b32627b18a2ff1744c11b1f4591",
+    "${RUN_ROOT}/reports/frozen/base/confidence/gate_holdout/policies.csv": "6f9f9f2d6207524a1fd02e59e99571457aba981ff3b653068fc39217a0784d64",
+    "${RUN_ROOT}/reports/frozen/base/confidence/gate_holdout/policy_states.jsonl": "3393fbe8df748ea1b3e9f059fcaedd4def9e1d2dc4fc51648a77230918ef1d21",
+    "${RUN_ROOT}/reports/frozen/base/confidence/gate_holdout/predictions.jsonl": "67c9d5a249a01209958b340b0b2f417876067d5309de0f48aa8aeb2835b1b437",
+    "${RUN_ROOT}/reports/frozen/base/confidence/gate_holdout/report.json": "2a07fcee8ebe569f6956b989feaf9d1d600c304a9f0c62b1590b2d37d3c7d428",
+    "${RUN_ROOT}/reports/frozen/base/confidence/validation/label_oracle.json": "b0fdb3bafa0ced0371c3669ef7d282b0c5ec3ad4f0e4664ebc6ef817655f1f8b",
+    "${RUN_ROOT}/reports/frozen/base/confidence/validation/policies.csv": "5e756812805bbe7ad11bd8f899699860eca6ace6f99f9beabb61dd9e6a4c568c",
+    "${RUN_ROOT}/reports/frozen/base/confidence/validation/policy_states.jsonl": "71b8b9fcac6b4cb16942e35ae36bf7a56256a9265455f01d1237543f73772f18",
+    "${RUN_ROOT}/reports/frozen/base/confidence/validation/predictions.jsonl": "d688329a85837cea8b000c9b179e7bbb59a75da660b4006b1fc099a1fb1fd591",
+    "${RUN_ROOT}/reports/frozen/base/confidence/validation/report.json": "b941e9bf5ba8207a826e66d7752fd4bdb119c00eea1325506590b24e294aac4e"
+  },
+  "completed": 1793775109.7419431,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/base/confidence"
+  },
+  "signature": "31de0b7366e3db6616e4afa87f8e2889ebac10ac87759face3f93305e6edf232",
+  "started": 1793775098.5881808
+}

@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/step400/aime/score-0.jsonl": "9a3d38a04aa27e104c02f2cf3dc32f768857f9ca5a426b8db725b59d3146c8f8",
+    "${RUN_ROOT}/probes/step400/aime/score-0.jsonl.complete.json": "266e694755c4f0785bf116910b996b80d66e68d0dbbc56a06bc8d72f4db2d2d6",
+    "${RUN_ROOT}/probes/step400/aime/score-0.jsonl.manifest.json": "06da9b7c69c7a8c3bfd098c24800dc2229220b2bc883f6b1cc3daf05b6608eaf",
+    "${RUN_ROOT}/probes/step400/aime/score-1.jsonl": "29659a049bb0e5c2285666ff07801d0139069b5a4134b3bdfa273e4db070f649",
+    "${RUN_ROOT}/probes/step400/aime/score-1.jsonl.complete.json": "0f73399b4e68b84245197fe6a1577fe83deeddc3a842b9bf02a5c27431824f8c",
+    "${RUN_ROOT}/probes/step400/aime/score-1.jsonl.manifest.json": "8fa913a5f5a0cda020e36c81d1d119635ea0287753dc31a3854e1e8142661e6f",
+    "${RUN_ROOT}/probes/step400/aime/score-2.jsonl": "f097fc06f16814ffe120f5814d1194366a20158814e142045f51bb7653fa4dcf",
+    "${RUN_ROOT}/probes/step400/aime/score-2.jsonl.complete.json": "6b81fda9e75033004f4fd87b48c275219882a5b7afefc71220f1d03e14083441",
+    "${RUN_ROOT}/probes/step400/aime/score-2.jsonl.manifest.json": "f833791d25b9b2a657346e924e811f60150fea8d6a67dcb6943fefe84ff34572",
+    "${RUN_ROOT}/probes/step400/aime/score-3.jsonl": "ed54d6520c871aa7a6c54177938a2b26ddc83caa68c29eaaeecdb5c3c40b89a8",
+    "${RUN_ROOT}/probes/step400/aime/score-3.jsonl.complete.json": "01f572febdba98a94a91eea0f072ec001a051128c4b1c444e82cb8a687da6f7b",
+    "${RUN_ROOT}/probes/step400/aime/score-3.jsonl.manifest.json": "f45897545dad19ff702e88968b4e5cf63e4b31709bf16e60f49be5ca8398de90",
+    "${RUN_ROOT}/probes/step400/aime/score-4.jsonl": "910fffe35f3ab3aedfb9815c7b2e250dbf1168834013437d590be210384f1ba5",
+    "${RUN_ROOT}/probes/step400/aime/score-4.jsonl.complete.json": "0da442640245c81b38349639bf3a63585d9a20f5ead17f816f5463767626367c",
+    "${RUN_ROOT}/probes/step400/aime/score-4.jsonl.manifest.json": "fe39cc41e6974d6de57d4e01299a40aadabbcbe3eb7cac3d108d1345f4feb8c0",
+    "${RUN_ROOT}/probes/step400/aime/score-5.jsonl": "f588d5b111188a401952eb6efa7d3bc64b53891c9d96677d5aa765a74e27792f",
+    "${RUN_ROOT}/probes/step400/aime/score-5.jsonl.complete.json": "53f569ea932a9bec9f54880e765909efd0e256ac9a91fd0f6efd2ed57443f89d",
+    "${RUN_ROOT}/probes/step400/aime/score-5.jsonl.manifest.json": "0c137a70b36dfc84786fb37238b70431ab265312513d32f28613bb9b7d9f1898",
+    "${RUN_ROOT}/probes/step400/aime/score-6.jsonl": "6cf607868ff3b34da0fe4ba62717e0baccb85e4f46b5d181a7bcf0a9f79e2156",
+    "${RUN_ROOT}/probes/step400/aime/score-6.jsonl.complete.json": "b08e74e2113be307f8138d7f15c0ce2a7ca21674a2e7a9c58f869c46809e786f",
+    "${RUN_ROOT}/probes/step400/aime/score-6.jsonl.manifest.json": "88771c5ea7ea327c865df24cba23e0113a723a9c20c8ef7034b0f4862102fcc8",
+    "${RUN_ROOT}/probes/step400/aime/score-7.jsonl": "e4a898a510e352a362593ee97aa22f2ed2f09d39623a9a118f087fc83996661f",
+    "${RUN_ROOT}/probes/step400/aime/score-7.jsonl.complete.json": "5769c26295722636707eb01b91ca676867f218374fc981d7e9c5249a050d9b8a",
+    "${RUN_ROOT}/probes/step400/aime/score-7.jsonl.manifest.json": "6f98676593cf7b17583d978e23ea1d826a78ac201b578a20b0d3b9a96a243bae"
+  },
+  "completed": 1793938535.3577724,
+  "result": {
+    "${RUN_ROOT}/probes/step400/aime/score": 4160
+  },
+  "signature": "6b6689e40ac221d975c58f6cdfd7b8a9175cc4e754b96e8b27482d2059615b76",
+  "started": 1793937880.2768028
+}

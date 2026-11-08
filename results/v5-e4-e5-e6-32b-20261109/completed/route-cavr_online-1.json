@@ -1,0 +1,11 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/online/cavr_online/round1-states.jsonl": "fb99c8c293f99d86fde38789fb5041613d20d9ca0f8c700eb1e2032b5a408a2d"
+  },
+  "completed": 1793692249.6785831,
+  "result": {
+    "states": 250
+  },
+  "signature": "b30e92c3635e2d0e2fd7467ac203d3093e1e19486c27836c79407f38f02fd6a3",
+  "started": 1793692249.3614872
+}

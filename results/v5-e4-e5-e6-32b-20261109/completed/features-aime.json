@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/features/aime.npz": "261d4e496b551f2fd345bb22383ac5db17fb6fefc3851f509838dd5f07163ac8",
+    "${RUN_ROOT}/features/aime.npz.json": "abeb50c77b296ff8f9f8cba5f283ce0ff2c2fa27009aebe6cb4929c49c93b0bb"
+  },
+  "completed": 1793937244.3699653,
+  "result": {
+    "states": 130
+  },
+  "signature": "0b7cf13993656b49663ee2dc1532fad2c185d5f4052245338af73ba4411e7b07",
+  "started": 1793937183.8882337
+}

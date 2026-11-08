@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/base/cavr/calibration-107.json": "dc9699bd4409cbf26c6d0e00d1784c1fb58598ce25ddb60e6a069313d1a1d160",
+    "${RUN_ROOT}/controllers/base/cavr/calibration-41.json": "a24ed358ae14774559854c6604baf1b1330bda4dc4b36aeca361ffdb1a41bc76",
+    "${RUN_ROOT}/controllers/base/cavr/calibration-73.json": "0c949fb31fc0dae465691fcaba3b85cf3ed8535019bc39376ce6889b5118bb5a",
+    "${RUN_ROOT}/controllers/base/cavr/head-107.safetensors": "215c9031384b2840d8192af54ab382f90b09a95118d67e2a2441a1a21d86461e",
+    "${RUN_ROOT}/controllers/base/cavr/head-41.safetensors": "e72bcb4f3387066a3b2a8194e0cbd8010cc5b7161177285f689b9d1a2cb7716b",
+    "${RUN_ROOT}/controllers/base/cavr/head-73.safetensors": "7d2a107bc905d18a1d7533516b99f68684259016667b886c55996a1f88a7b674",
+    "${RUN_ROOT}/controllers/base/cavr/history.json": "d4ba0bdca24156e78c894b799ace79bf7ee0521e05da9bc514b149c738386dcb",
+    "${RUN_ROOT}/controllers/base/cavr/model.json": "524c4cf2c3600e6b3277dbbedb3a26a84ca42fdb0c0694fe48f21c3e395f8115",
+    "${RUN_ROOT}/controllers/base/cavr/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/base/cavr/train-107.pt": "d76740af420818472c7c24c305015c1739dfb5bfba2f693c0ca5cfc9972ec59f",
+    "${RUN_ROOT}/controllers/base/cavr/train-41.pt": "f456931de8197b832c34f8504739b3ac1bede133f3acc13c8d7aea686160f5a0",
+    "${RUN_ROOT}/controllers/base/cavr/train-73.pt": "8e989004534794165dd0015e17c56cf23aa152a0b18cd65a7c2051f59e16e90b",
+    "${RUN_ROOT}/reports/frozen/base/cavr/gate_holdout/label_oracle.json": "d17a982b1d2ba205effa78a55c80cd0267c16b32627b18a2ff1744c11b1f4591",
+    "${RUN_ROOT}/reports/frozen/base/cavr/gate_holdout/policies.csv": "e6eaa832a7decb6ccdeed72a1209511e25328ffb3ec3e67d38408b45e97e3702",
+    "${RUN_ROOT}/reports/frozen/base/cavr/gate_holdout/policy_states.jsonl": "39c5ceaab82d236fbaa0798fcea0d0da85a8fd72431ce66eef219e8638f4dd9d",
+    "${RUN_ROOT}/reports/frozen/base/cavr/gate_holdout/predictions.jsonl": "b9016fd8bd0460d4344945af3dcc22c2355cf354a6e8e1da103fbd57a37c0917",
+    "${RUN_ROOT}/reports/frozen/base/cavr/gate_holdout/report.json": "21e429d7609ad3ac9a30a4c69d7f824b2a7e25cd0abc0deace2b7717d158f621",
+    "${RUN_ROOT}/reports/frozen/base/cavr/validation/label_oracle.json": "b0fdb3bafa0ced0371c3669ef7d282b0c5ec3ad4f0e4664ebc6ef817655f1f8b",
+    "${RUN_ROOT}/reports/frozen/base/cavr/validation/policies.csv": "5b476a4a5a773250ac8e65faa9f8f6a467469182f44d543afc0e1f61335ce75b",
+    "${RUN_ROOT}/reports/frozen/base/cavr/validation/policy_states.jsonl": "5ed465d939c65499f2f6e5dd784e6dcf9b500fad3560cd7602eaf2c4cf724f66",
+    "${RUN_ROOT}/reports/frozen/base/cavr/validation/predictions.jsonl": "fd48c3dc5a50b4ccae391b7f06ff90fb6cb044c69c1658700b09e05982e64077",
+    "${RUN_ROOT}/reports/frozen/base/cavr/validation/report.json": "70fdfb2a96cce340edb79c6a36d1f4796db4e5dcf28149d8ae682726cc9edf4c"
+  },
+  "completed": 1793775098.0567343,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/base/cavr"
+  },
+  "signature": "c0f4ab1da38a65d1a4bcda269dd07f5c2d52202e919445ec77233a786d6db18a",
+  "started": 1793775084.8813524
+}

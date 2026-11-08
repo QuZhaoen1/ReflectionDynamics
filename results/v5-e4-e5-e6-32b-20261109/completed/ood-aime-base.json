@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/base/aime/score-0.jsonl": "de2b6f3f54d22d4b44d362f3c2954384a951624cf9ac1241eca7c8bcdff32f48",
+    "${RUN_ROOT}/probes/base/aime/score-0.jsonl.complete.json": "abbcc345df1f5f76e27b87fefe67e09379a8254f90655d4de527e2d0100b73cb",
+    "${RUN_ROOT}/probes/base/aime/score-0.jsonl.manifest.json": "c22f99489fd1d17de759a58032d59350071b4262f61051253da3ebc330acd52e",
+    "${RUN_ROOT}/probes/base/aime/score-1.jsonl": "24f77127567e7b3b86b5caf4ccc428310725805fc040d3cf121507d909f7c8d3",
+    "${RUN_ROOT}/probes/base/aime/score-1.jsonl.complete.json": "a9922eb97db7bd994cf228013d184dd524891fe0cb470932ef64b5cd8ceb306b",
+    "${RUN_ROOT}/probes/base/aime/score-1.jsonl.manifest.json": "9e57d684ac78f8fcca7166955d804851c61db2b24742afdc11b72a9611b574cb",
+    "${RUN_ROOT}/probes/base/aime/score-2.jsonl": "b748b3aa53efc6fcf4f5feb7c00f8f1454eb382fb72d2344f686d3c1f21f0444",
+    "${RUN_ROOT}/probes/base/aime/score-2.jsonl.complete.json": "25fc1c088397c25decbc5afe7eb981d9106bf291b843ce5046579256a56a2350",
+    "${RUN_ROOT}/probes/base/aime/score-2.jsonl.manifest.json": "eb2a8b84d8696cc257e174752d9ec54b2bcd3165643a39a9750605e2319261eb",
+    "${RUN_ROOT}/probes/base/aime/score-3.jsonl": "d37ab572d34475ac8457ad1ff2c509dd48a2cd865c4a72ed1b03f0f6ae1da760",
+    "${RUN_ROOT}/probes/base/aime/score-3.jsonl.complete.json": "f1dbdeb4f4c60c57b5e26b0e679f18d3d8cad5a1f673a9b233cdf01f02eda0c3",
+    "${RUN_ROOT}/probes/base/aime/score-3.jsonl.manifest.json": "606a629b58429ea9d01a07146b287928416740a1591364e6ca5aaf775d3d80f1",
+    "${RUN_ROOT}/probes/base/aime/score-4.jsonl": "4e363e8405d5db7abc8a42d699d528451d9be3b60f0fe2faadb0f3b4decab10c",
+    "${RUN_ROOT}/probes/base/aime/score-4.jsonl.complete.json": "67db1f0b688eada92f96c860d95c870628308ed081793d446c05b0c54d525807",
+    "${RUN_ROOT}/probes/base/aime/score-4.jsonl.manifest.json": "49db97364a388b6598aaf6ed35987af604e23b998923160e9aa1584ba21e03b8",
+    "${RUN_ROOT}/probes/base/aime/score-5.jsonl": "8202acb3c5ccb09238957dbf0b293a8bd6e361fdf4a7310174399a1e1ab5f50c",
+    "${RUN_ROOT}/probes/base/aime/score-5.jsonl.complete.json": "92993d212305c2723355501a69ba03cccc458beaa894ce74c4696ada2cfea3ff",
+    "${RUN_ROOT}/probes/base/aime/score-5.jsonl.manifest.json": "044fe3ad25fc706b0549c377ff1632857c4774a59b907a483c04da4795fe12a5",
+    "${RUN_ROOT}/probes/base/aime/score-6.jsonl": "e91a1022706460df342c2f6bcb6c11cd3f8b6ad15434e8d4b44d637c4b753e90",
+    "${RUN_ROOT}/probes/base/aime/score-6.jsonl.complete.json": "73afa8bf81197c0c916b8f94a07b73171a7455d9ee4fd55a3fb97f70d91329b9",
+    "${RUN_ROOT}/probes/base/aime/score-6.jsonl.manifest.json": "c57d752b04a10da552a793eb2c2025210a184ae1ec5f7abb30d93158eedf5585",
+    "${RUN_ROOT}/probes/base/aime/score-7.jsonl": "5d61f4f5cf2fb419f069af7cfb63a7bfb29c2bfab96c5bdefb7375674b2e91ec",
+    "${RUN_ROOT}/probes/base/aime/score-7.jsonl.complete.json": "f487e2914cae81a544bf6fbaef4302bfaceb2d4da692bb7d809e0704f08421b9",
+    "${RUN_ROOT}/probes/base/aime/score-7.jsonl.manifest.json": "dade85aab744b396c201eea739e7782a1bc8e9b71f95a31e5e1b19ec98001a1c"
+  },
+  "completed": 1793937870.1958077,
+  "result": {
+    "${RUN_ROOT}/probes/base/aime/score": 4160
+  },
+  "signature": "30028675d85e0becc475a4d994db295329b2a35e8ee0e5c240703a95c0bf050e",
+  "started": 1793937245.1137283
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step40-audit.json": "a9f8028faf7483335b5f28da0445d6339c47d67552775315158e96d2ebe9f8d8",
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step40-selection.json": "000167565fda729f39b9993d2952ecb839ffbf8749cfa66afb8d1d5e42300802"
+  },
+  "completed": 1794084805.214533,
+  "result": {
+    "checkpoint": "step40"
+  },
+  "signature": "da9c5a2a1cdf49a4c41a7c5ace24567d9df55d3b0051cd5ab2faf6c7adfb8044",
+  "started": 1794084802.498728
+}

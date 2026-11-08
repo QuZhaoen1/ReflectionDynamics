@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-0.jsonl": "b4bfbb84af8c0d746540c7c51c86f818f36622ce7a232ab7036c861793f148e0",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-0.jsonl.complete.json": "06fb072b3e25156815db28d7816f0816cb82d19912411b86b17da1006a8868cd",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-0.jsonl.manifest.json": "1b7ccd3c0335804976d0ca114a1bff7a0ed80380b282f06db1c896135a606432",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-1.jsonl": "b371c7d737a7f6e1289faef20689f3f93086aeb0993ff9cef9dee14412ca3485",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-1.jsonl.complete.json": "6b7b73f4cf591d052da5440732c1f9aa51f4adc4141bd30b6ea434702b1e7e34",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-1.jsonl.manifest.json": "158917aa4eea14f01bccb4b2775fe8559dfa5e491142b93115a8f05d0c63063c",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-2.jsonl": "5f9864cdebfaedb55ead223c7debc6768f28a69edfc48f35bd5e589aa07c004c",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-2.jsonl.complete.json": "f3bde59dcf50e1d5ed947273e158a7a00e5eeda3f0cb6c6923c503250bd3f7c1",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-2.jsonl.manifest.json": "4f13f56a6ac85eb131be241d8ebc67a6da261f2fe1443893b0fad35624724d04",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-3.jsonl": "b3357a654eb355859d637936e385ace1e11701204b5e03ea1e3dfcb6440b518a",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-3.jsonl.complete.json": "8ee36ea89d9a2593b918c30e800aff5506eb81ca9339f6a6d54a3132f560f37a",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-3.jsonl.manifest.json": "653067d83e0b4f3d12f76057f635707725bc13592ea84f6e51cfffe29e481c07",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-4.jsonl": "23f6b4b7d8c5320beb977ef5d75277028f4e251385c6c989c15c4f33954160d2",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-4.jsonl.complete.json": "898ba96f359cc713efbf9461e9d0d48bc3ed4e17ad4e8a699606225799970964",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-4.jsonl.manifest.json": "5b3664a33dd0d49e6eee95c6c57c492cc28169377b1278497e5aea42321be925",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-5.jsonl": "00b91eb7a64c6006fadb8acc7cf8519b2414a2665ede85b37897b15b830de216",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-5.jsonl.complete.json": "52f4da7e44500595f887163bba763784b82f320d694a2e081b37a05e8a987ecf",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-5.jsonl.manifest.json": "1d2a7b62dc11f7c278c669263c55dab975152d6bb7c08e28ce09fa7ffc19ec27",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-6.jsonl": "daed8c6e461a8e126ef2a3c44ed7ece091426d9cd88f2f3f8bf7effa55a07415",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-6.jsonl.complete.json": "fd267570fdc7c7c608745a71f2574102ee9ce848e678ccb16d3b440f7d2bd98b",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-6.jsonl.manifest.json": "5d9c04bc0182d0a7ab33055da246a30d6cd0a15473439888772a75b7d5ba36ea",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-7.jsonl": "5738164e6ffced6fd1d0aa7f29913e705444c7dcc40fd08b9469ff8f2e14aafc",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-7.jsonl.complete.json": "c8847edd0449075703c7568a61fbf5a845a629a719dc8a923306f9de1530a584",
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score-7.jsonl.manifest.json": "2b35f74caf9460f2d26afd0a0ccec45edbdcb35431da23090ffcf6d09ec69f7f"
+  },
+  "completed": 1793974013.3145268,
+  "result": {
+    "${RUN_ROOT}/probes/no_refresh-round3/humaneval/score": 8192
+  },
+  "signature": "98998b1b523704627ef47fd7c1ed30b9548a13b5e8e2b93371d89cc8743817d0",
+  "started": 1793973118.14272
+}

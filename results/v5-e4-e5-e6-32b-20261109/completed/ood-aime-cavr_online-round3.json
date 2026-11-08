@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-0.jsonl": "43dd176eaaa38ba8efdf77dc02afc9b3bdce5d6f48b5a07b33de0541e351455c",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-0.jsonl.complete.json": "2705458a62fdbb46fd2f7d0b12955307f81f6694aa80672f9ae878531daa8224",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-0.jsonl.manifest.json": "2b3ee863916850c4ef3e0737734b2084ed03e68737403498b2518bad86676596",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-1.jsonl": "bdd038b21b251ba40b7344ad3c2436760a7f94702496401920f72887365db977",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-1.jsonl.complete.json": "97f8f729cb273613df0300bad00b248cdc332720ecf233462daf86fc26c3dc62",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-1.jsonl.manifest.json": "f1d47cc0ad275be35cc61489e02c96b1f73c274e347466607224315d11350f05",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-2.jsonl": "ae7b4eddfb26e825f43ad6d48648cd4698b75c2b20354d5f0d035b7a6b758be7",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-2.jsonl.complete.json": "3873764697e550a119fc4f994998dd792876c644f7658ad5243cb41e8f4369b5",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-2.jsonl.manifest.json": "aa578d1e1db1c1b686c3e28aad1f75ceaae5b1c59046865e43efc89dcede0637",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-3.jsonl": "e648deb40500d40922fb38280b9af415c9c4606ccf6afcd152b5306a74ce09b1",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-3.jsonl.complete.json": "238f0455bda3fa9d032cc0475911dc185600630ecf2dd44dd5906da7c30ece19",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-3.jsonl.manifest.json": "32726853451cee9e76a1bb75bee50830de02446c9f21f1f0c1c10cff607a68ae",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-4.jsonl": "0b87a2016fd2a284348fcf9558ff5627f116b5c9e5ed6baf504b70a4618d4c52",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-4.jsonl.complete.json": "84dd2f4969640e96b06174fb8623caa08b58f234777b59544eb542ae036fca94",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-4.jsonl.manifest.json": "374c7a97a1156830c36a0237a92cf5e7026d9f67846d90f551b1529fabdaa5be",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-5.jsonl": "978d314c22416e4c04de651d4e38aac9344492eac0366e1dad2213df0b24104b",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-5.jsonl.complete.json": "85bd8ec55c526ab1969d2c3f7cb43458683e30bbc3bec2ddd1031fddcc8d5682",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-5.jsonl.manifest.json": "72c0fca83c7afb6eb21f7be8d191288f6833130613801734efe57aa849ee20ef",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-6.jsonl": "dbb9033bff6076af4f153a3d80095f9cbb4a6f8b79f528f3b71e0dcc5c6ebcbf",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-6.jsonl.complete.json": "f572f149586c6f25514a6370522f9da6eef56f2ba153f0a592bc6666bcb74dfc",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-6.jsonl.manifest.json": "6ba9c2b7d68f298992fdd84064ed7f3b8e78fdd72dd03238fe07664e9ecd9cd1",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-7.jsonl": "ca7e7a62de81fe3289f21a81b99a0508d67011877b85cbc70b25d120e4b0b052",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-7.jsonl.complete.json": "48ab15cfb9eb8bd3228b34bc3659b47328df8fd4e3ed5ff3b822c9ce33268236",
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score-7.jsonl.manifest.json": "bac2db667c99bb050d7fe9508cf8b729ce3a8f7c30f988499d76ddf00a62a01f"
+  },
+  "completed": 1793939225.6879528,
+  "result": {
+    "${RUN_ROOT}/probes/cavr_online-round3/aime/score": 4160
+  },
+  "signature": "349935c1313d776ff72750137fd8a357a0afa034abb72512e258c66c9577065f",
+  "started": 1793938545.6066234
+}

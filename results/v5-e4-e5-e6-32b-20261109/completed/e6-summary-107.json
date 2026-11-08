@@ -1,0 +1,42 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/base-audit.json": "6ee3f0e54bf4aba8425a587378175480b702d0c7f8b8447e8b3fffc73847b1c9",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/base-selection.json": "1b4b947791c09617e52f0529238068079b7a01ecbbd34c2e6f87c3247247d96a",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/damage_rate.png": "fed358abb24fe60c092a440faf4b7067bf8db5d17abc721595cb5abb71156d9f",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/decomposition.json": "17c7c77126ab0fabcb11b6e0857fe12b918537770147460d6d18d5ec7fd54671",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/descriptive_change_models.json": "7755f6aeba35059cf2804b057f8dc5bfc9b18ec8b389d058f709a10d0922e5d2",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/modular_expected_matrix.csv": "a67fa0222138b702d1095f80fda558cfffc21c31a1a57f119ddae16d0f13ffc5",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/repair_rate.png": "b25e068842e27d65ed9f32fd2b5e86af1ff62de36b988525f80b6cf2af02616a",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/sampled_reflection_probability.png": "0941144e7c269763ce4b809f4c65ba0e95b9bef0babd507bdab4778dc4db7a72",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/trajectory.csv": "e6db8ca335d7d7d075bbfeabb6b38dab873916ad81cea9c0fc453ff5d194fa4a",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/utility.png": "be28cc84c3d5fb0e1e1b1fa3ae73b3a602079a5b8b23dc2c9edeab733b31873b",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/dynamics/value_selectivity.png": "c2a8cca2118cc87a15c0095a683f738ac15202f7369946d641aafa43a32d8ed7",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/seed-summary.json": "695b1b3514ac50b85f942967bd6ddbede6e5fa4762dc3aff09b4940b8d80ad5d",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step120-audit.json": "c3a1da36e667d538a052ec8686529910f8f784d6661bc1169da4e4a49a43e52a",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step120-selection.json": "b21a9c1758cb9f70bdd3fa9531ff2ade9d88a18fe086d74296f85bb858201395",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step160-audit.json": "eb9b567340f8f7d3e198c9c918c8b19df64b116426bd0164c6893054eb7a3d21",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step160-selection.json": "184c424cd63d1cb659ec9c7fa240926ba348d610ca597f8f31feba7ff004f55f",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step200-audit.json": "7e32db8983a081f339d4484ff6429212308412cfe1d8a0d60c47bd11cbd0235f",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step200-selection.json": "2e3a0331c4f2969a735065e4510eec4f3d3047dbefb782d1c76e28d7ea644d6b",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step240-audit.json": "73a86d3dfd945d6086e75e9f76159546824ebcd3f93b8cbbec52cde98396bcf9",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step240-selection.json": "a4885be16ea5be37594b1c29cc2b6d4ac7aa76874f03573bb4cb0be13c6845da",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step280-audit.json": "5ec6c3818101f4b24fd5657a6b0a165b60aac068d1d39395d8b69236610a8aa4",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step280-selection.json": "29ec1ce45ea4e22947ce1ebe8fb7a8b0b01f7be2a4f2bdfb453c4f2e5eb7048b",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step320-audit.json": "0f197bb344ce725fa0d8a0ac0eb32e8bbc305abcf2c6c03c290a34f2953488e9",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step320-selection.json": "59d5307659dfa6f8df651802a084b7573cb43c0114172ffd0ab450868554da89",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step360-audit.json": "709a60d87d45fa18c4b0e502e7544b01d11d4724206bae0ad80c220838bed6ed",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step360-selection.json": "152682d28de86bac52b1b25d0030d3935edd7134d07001f38c2fe60e58166475",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step40-audit.json": "d530c7f4f24bc4b22053a0178afd32e0c354aea8ef7b6d25e3f07e716834bf8d",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step40-selection.json": "7dd10018f11afd79ad1e47873aa50406b4455743b05ecd72113dbc9726723dcd",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step400-audit.json": "80aa088779b5dfb860921663bc0fc6d87f93aa44cd7395f65cec8f61aced93a6",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step400-selection.json": "30bb21ce7a88552f56e2efd7eea9039c0a5428e0a2320679d9e35db00698f83c",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step80-audit.json": "d8eb9438d2e59f9bbb1dfff4c4262271168c0e9a2bc2e39374378d31a74d6c95",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step80-selection.json": "a32bc87a2677c20370663dbba2aa2fbc5d9878125e6c6b76d8c2bb8e66e17e67"
+  },
+  "completed": 1794161610.6586235,
+  "result": {
+    "summary": "${RUN_ROOT}/E6/standard_v5_seed107/reports/seed-summary.json"
+  },
+  "signature": "0e2f6bdf6d2d37fae5fc2d0e3ef6d59ce2a27d68e97cee58623e6a552220c86a",
+  "started": 1794161609.4945412
+}

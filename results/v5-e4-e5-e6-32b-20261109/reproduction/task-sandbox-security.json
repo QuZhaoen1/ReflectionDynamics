@@ -1,0 +1,149 @@
+{
+  "checks": {
+    "correct": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08997304923832417,
+      "valid": true
+    },
+    "execve": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08814050536602736,
+      "valid": true
+    },
+    "file_write": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08810650557279587,
+      "valid": true
+    },
+    "fork": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08746868744492531,
+      "valid": true
+    },
+    "incorrect": {
+      "correct": false,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08889132086187601,
+      "valid": true
+    },
+    "io_uring_setup": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08818961959332228,
+      "valid": true
+    },
+    "kill": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08776917029172182,
+      "valid": true
+    },
+    "memory_limit": {
+      "correct": false,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08909086417406797,
+      "valid": true
+    },
+    "mount": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08971555531024933,
+      "valid": true
+    },
+    "output_limit": {
+      "correct": false,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "output_limit",
+      "sandbox_seconds": 0.08733792416751385,
+      "valid": false
+    },
+    "private_paths_absent": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08902843575924635,
+      "valid": true
+    },
+    "process_vm_readv": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08841750118881464,
+      "valid": true
+    },
+    "ptrace": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08751248382031918,
+      "valid": true
+    },
+    "root_traversal": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08789476472884417,
+      "valid": true
+    },
+    "setuid": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.09052624180912971,
+      "valid": true
+    },
+    "socket": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08775476738810539,
+      "valid": true
+    },
+    "unshare": {
+      "correct": true,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "complete",
+      "sandbox_seconds": 0.08870488312095404,
+      "valid": true
+    },
+    "wall_timeout": {
+      "correct": false,
+      "sandbox_backend": "task_local_chroot_seccomp",
+      "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+      "sandbox_reason": "timeout",
+      "sandbox_seconds": 0.5361750395968556,
+      "valid": false
+    }
+  },
+  "success": true
+}

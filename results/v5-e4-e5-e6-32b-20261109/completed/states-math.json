@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/states/math.jsonl": "91981462bc05ddf504e7612ee43244600e6de0aea748fef29e0b191361559d6b"
+  },
+  "completed": 1793799929.29288,
+  "result": {
+    "drafts": 10000,
+    "selection": "all parseable drafts, independent of reflection",
+    "valid_states": 9415
+  },
+  "signature": "e848a2bfb487f683e55fcd67bf93deeccd278d3bb605c87a45f2da921f31eb62",
+  "started": 1793799928.647462
+}

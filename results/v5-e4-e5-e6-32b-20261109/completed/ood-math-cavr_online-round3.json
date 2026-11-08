@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-0.jsonl": "cf49fe99c597485dfc933129fcfe2c81e2f77b880ad3b2102d316631ba60b939",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-0.jsonl.complete.json": "d43bb5f472e52f8e56b05f87b6e3528136707806c364b109019c23497b53037f",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-0.jsonl.manifest.json": "ab3fd0a481dc09ac5748a9e06354bd9b739546c8ab9948490c11b73dde7fe82f",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-1.jsonl": "cca58c3a82a57ef39b4ab60b24c3338a0274b895e16220aab8f74ce2994ec8bf",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-1.jsonl.complete.json": "dc2c2f0d9a92637d2dea1ec8bdd9207a62e82846580eb0900060c6350e761a17",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-1.jsonl.manifest.json": "e6bc763e0d7c0d83fc97efd7c4cf435ccd4cc5b3541f2ee57ceda545326fdf72",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-2.jsonl": "a6ac8d93db98eef6ab2e9c38958b2db3f9f36dde54427eff5464616bb58b4682",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-2.jsonl.complete.json": "f1cd1b3abe032be00eb2b9b7bde13ea29789a7955677df434f9e8e2b5644898a",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-2.jsonl.manifest.json": "9fc90db276db5d0c280ba33b2eed1bec87174f77743de72d523f8300d09a1ae7",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-3.jsonl": "dbb7994ca3bdcf1a117423bcc9fcf07124350f804a591baa07360d799a21d671",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-3.jsonl.complete.json": "b309acd3f8372d808d7c5c818bbb2e0865a9c65195191375ee268a43efa4aeae",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-3.jsonl.manifest.json": "ef58c2095ff3322488dba22437ca50900e5200c3ca437c03864c2e49e54864b8",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-4.jsonl": "cddef5d7a755d342f727be7b6289e73e8720749f3bf9ec54ead61f44f41f56b0",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-4.jsonl.complete.json": "929f5f454470f8ae04f9ffea0d6d64e6aec980942a0e0f9d5e24a088121e61d3",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-4.jsonl.manifest.json": "493699166bbb0e40bc1c0c608ae79f4489dad201c0375a92fbf74c6698c049f5",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-5.jsonl": "7eaedc1e063b3ae98769f6b1064176ccb79845605569ec3de800fc96e77fe56b",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-5.jsonl.complete.json": "0e99720238e0b669e15af0469a3f6b0255a7639bc9cb10bd19a1cb135d44a363",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-5.jsonl.manifest.json": "e3c101300b1eda5890a0d00639cdd05a72f49414a7b49395954e765185c133f1",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-6.jsonl": "bb7fffa760da11c80ab715b5123a37345c0045bca03a657cfd55591d28290563",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-6.jsonl.complete.json": "4d9ed1bd733df23464eaf7a5b01d0088327f249535ad9ea298170e4b73c3cea9",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-6.jsonl.manifest.json": "155f64d1c04a381f902de547116aaeb724cc062d464d1972dba4f712c30f9165",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-7.jsonl": "37128f0cc1fdb2c8fc7abfe178eb4e15b4a18fa039bc95dd8463b3ef82a01d89",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-7.jsonl.complete.json": "4a2ef415817e946b8e6aa47a2c09f2160003e0068f4b0fb3a95d49ba1054601a",
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score-7.jsonl.manifest.json": "2faae85cd5beec778e4b7f4b1d71449ce70333f508970a4fd11d766a03055927"
+  },
+  "completed": 1793892722.3267817,
+  "result": {
+    "${RUN_ROOT}/probes/cavr_online-round3/math/score": 301280
+  },
+  "signature": "02ca849caf5c2802cf13f20f12191ecc5a3fd0caddd6fc7a86edda56122b9979",
+  "started": 1793870997.8420959
+}

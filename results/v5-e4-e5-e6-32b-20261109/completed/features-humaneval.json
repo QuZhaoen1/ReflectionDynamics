@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/features/humaneval.npz": "24478de6c72fae366226af8c47ce419853cd9b36701655520e71c4fd5bac4912",
+    "${RUN_ROOT}/features/humaneval.npz.json": "7c6a39e0574f341c1b29691ca300a793bf8c8956c473330d3d6c4fad7afb0260"
+  },
+  "completed": 1793970494.0347378,
+  "result": {
+    "states": 256
+  },
+  "signature": "bd75e6eac73ff1881de0d506ce6e3e2181115df267dff38457a85ecdf867a598",
+  "started": 1793970438.0605493
+}

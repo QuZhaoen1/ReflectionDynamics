@@ -1,0 +1,22 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/adapters/uniform_executor/round3/adapter_config.json": "d7716c8b00a55ae6a17492f570c9d2a7bcb19a10409d1330f841d54528e4a885",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/adapter_model.safetensors": "b5e73062770e3bafdfa6987db2b5289ea704d6e9c073c13e843e10ffb1b06e51",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/added_tokens.json": "58b54bbe36fc752f79a24a271ef66a0a0830054b4dfad94bde757d851968060b",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/chat_template.jinja": "44d5f08f3f72b837eaad09f13a54c1f9f4eb58d75240334548b7fd52a5437fa5",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/export.json": "c5fa5bd81456bb41c4312e9bf2e25f33a715e766f8e85044b5fe96fc02262aad",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/merges.txt": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/special_tokens_map.json": "6676f091c8bc4d1b50146427cfde92073402866b87b6e39223227931b70083e9",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/tokenizer.json": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/tokenizer_config.json": "60f6e7bc948cedd377a20f01d022ef664d026fbc93d72e0a9bdac233f8632181",
+    "${RUN_ROOT}/adapters/uniform_executor/round3/vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+    "${RUN_ROOT}/runs/uniform_executor/round3/status.json": "01c03cefd72e1871cb911cdf9e26443d750169b74f2c512d7b54e428be31aa33"
+  },
+  "completed": 1793769567.5517895,
+  "result": {
+    "adapter": "${RUN_ROOT}/adapters/uniform_executor/round3",
+    "adapter_sha256": "491a381bcf7ef504c98d27e5e5936786ce10a56e72f69b2cbb80c8fcd4caad14"
+  },
+  "signature": "a1e4f1f923728b5803ae6fe5e609cad39920a40cc0701e67142c15e5b2884623",
+  "started": 1793765814.5836866
+}

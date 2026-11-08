@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step280-audit.json": "8d9fc11e6889a46cad9c10ac4f28bbe383277297329abca47b16d387915834a5",
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step280-selection.json": "8de60aa77ca763694f7d3371674921407355409a853453355bdf2c55b89f1e13"
+  },
+  "completed": 1794094949.5613415,
+  "result": {
+    "checkpoint": "step280"
+  },
+  "signature": "089d3fe73a4c0746c5687725509ffe4fda336aeb9f8b2a2af31e52b2017da385",
+  "started": 1794094946.8834987
+}

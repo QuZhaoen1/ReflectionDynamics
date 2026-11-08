@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step240-audit.json": "60ac73b1d35d0cb1da86acdee5224a104e621c739c47eb8d2c50d01f72992d96",
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step240-selection.json": "d0813a83f5e52787adbf399de0bad15f8a2519a2f29e39fcbbfb2666e6743fed"
+  },
+  "completed": 1794093232.0186353,
+  "result": {
+    "checkpoint": "step240"
+  },
+  "signature": "d11b61e05027b41162c93ef84c96b003801dcd767d5a5279d986bce9fed43cca",
+  "started": 1794093229.3274205
+}

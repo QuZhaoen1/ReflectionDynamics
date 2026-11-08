@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/base/direct/calibration-107.json": "0fa21d082548e1542cab3464123a9abe378338bc5df731f7e70e48f93c0d9e09",
+    "${RUN_ROOT}/controllers/base/direct/calibration-41.json": "1733b1f679e6bfdce1cb3add8c0b3021177ffaea68a426d62f9857d50cfdc5c4",
+    "${RUN_ROOT}/controllers/base/direct/calibration-73.json": "644cbbaaf7fb162fdfff4fdf1e681f9dc373d492fa111c5659301a056eaf464c",
+    "${RUN_ROOT}/controllers/base/direct/head-107.safetensors": "9e524bf7962fd050b2fe8adc07bc8203be8d6928406b038df49b42c08ae0990c",
+    "${RUN_ROOT}/controllers/base/direct/head-41.safetensors": "b4a1b285f7826a212ed93028101c1fe402cbb5c42f3d5f762c2b0c50fc6b3470",
+    "${RUN_ROOT}/controllers/base/direct/head-73.safetensors": "dbc18264c07ab1ca56c6e50b6b45c7626d7f91847505a120030ec031db61374e",
+    "${RUN_ROOT}/controllers/base/direct/history.json": "1b01dd35feb23af8758f09d8443be56d81d1ace9606fe20ef8aea9c84a62cd1a",
+    "${RUN_ROOT}/controllers/base/direct/model.json": "1abdc689a7b8d5ede85eaf60f176100de26035453e5547a59de145035ac8128c",
+    "${RUN_ROOT}/controllers/base/direct/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/base/direct/train-107.pt": "8fdf786d848b241e640d36da01c9fbf0ab04438e35ad7f0caa229e2fbed92b81",
+    "${RUN_ROOT}/controllers/base/direct/train-41.pt": "e80759b23d7ca9e2dfde348e7d03b8b9e40e952c0247cbb8b1c60ea955d28f83",
+    "${RUN_ROOT}/controllers/base/direct/train-73.pt": "b344d3fbf78ce65497b7809bf000d2e45bfa27255f4b39dda56ddc09fdf4aaaa",
+    "${RUN_ROOT}/reports/frozen/base/direct/gate_holdout/label_oracle.json": "d17a982b1d2ba205effa78a55c80cd0267c16b32627b18a2ff1744c11b1f4591",
+    "${RUN_ROOT}/reports/frozen/base/direct/gate_holdout/policies.csv": "90e0f287ea2693ebb8d02a5ededb75f803f5b27fe0199c54f07a90515e2946e1",
+    "${RUN_ROOT}/reports/frozen/base/direct/gate_holdout/policy_states.jsonl": "a59450f301f70c78de08e377300fa85e8a854414e41416d56694e2fe5633ef3a",
+    "${RUN_ROOT}/reports/frozen/base/direct/gate_holdout/predictions.jsonl": "b9f5a9b4b08c6296c07ac1fdf13c9a29f13b009c17873c36f2d4f7fd24f71fd1",
+    "${RUN_ROOT}/reports/frozen/base/direct/gate_holdout/report.json": "c3b69d0933bd834f9862f5e77f16df154c18f462ac3743e652b534f8010c08c0",
+    "${RUN_ROOT}/reports/frozen/base/direct/validation/label_oracle.json": "b0fdb3bafa0ced0371c3669ef7d282b0c5ec3ad4f0e4664ebc6ef817655f1f8b",
+    "${RUN_ROOT}/reports/frozen/base/direct/validation/policies.csv": "a8b45b1e1305f6b95beb88d58e163ce8eea77286ce0f6a5393158b62eb738a9c",
+    "${RUN_ROOT}/reports/frozen/base/direct/validation/policy_states.jsonl": "f3003b05c5785a02f4bd7454640819e27beb8e50752119b0071a94272bc4ff9e",
+    "${RUN_ROOT}/reports/frozen/base/direct/validation/predictions.jsonl": "0e10b3ddc5ef0595433c5d514b3c1c85fe33609e9e221ab457a8b3ccb9275808",
+    "${RUN_ROOT}/reports/frozen/base/direct/validation/report.json": "4e2611f6eeb450f7c72ec6d4c3df0147eceaa74e1178c99d70da831e3688336f"
+  },
+  "completed": 1793775122.0491915,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/base/direct"
+  },
+  "signature": "a68e3f50be96a66a53a96920844ff5db36c7e70b36e0eeff8b5e6a09cca0cc57",
+  "started": 1793775110.11715
+}

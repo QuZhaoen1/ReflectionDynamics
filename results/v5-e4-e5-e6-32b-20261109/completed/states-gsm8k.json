@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/states/gsm8k.jsonl": "0c6f7b4ca1750034890cffa55b151e6b76e12b9afda6b0496cdb6f35506e2bba"
+  },
+  "completed": 1793940907.0248213,
+  "result": {
+    "drafts": 2638,
+    "selection": "all parseable drafts, independent of reflection",
+    "valid_states": 2632
+  },
+  "signature": "8391edb01921e786a6890ca86d331faf80ec6f1892c4b8bc2b8d3d5c792257fa",
+  "started": 1793940906.869794
+}
