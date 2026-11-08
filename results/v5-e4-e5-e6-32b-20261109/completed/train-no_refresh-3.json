@@ -1,0 +1,22 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/adapters/no_refresh/round3/adapter_config.json": "f7b46efe1c0fa0e364dd2c8a95f1716fdb1da96d26fd81f36b3a70a316edcd73",
+    "${RUN_ROOT}/adapters/no_refresh/round3/adapter_model.safetensors": "d3a16f683f9cb29be9bf563722256540fb195b450db374b81de8b8cf4d2580d3",
+    "${RUN_ROOT}/adapters/no_refresh/round3/added_tokens.json": "58b54bbe36fc752f79a24a271ef66a0a0830054b4dfad94bde757d851968060b",
+    "${RUN_ROOT}/adapters/no_refresh/round3/chat_template.jinja": "44d5f08f3f72b837eaad09f13a54c1f9f4eb58d75240334548b7fd52a5437fa5",
+    "${RUN_ROOT}/adapters/no_refresh/round3/export.json": "dccb9df433d42ad0f25df5d942ac70e7877da03c4bfe30c5cc12cafed00653e8",
+    "${RUN_ROOT}/adapters/no_refresh/round3/merges.txt": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+    "${RUN_ROOT}/adapters/no_refresh/round3/special_tokens_map.json": "6676f091c8bc4d1b50146427cfde92073402866b87b6e39223227931b70083e9",
+    "${RUN_ROOT}/adapters/no_refresh/round3/tokenizer.json": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa",
+    "${RUN_ROOT}/adapters/no_refresh/round3/tokenizer_config.json": "60f6e7bc948cedd377a20f01d022ef664d026fbc93d72e0a9bdac233f8632181",
+    "${RUN_ROOT}/adapters/no_refresh/round3/vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+    "${RUN_ROOT}/runs/no_refresh/round3/status.json": "4f030f3f56c9b45955f71f8b15ef09cfbba656b0d3c8ce04222f360aab83b24a"
+  },
+  "completed": 1793750321.5928953,
+  "result": {
+    "adapter": "${RUN_ROOT}/adapters/no_refresh/round3",
+    "adapter_sha256": "e9dd6fa8b990de1cb9d35631130806a6ecc68c2c4dac2be2eebce47f7bcffdc6"
+  },
+  "signature": "8042d67722cbf8f3771dbd209a31becc59c80f06bac3e97dcc72b7f7ac84cd52",
+  "started": 1793746595.622292
+}

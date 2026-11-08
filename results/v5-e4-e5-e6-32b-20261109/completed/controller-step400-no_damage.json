@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/step400/no_damage/calibration-107.json": "28febc3de1f51d608bc8f543d7caf20e700108d59179a32ddf53b00dfab61f8d",
+    "${RUN_ROOT}/controllers/step400/no_damage/calibration-41.json": "c922ac8f9f73b20fb0048d1637371267f104c9c0af3fc0fdca198f9171607609",
+    "${RUN_ROOT}/controllers/step400/no_damage/calibration-73.json": "27a1b12bdb78709655bd3da48b6f7ca6bdb5f46cac0461a617731c1c55d8abc1",
+    "${RUN_ROOT}/controllers/step400/no_damage/head-107.safetensors": "98d6a221bf32046b98dfeb4054b57f1f5ba37c2ee082b46b18ed3c96cee11780",
+    "${RUN_ROOT}/controllers/step400/no_damage/head-41.safetensors": "f6c136c45c286b6e2115300d994cb11471846879a345514fa184b39954a47756",
+    "${RUN_ROOT}/controllers/step400/no_damage/head-73.safetensors": "330f1338157a479ac94f41f70a19c28905b0c41b7227389251f53575ad8da885",
+    "${RUN_ROOT}/controllers/step400/no_damage/history.json": "5c0de3e9542e526b433d1b8b17c59890b740d7881bddac65bc1f66a3d52f77b4",
+    "${RUN_ROOT}/controllers/step400/no_damage/model.json": "1a3c1d6d05c3e3f37c8833d0bd19275c263f050c8a5a9f9c5bcced312afdbbda",
+    "${RUN_ROOT}/controllers/step400/no_damage/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/step400/no_damage/train-107.pt": "0228d0ce40d538e7b94e37512804ec4d3d8d1e4e06ffba67a59200754af0872d",
+    "${RUN_ROOT}/controllers/step400/no_damage/train-41.pt": "60a2ad307a9aba813112b8e627ea39a3127ad668e5b076c45caa3e47189b2c2f",
+    "${RUN_ROOT}/controllers/step400/no_damage/train-73.pt": "531629eee9a571e316f9ad9292916ae9f266e99c3119f5853439da679f47bc03",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/gate_holdout/label_oracle.json": "7143c120250a115d43a3c9107111c9e7f09beb4e8bca8374c67017d42c4112a1",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/gate_holdout/policies.csv": "6f8b05c971f5a3c0f54487d5ca4de01df7241d23bc239a596dba793323041106",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/gate_holdout/policy_states.jsonl": "0d3f29e100ee942195725dace23dc93adcecea69112105e0a00e40e9db8e5e13",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/gate_holdout/predictions.jsonl": "de8dc946cd2adc001edde25d83cd545df9affb2ab5a40f2bcb8eb3a1e4a3289b",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/gate_holdout/report.json": "8b7f56beead92b9018102493fa88f7f7aebbf593f3dcb42f4955ee80073f9777",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/validation/label_oracle.json": "ada59c91fc1beed753a95f6a3bc34af8ed7f1716f18c4f50ccbfe0f9a1cefa8d",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/validation/policies.csv": "4b82a6ffbc1be21fc701afe1bb3a0aa2f588479b4b0ec9d90b04b671d4cf19a6",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/validation/policy_states.jsonl": "ea1aa43b4bc70860476c3d4cc551a9a15ed079fea43765f15fcb98a440a33292",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/validation/predictions.jsonl": "40a260474bbedd7178c5a1d8189e745f16e0a75b3e8d99097d3c44f6a73956c7",
+    "${RUN_ROOT}/reports/frozen/step400/no_damage/validation/report.json": "bf0e742a31db74f5d58d019331372860abc7dae91996b23fe24ff36cab1c5d8c"
+  },
+  "completed": 1793692249.0953212,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/step400/no_damage"
+  },
+  "signature": "8b3cd501d21fd1858e24f59bd0d04f0f7055a1661d7324f124f05725e491bd79",
+  "started": 1793692237.2307658
+}

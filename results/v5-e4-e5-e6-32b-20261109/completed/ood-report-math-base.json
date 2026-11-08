@@ -1,0 +1,40 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/reports/ood/math/base/cavr/executor-equivalence.json": "6ab9383571d3bea3db13700d8484df6f19cf030862b6c794754b4bb40e27fae2",
+    "${RUN_ROOT}/reports/ood/math/base/cavr/label_oracle.json": "bbec4e04b5a17240798c8f74df0908c508999e9632855a839d2c1aac164f491d",
+    "${RUN_ROOT}/reports/ood/math/base/cavr/policies.csv": "3172c7469922c23f486d23d7cbb9f2626576bdb2fb541caf07ee4aa0221f30a8",
+    "${RUN_ROOT}/reports/ood/math/base/cavr/policy_states.jsonl": "71717928c4490aeb3e51dcdd80c6900b6296addbbea4a075f9afeaf100352038",
+    "${RUN_ROOT}/reports/ood/math/base/cavr/predictions-compatible.jsonl": "7ad063de2bfe8183e644510c52d8a1c20e048b7af1582f58cf6125b0cbae52a7",
+    "${RUN_ROOT}/reports/ood/math/base/cavr/predictions.jsonl": "287694ac27d2ea517fd3dab984f6a423212a0bed1b68cd138ecb28b0a5522a74",
+    "${RUN_ROOT}/reports/ood/math/base/cavr/report.json": "964df6e7ea78aa402164ea8138eb6ef66b15a3f6abedc5bbde5e1edc94331cc2",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/executor-equivalence.json": "fa88f22a0a1fc2b1f1a27d148bc054746ad509a7d560f6c001230bf20c5df343",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/label_oracle.json": "bbec4e04b5a17240798c8f74df0908c508999e9632855a839d2c1aac164f491d",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/policies.csv": "79c18a1af91357ed6be33bd93ddbdf1ad2c0d1b4254bf9f9ff3222de5fe52f6f",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/policy_states.jsonl": "80cc30b4b660fa9a077550e387c0e9a42848c7a0ee0cbb76e1417c96b899a3b2",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/predictions-compatible.jsonl": "675ec92fdc2438f7479b8f44f66ace37a3095ad7932ee3039041cfa07009452a",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/predictions.jsonl": "d668a30a313693343f3438559a038ed0994a7664bd6c2e8ee44a4f40096fb97b",
+    "${RUN_ROOT}/reports/ood/math/base/confidence/report.json": "e3bf7e39b59117de050d9c38c8c8886ea9cb8a0b81a86b1153e0f4b069ca580c",
+    "${RUN_ROOT}/reports/ood/math/base/direct/executor-equivalence.json": "07074bd3621ae10e3ffe58c0884b4915d70a3712f4cf395086eddab0526be6f0",
+    "${RUN_ROOT}/reports/ood/math/base/direct/label_oracle.json": "bbec4e04b5a17240798c8f74df0908c508999e9632855a839d2c1aac164f491d",
+    "${RUN_ROOT}/reports/ood/math/base/direct/policies.csv": "0b52535251cbfff5e022bfa35c2b872b5de8ec4631c3c5c3855add35ea9260bc",
+    "${RUN_ROOT}/reports/ood/math/base/direct/policy_states.jsonl": "6379eb5f4bc05a2fb860364a6a17e3f1261cb7a5b7bb9b39d26088e20d6d1efd",
+    "${RUN_ROOT}/reports/ood/math/base/direct/predictions-compatible.jsonl": "d46ce8fd92d48cd4b54e0aed38cd3638ca6ef88b025605e442bdf84033891317",
+    "${RUN_ROOT}/reports/ood/math/base/direct/predictions.jsonl": "5c19cf4a396298d0a6237c7bacee099fa28b88762a4a1d523d457d88354e24ef",
+    "${RUN_ROOT}/reports/ood/math/base/direct/report.json": "a5d584d0d987e757d06e27438668f91ebdba5b29ae7b2c5700a869befe8138a9",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/executor-equivalence.json": "9a60cf81ba70b2f932b5a9c9ea1fb32774e681cf47b94a9894373bfdc3b6bfc8",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/label_oracle.json": "bbec4e04b5a17240798c8f74df0908c508999e9632855a839d2c1aac164f491d",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/policies.csv": "3a0cf1d294af962832dfea8c67a18c6e5fd0cff89d94dbdcaa2403d647497f2e",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/policy_states.jsonl": "913b9c1c09626c0ae45514eecbb73d15bed03e9efdd150bc4caef06d133e093d",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/predictions-compatible.jsonl": "107aabf536b0e1682693463e5d23216a0aac964b7c4bdc1cc7a76bd2de0b28fb",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/predictions.jsonl": "c77a769b32d2f225c327af5d7e3dc9a88aa01bda52d93c05cdfdb8d891de4ed9",
+    "${RUN_ROOT}/reports/ood/math/base/no_damage/report.json": "42641e1082bc040691c9c3408a20b927433934b205fc538dd82043f052bea484"
+  },
+  "completed": 1793848374.901854,
+  "result": {
+    "controller": "base",
+    "executor": "base",
+    "locked_before_test": true
+  },
+  "signature": "6d1522c2f1208de1db7c3b8a1cdef14653af799c3525f80c2b5b363db3a20362",
+  "started": 1793848055.6224067
+}

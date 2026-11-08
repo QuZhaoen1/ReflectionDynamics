@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/features/math.npz": "2f0459078ac6174412882ca1c217a03fa53832305709d264dd4b5165dc6a1bb0",
+    "${RUN_ROOT}/features/math.npz.json": "4039b1bc046b51dd40eb59f68bfbd22dfb37f04cf5f57ea5b2ab887c30aabc7c"
+  },
+  "completed": 1793800516.739162,
+  "result": {
+    "states": 9415
+  },
+  "signature": "3619c3e607762c58b0e04ef97c205b746e94f171606df8246dcd274f4f5f2ba1",
+  "started": 1793799929.8403654
+}

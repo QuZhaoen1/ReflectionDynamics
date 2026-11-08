@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/states/aime.jsonl": "8c3654b820ea27fea05f344cbb0731672bb9b88dd0aa1641487405afc7f5dec8"
+  },
+  "completed": 1793937183.1657717,
+  "result": {
+    "drafts": 180,
+    "selection": "all parseable drafts, independent of reflection",
+    "valid_states": 130
+  },
+  "signature": "8992c2fee3784123e22d6685b1d082f1eb6a4623013ebe14b5a7ed0c49e2094d",
+  "started": 1793937183.1282153
+}

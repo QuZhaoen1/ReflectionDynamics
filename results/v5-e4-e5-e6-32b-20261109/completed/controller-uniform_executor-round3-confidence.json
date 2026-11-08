@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/calibration-107.json": "2fa00b227ef62b17db09de71c99a012750b9c98ff76ef7445a9efafea41a97c5",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/calibration-41.json": "29135bc3c4710f8d0d633ab2b5bf2214ac116f0746c68cbbd1196201301e2b15",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/calibration-73.json": "62ae27d7b83a03eca46227d38cb770f700da160e54d0ec626963149f9a336825",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/head-107.safetensors": "bf15d95072f7fb837f57b1f673986a6c3c93c125301560402ad83b942057bfd1",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/head-41.safetensors": "f782004843c5f9c10c484414f6e3611532598008333c1e7cf97d29400b0dd5ae",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/head-73.safetensors": "f5c4344f64e3708e82a1715ca390ebfaa28496eb7a88597e26ecdba3c90025a4",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/history.json": "8b18ad3743e1c6402940905960a04399edc062f52b716534ed26336c2e57d345",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/model.json": "0674c9d8199a7d08d060da1a4cb73fb844e9b4d64a1c451eb0463a4bc670dbe4",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/train-107.pt": "db9cb64b599aef29db94d604961418e9d3b3080ca8d6fb9edb6427bb72611ba1",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/train-41.pt": "364cf429691a234bc7f217bd7e122cbb81dd4309de39b13bfb906772ace83812",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/confidence/train-73.pt": "9f43105d3f1edf5ccdaee71f918c3ba52397a09e93ac1036e77df77abfbee70f",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/gate_holdout/label_oracle.json": "b224f6f3215e7f7ec420d3d4c3d1572ca8a5214c7930996d10bec8a819d98d2c",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/gate_holdout/policies.csv": "0ae9d307db2f83c000d6014ed0411cfa29a82eb7360f25bf47c68c6e4c00e32f",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/gate_holdout/policy_states.jsonl": "4d530e9170ea25bf328b323f66c272b9fda7417cef3eed99224cbe9020f325c6",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/gate_holdout/predictions.jsonl": "a2b378133218ac622b6bbabc0e5a2609cfa2fa7359b44a6c728d986798dc6298",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/gate_holdout/report.json": "b216a0b7f03b18cc4cf872e3f87a6a9148629a1b90f48cfa9026074ae1ecb467",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/validation/label_oracle.json": "456d2e4cc82cb3217d034deb34110d075726f2e8d1aa7ebfd7a33494af13a586",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/validation/policies.csv": "8c29e28b20f15747649d3d9878e5040e344b509387585c2354d20eeae7bfd946",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/validation/policy_states.jsonl": "bc2ff36f5c074e0cda0a516bd69e6bf66ad0929d9ce28a1cbd81b4d1fed04b47",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/validation/predictions.jsonl": "e1a4e3604052234adfba9b0286218c7ef83f97ff21825c8662428121ce538532",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/confidence/validation/report.json": "bf99ce02fe4fd3639a4e8b87d6e14b7ff30b8739d0374b5b6cc18a71b8a5c54a"
+  },
+  "completed": 1793772454.152469,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/uniform_executor-round3/confidence"
+  },
+  "signature": "1a02632d1be83a385208dc61d8e7c7284c6cec5b9081ea1ec0e2fa79ed77041a",
+  "started": 1793772443.0700452
+}

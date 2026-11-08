@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/states/humaneval.jsonl": "0116fc94fb568a27d06b31dc41aa3710e8e26e406c7260bc791b7764b1f4dcf4"
+  },
+  "completed": 1793970437.1800077,
+  "result": {
+    "drafts": 328,
+    "selection": "all parseable drafts, independent of reflection",
+    "valid_states": 256
+  },
+  "signature": "96f5f791830e7120f87ea52964f6751dd3dcecd98b45dc4e41da7321fef90482",
+  "started": 1793970437.1367102
+}

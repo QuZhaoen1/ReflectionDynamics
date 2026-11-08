@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-0.jsonl": "9ef8d9e8f1422c2d7af564d282aac55aa6e295a6f6194f89af8724ff2dec0f83",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-0.jsonl.complete.json": "be7fb99d527e583c0e45a6240f50ccd749d9fb3dded3a7abf7b56d0bf6cdc957",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-0.jsonl.manifest.json": "50e9ac4076b8e8389a4b8c30eed1f79e802161cabbe4617fcf6da83340c10d34",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-1.jsonl": "21d9a21d832f5af53c58661e0b76684aae328722c1d27e48d2f9d28cfc6e66e4",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-1.jsonl.complete.json": "528b76aca41db275defc0d6e3641b733fba5abd8095b173d2c0eab811128d6f9",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-1.jsonl.manifest.json": "c9db57ff023ade8a1dacc0a1ce3c793696be8409c615efb040e156aef529e199",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-2.jsonl": "036c5297c2b35f9c10e9ed636755f6dd89cfce5c1d60d65c3dd0bc66220139ed",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-2.jsonl.complete.json": "b54e1080ed933aa184c45edf7247cd8812069788bcb20454b7719e28602c3857",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-2.jsonl.manifest.json": "6a84217df6c298eb45b051c456d6be79a9e46b59647cfadafb474dd3be92e11f",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-3.jsonl": "6e5e2db7112d229f8edbd2682c5b4defc9b9b5bafe8eeef3796512dbe306e6e7",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-3.jsonl.complete.json": "a72a4578e82f5d245ad21ea6a39d85ce26331731ea3d124475ff51cd09c84fea",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-3.jsonl.manifest.json": "44e720733bc264782d8bfb7e72ce253344572b05ccda9d5421e5eda87bd9c52b",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-4.jsonl": "1242116b5738851e1f3db7d9d8727fdff166ca6ae9e094a4e70ec0be95e07ba0",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-4.jsonl.complete.json": "19db9952b4f0abf85747440b4039a146d86c58c2770466acca0f49338fe39bae",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-4.jsonl.manifest.json": "e7694f99207342bea94c1ddfa6e2981dd7363f34b048b09386ff64072fe730c5",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-5.jsonl": "168ba16522cfccb8dd87ad454cdf47160f20948ab5f9c1e887743d063278eb85",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-5.jsonl.complete.json": "7d6d8b6f470f3c8ecd378d284f3a7dfd6c4c34434c38edd61c00d7d91ae0a213",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-5.jsonl.manifest.json": "9b758f86284386e67657c2e8905640b0a142c32685929b062ba9fe91af2d5218",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-6.jsonl": "112ec1cfb4a29e9dfca33f08b8ec74f51e7ffadf80d4f2c4845384028bd2c479",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-6.jsonl.complete.json": "a3979522fca41a02a6a52dfe6608a046dfd422b2aca0083c089dee02603aa4f9",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-6.jsonl.manifest.json": "3aac3a251152dddb16ca1db525037e9df63c4095c011ec7e8ee950ca9fec2555",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-7.jsonl": "a4a42841d3a479e6c590d2c324f24f0977f427137ef4d0ff87b63f4011f2c691",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-7.jsonl.complete.json": "9eed6090d3bb95322daa309dfc515519b7c8782d58c970327fc2541257195777",
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score-7.jsonl.manifest.json": "3be0dada40414d45ad8b58c2433d9ce5e3df35ba576f55ee4b95a2df059faa91"
+  },
+  "completed": 1793958359.0248604,
+  "result": {
+    "${RUN_ROOT}/probes/cavr_online-round3/gsm8k/score": 84224
+  },
+  "signature": "ea658e45e7be6994d8e3eb2c510a9c17592d831fc28d8e1f10d7a4a27e2d0a42",
+  "started": 1793952492.7215855
+}

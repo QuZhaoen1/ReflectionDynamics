@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/features/gsm8k.npz": "fbf31edd35615174f5202012be9968a3ce6d9a0d581ba5604b6c77f8028fe2ce",
+    "${RUN_ROOT}/features/gsm8k.npz.json": "1958dd9488a89e7f60af566d033a78602a8e151af17200c24909a248f039bda0"
+  },
+  "completed": 1793941065.8429158,
+  "result": {
+    "states": 2632
+  },
+  "signature": "7c38f2093d0ce66f189072efe583a1f6247dac0224b71464f24b0a71a38d36fe",
+  "started": 1793940907.780643
+}

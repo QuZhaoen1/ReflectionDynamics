@@ -1,0 +1,7 @@
+{
+  "backend": "task_local_chroot_seccomp",
+  "config_sha256": "3d40e6194171a2d79939161984f650a0d18a37ba5371264c86abcbbc0adc2019",
+  "development_machine_required": false,
+  "identity": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+  "time": 1793476914.5079105
+}

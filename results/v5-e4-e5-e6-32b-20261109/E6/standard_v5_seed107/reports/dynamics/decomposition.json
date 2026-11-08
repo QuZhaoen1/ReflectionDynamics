@@ -1,0 +1,26 @@
+{
+  "executor_change_fixed_early_policy": {
+    "ci_high": 0.005030273768570202,
+    "ci_low": -0.0013596730400232114,
+    "clusters": 295,
+    "draws": 3000,
+    "mean": 0.0016887281659388647,
+    "unit": "original problem; state-weighted; conditional on recorded generations"
+  },
+  "interaction": {
+    "ci_high": 0.00024415369462660606,
+    "ci_low": -5.894654429959244e-05,
+    "clusters": 295,
+    "draws": 3000,
+    "mean": 9.168599890829694e-05,
+    "unit": "original problem; state-weighted; conditional on recorded generations"
+  },
+  "policy_change_fixed_early_executor": {
+    "ci_high": 0.0007726932553344431,
+    "ci_low": -0.00039416075114511606,
+    "clusters": 295,
+    "draws": 3000,
+    "mean": 0.00017271083515283842,
+    "unit": "original problem; state-weighted; conditional on recorded generations"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "completed_stages_verified": 172,
+  "checkpoint_directories": 78,
+  "stage": "all_complete",
+  "finished_at_beijing": "2026-11-09T02:13:30.809332+08:00",
+  "note": "All receipt artifact hashes verified before export. Published path-redacted snapshots have separate hashes; raw generations and checkpoint weights retained on server."
+}

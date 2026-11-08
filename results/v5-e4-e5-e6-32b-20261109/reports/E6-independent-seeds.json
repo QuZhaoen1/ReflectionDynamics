@@ -1,0 +1,40 @@
+{
+  "metrics": {
+    "damage_rate": {
+      "mean": 0.11169871687889099,
+      "sd": 0.00240784713493581,
+      "seed_bootstrap_high": 0.11442307382822037,
+      "seed_bootstrap_low": 0.1098557710647583
+    },
+    "repair_rate": {
+      "mean": 0.1589856892824173,
+      "sd": 0.002101749074779312,
+      "seed_bootstrap_high": 0.16130051016807556,
+      "seed_bootstrap_low": 0.15719696879386902
+    },
+    "sampled_reflection_probability": {
+      "mean": 0.5888941957787481,
+      "sd": 0.005734012688123987,
+      "seed_bootstrap_high": 0.5936476528384279,
+      "seed_bootstrap_low": 0.5825259279475983
+    },
+    "utility": {
+      "mean": 0.005322052401746724,
+      "sd": 0.002196162246101403,
+      "seed_bootstrap_high": 0.007368995633187773,
+      "seed_bootstrap_low": 0.003002183406113537
+    },
+    "value_selectivity": {
+      "mean": 0.01152633230827263,
+      "sd": 0.0006269823975930929,
+      "seed_bootstrap_high": 0.012115773559810071,
+      "seed_bootstrap_low": 0.010867570221773043
+    }
+  },
+  "scope": "seed-level uncertainty; few seeds give coarse intervals; does not substitute for held-out tasks",
+  "training_seeds": [
+    41,
+    73,
+    107
+  ]
+}

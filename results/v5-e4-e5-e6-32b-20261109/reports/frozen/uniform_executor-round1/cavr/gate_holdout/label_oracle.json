@@ -1,0 +1,6 @@
+{
+  "correctness_label_oracle_accuracy": 0.5406249761581421,
+  "definition": "commit on known-correct states; reflect otherwise; zero cost; labels unavailable to a deployed policy",
+  "gain_vs_commit": 0.14895834028720856,
+  "not_a_learned_result": true
+}

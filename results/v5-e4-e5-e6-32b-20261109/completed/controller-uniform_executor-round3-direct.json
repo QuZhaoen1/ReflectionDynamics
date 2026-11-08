@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/calibration-107.json": "1508ba372fff09aa4a06cd22a6672b73d46367ab37710df370c979fab70dd4e1",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/calibration-41.json": "4884a1755c77ef7d528e6870a90953b274ea5c20ca368cf0f2c2067f6828de92",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/calibration-73.json": "366e0b104f65b4881375c6361cc9f5c001f5b4bc4c28d37973e05992cb3120b7",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/head-107.safetensors": "9318a61afc25b5ad14b55166a1751657e1787bbedb0cb4cb8ffa30c16bc12838",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/head-41.safetensors": "c38793811682f82be871b6ba6a61a33fb9bd0cfabc6e16b722e5cdcc65c185f3",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/head-73.safetensors": "e8cec9f6dcae58acd872d4942811b223a5992a942c0b7543a42656b4bc72a4d1",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/history.json": "94dfd78fa2f53806c5b303fa501f45be9107615a2329db18b30d87a70cfe8b37",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/model.json": "082df2c649e900efa63fe8e92d06fe5fba6a21032ceef564bab289fe84fadff4",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/train-107.pt": "800523884cc624c52d5c4ae68d4772794db50ac0665b55990ec7e6a304f1de9a",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/train-41.pt": "a208a9c2aa8a84c4ebd9925025d68889e546137b371740596ff8d066d55f047b",
+    "${RUN_ROOT}/controllers/uniform_executor-round3/direct/train-73.pt": "58b2ff91733958b6f473d0ebe92ba7f59a4fb785be6973b2006a4e161311f9e7",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/gate_holdout/label_oracle.json": "b224f6f3215e7f7ec420d3d4c3d1572ca8a5214c7930996d10bec8a819d98d2c",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/gate_holdout/policies.csv": "c8a03a614f5547bd296d0694a2cc98d464969a5fa58191d3265f4d9a08f98286",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/gate_holdout/policy_states.jsonl": "6f153e70d4929771e88455820a501d7f6f426a583bafb1dcb80d94e9d4da2d77",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/gate_holdout/predictions.jsonl": "52eebe5e4ae8f35911c948f53c7e258fee8e92763134c0ae7adcf3b137e7f5de",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/gate_holdout/report.json": "a350409328d46314f1b28f330acd4fff0a079fafd08be12bc86e9f8757ba2ece",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/validation/label_oracle.json": "456d2e4cc82cb3217d034deb34110d075726f2e8d1aa7ebfd7a33494af13a586",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/validation/policies.csv": "4238ace815d8f871900265b97b8acf08fbbf596a52f0cf751af3031947d31fe7",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/validation/policy_states.jsonl": "1903787e492719058792556341cfd5d1b279b54989077586824d092f5914d1c6",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/validation/predictions.jsonl": "ad8070deb21699e779e7046dd5c316aab9693fb1950630fdd72453736ebb800e",
+    "${RUN_ROOT}/reports/frozen/uniform_executor-round3/direct/validation/report.json": "53836450c04e92d5ef583d7ace1224665e0ce23f7a970e6eede3339d001b170d"
+  },
+  "completed": 1793772466.3621643,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/uniform_executor-round3/direct"
+  },
+  "signature": "459f733e48f2175b861bc7bab3b1f90abc7c8efbf1b948b6f94035a110c6ce25",
+  "started": 1793772454.6457493
+}
