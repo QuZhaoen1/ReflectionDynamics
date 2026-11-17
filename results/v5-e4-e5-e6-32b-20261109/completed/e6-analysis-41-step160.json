@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed41/reports/step160-audit.json": "7f89198a84f91af3c038fd7a9a628ccae634cc5f214edb0907a8d500b6f36c0b",
+    "${RUN_ROOT}/E6/standard_v5_seed41/reports/step160-selection.json": "64acc4b1db81018a002fcb27ce7d6c5a754be22121e997b98d6e2cbc1b4ff33b"
+  },
+  "completed": 1794026545.4692948,
+  "result": {
+    "checkpoint": "step160"
+  },
+  "signature": "2472734f42ba38ef4f4fc9c932da374d88274141d451becfdf9cfdc55b1e7fd3",
+  "started": 1794026542.7594297
+}

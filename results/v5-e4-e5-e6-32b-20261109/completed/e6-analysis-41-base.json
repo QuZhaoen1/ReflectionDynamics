@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed41/reports/base-audit.json": "9a137585ceeb4010751c546eb87a58b80e89ae2acc006ee283ccd630ac6c1513",
+    "${RUN_ROOT}/E6/standard_v5_seed41/reports/base-selection.json": "ca19cfd22a85f4a75effcb984e75cc730cb1cb902bc38ea39cf26ba56a122875"
+  },
+  "completed": 1794019787.6538959,
+  "result": {
+    "checkpoint": "base"
+  },
+  "signature": "1b5fad87897df5893f5999a1beab3d86587efe893f60f790d5580596193cdc21",
+  "started": 1794019784.9456081
+}

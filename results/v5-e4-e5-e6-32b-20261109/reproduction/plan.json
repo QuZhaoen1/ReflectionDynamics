@@ -1,0 +1,67 @@
+{
+  "E4": {
+    "final_evaluation": "heldout and validation, four controller modes",
+    "refresh": "initial + each CAVR/uniform round; no_refresh keeps initial controller",
+    "rounds_per_variant": 3,
+    "steps_per_round": 40,
+    "variants": [
+      "cavr_online",
+      "no_refresh",
+      "uniform_executor"
+    ]
+  },
+  "E5": {
+    "controller_modes": [
+      "cavr",
+      "confidence",
+      "direct",
+      "no_damage"
+    ],
+    "datasets": [
+      "math",
+      "aime",
+      "gsm8k",
+      "humaneval"
+    ],
+    "drafts_per_question": 2,
+    "executors": [
+      "base",
+      "step400",
+      "cavr_online-round3",
+      "no_refresh-round3",
+      "uniform_executor-round3"
+    ],
+    "policy_lock": "written before first test draft; no test fitting; primary budget .3 / cost .05",
+    "probe_repetitions_per_arm": 16
+  },
+  "E6": {
+    "action_banks": "two independent 64-repetition banks",
+    "aggregate": "seed-level uncertainty",
+    "init_adapter": null,
+    "interventions": "16 reflect + 16 retry per state, per checkpoint",
+    "model": "Qwen2.5-32B Base",
+    "steps_each": 400,
+    "training_seeds": [
+      41,
+      73,
+      107
+    ],
+    "trajectory_checkpoints": "Base and 40,80,...,400 per seed"
+  },
+  "execution": {
+    "code_judge": "task-local chroot+seccomp, zero capabilities, no network/process creation/file writes; startup tests select and pin backend; authorized development Docker fallback if platform denies local isolation",
+    "code_judge_tests": "18 isolation checks + all 164 canonical and 164 incorrect solutions compared against original Docker",
+    "consecutive_stages": true,
+    "gpus": 8,
+    "on_error": "record failing stage and exit; no unbounded retry or deletion",
+    "resume": "verified receipts + generation batches + full optimizer checkpoints",
+    "time_limit": null
+  },
+  "scope_note": "E6 here is the explicitly authorized three-seed 32B study; 7B/14B scale extensions are not in this job.",
+  "storage": {
+    "checkpoint_projection_gib": 31,
+    "new_root": "${RUN_ROOT}",
+    "retained_reserve_gib": 48,
+    "working_budget_gib": 96
+  }
+}

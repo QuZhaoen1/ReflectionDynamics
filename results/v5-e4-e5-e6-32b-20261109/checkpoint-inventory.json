@@ -1,0 +1,5930 @@
+[
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-360",
+    "step": 360,
+    "trainer_state_sha256": "a07284cfb21b345ccd0b825d3256c3515500f6b31dfafda89a14d349e0f2485a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 352590
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-240",
+    "step": 240,
+    "trainer_state_sha256": "c75dc7c7e670cadcede3f74d4dc93855e6994b2df624e8b4f28a9cc4b961ba70",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 235351
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-280",
+    "step": 280,
+    "trainer_state_sha256": "8f82f8b38bcab45b5a49426108bf6d399ba9661522adefedfd92e819aade7f0c",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 274395
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-220",
+    "step": 220,
+    "trainer_state_sha256": "c438de007c0b5eded252217acf104eddb334bb16586b7bf266c710033c492a41",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 215789
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-100",
+    "step": 100,
+    "trainer_state_sha256": "b1969d2cc1160e2f9c970ea97ab24c59bdd31f73856397352343517b9d11e2b6",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 98487
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-180",
+    "step": 180,
+    "trainer_state_sha256": "7172e047baef20973f4dafb6226d32469acbe9ab70a5273869c0876626f2c4b3",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 176745
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-380",
+    "step": 380,
+    "trainer_state_sha256": "5687ecef5e24c868fed1e55f7cfd8f2a5a7d6bfeeae56a0188ec892a6a25a792",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 372266
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "deb6c16c2f53a3e5b0b34e74bf0c7b6f2df80fb81aebfbdd9e306e1bbb276acc",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 39782
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-260",
+    "step": 260,
+    "trainer_state_sha256": "0600f291348aaa0eb27d70291b23e6127fc2aa7002553701ff02481b514b1ed7",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 254855
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-340",
+    "step": 340,
+    "trainer_state_sha256": "ca8901c4eef504c05770211593974518d9db0d73308ebc382e534abb55423887",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 333043
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-300",
+    "step": 300,
+    "trainer_state_sha256": "05310134b622acee6de139a15c2cda73472c9b1a00c152ce255cc49852262c70",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 293948
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-80",
+    "step": 80,
+    "trainer_state_sha256": "f2ea1ed6c7f0a8b50f52e7da303011cf29886b753f5bed93628ca49d09ff36ee",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 78924
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-60",
+    "step": 60,
+    "trainer_state_sha256": "6b8e20255ee831f2e20aba12603f696520339f49ea4f09324e3bb14bd0c63d85",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 59366
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-160",
+    "step": 160,
+    "trainer_state_sha256": "18e01e674e2546e7b6ad4b5a3625c4a74f33feb0eba89393c144fcbcc92c495a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 157247
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-140",
+    "step": 140,
+    "trainer_state_sha256": "fc8f7be014b4f859332ac6ac47d3e48f392d5807f1c4aec678266edea62441ff",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 137678
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "ccaa811373f3b7edcb4286691542684e82c1ad3f0682823913fe4d2b70eb8740",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20237
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-400",
+    "step": 400,
+    "trainer_state_sha256": "e9fa21d071539bc0eab06fb20b3a7f51e372e8a2697ac30c5e61d1ff58bf3f6c",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 391881
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-120",
+    "step": 120,
+    "trainer_state_sha256": "899b8da39cbc6d7ae40b92f444ffa0da560d77281016167bdaf6b8cd56cae76c",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 118104
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-200",
+    "step": 200,
+    "trainer_state_sha256": "01460101e8a7bddd4e19cf1371f4157599b6c3a31147ec87184ffc6e716bbf6f",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 196225
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed73/train/checkpoint-320",
+    "step": 320,
+    "trainer_state_sha256": "3e318fd3ea176fadd650ae9de23c54ce9e7e614382575e642178bc5f9e5156bf",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 313538
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16325
+      }
+    }
+  },
+  {
+    "directory": "runs/cavr_online/round2/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "90f33578128d27fba86855095d04940c2fcba97f2a6609cf1a83fcb3a3ff72aa",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40545
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16325
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/cavr_online/round2/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "d3bdea55cae8c49bd6b72ed5b7184b732513a12adedcd23698d95a943469f129",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20661
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16325
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/cavr_online/round3/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "912712a600ed8e746ca683dedba24d87754edc9ccdb55f021f93608f9169e883",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40467
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/cavr_online/round3/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "648d9c5653da7430b3d3fdb89e832daf2a41861bf84d9a6a0d8f55833c037bc4",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20572
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/cavr_online/round1/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "72342389658994e02425caefd7555132a2664e813ac29485d3ffaf380a55534e",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40690
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/cavr_online/round1/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "a6e45b0fc5514c30bcdef77ecbb3116f3cf0919b412b1b9142d59734cdcb2fcd",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20761
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-360",
+    "step": 360,
+    "trainer_state_sha256": "8f93a8a2c6f66af98c4cdfafb27e97f82a45fe824a2924224837bd9b0520a841",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 352599
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-240",
+    "step": 240,
+    "trainer_state_sha256": "3616bf996d7c5fe93ea4675041a2710e87f3ed70061567836425d1a6f8aade05",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 235393
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-280",
+    "step": 280,
+    "trainer_state_sha256": "5140907b945038212b4f2ddfb5d025048c952a259171a9cfd298d0f195441a07",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 274418
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-220",
+    "step": 220,
+    "trainer_state_sha256": "2dffb6a26981fd0ed867e502a990a60d994e16f5c791a8af8ece440f539c66ab",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 215844
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-100",
+    "step": 100,
+    "trainer_state_sha256": "7eeb015f75b210bf8fd235363e307314f433fc75c1eede22f7434a10dd6b7f66",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 98510
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-180",
+    "step": 180,
+    "trainer_state_sha256": "386c41d2d89f61feeb887f7a07931fc0c1edeb5b5ef67f26dfe786afb2cd6e42",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 176733
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-380",
+    "step": 380,
+    "trainer_state_sha256": "dcdc663489309f105afd5550d9eaf3029eb5da8da8a5f24d2ccbb952c50e21fa",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 372179
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "01fd387eca4fc9bf06bebd49b12c312acd671f23e39b1086f3fe80d3b2039711",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 39783
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-260",
+    "step": 260,
+    "trainer_state_sha256": "1c81af726aae21fe0fb06696ebbccbb26f0604f897dda273c1ca66bc09410c2a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 254868
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-340",
+    "step": 340,
+    "trainer_state_sha256": "82a7c5e388d88b34643603ff794889d1842b1c9ca084a6b7ec37b8e40ae74be8",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 333059
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-300",
+    "step": 300,
+    "trainer_state_sha256": "29bd39262debcba3d47d8aa09204ab7752c26c487b2180aba41f02484e5734f0",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 293962
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-80",
+    "step": 80,
+    "trainer_state_sha256": "7d8647ec23a07ac39939d3f9cc9cc48662643fdfde713b6867feb7b816151202",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 78899
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-60",
+    "step": 60,
+    "trainer_state_sha256": "08a73361497e8f68e1ae15487840de50e7a49763ff7c065d02076f647db81424",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 59359
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-160",
+    "step": 160,
+    "trainer_state_sha256": "fcdec70adbe2b59e07176c30b6531971c5f2006fa0d30269ac5dd86e6906e85f",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 157261
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-140",
+    "step": 140,
+    "trainer_state_sha256": "128b6dbb43e7dbe04493114d00e65fca8c1c655abac3e6fe2055224109cfa66a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 137697
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "3f403953d56d75b7df4ff37ce05a4a7cd29e16d2c50fca3502cee9c07eac503f",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20168
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-400",
+    "step": 400,
+    "trainer_state_sha256": "e8f4084cbdcdd7f198be114e85816bc2d48deb72a5ac4a735c42dd724bf90b81",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 391691
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-120",
+    "step": 120,
+    "trainer_state_sha256": "219560dfa162c0ed80f7ef2d8c7abf8b2ccfe9c6bba6fc24c31d143164aad574",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 118080
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-200",
+    "step": 200,
+    "trainer_state_sha256": "a9dc589de0e6913724441c2a0a8ae4a347bee2704ba8f0eaa302e5d83f81f11a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 196366
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed107/train/checkpoint-320",
+    "step": 320,
+    "trainer_state_sha256": "897ac7085cbb73c1db3019a0d20f9d68944c0787324bc17db558ba1891efbe13",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 313477
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16325
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/no_refresh/round2/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "560f56fd3f1978f657367378600347a1644dff63cb7caa0d8350336e1eb10455",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40684
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16325
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/no_refresh/round2/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "a6ac10230f26fb189731286b9ee6c12174fe31e1ed58bfffe45452e46dab3905",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20749
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16325
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/no_refresh/round3/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "af9ad12b55464b73dbcdf2c5113e5094b9a9e997fbabfde45074c314b669309f",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40443
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/no_refresh/round3/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "b4db2d199d251eb118cf45020fa3d3e898f4c031ff4c73f2153222eeb6f8f560",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20559
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/no_refresh/round1/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "6eec88a8b42bfc1bd90dcfb0c12a1938fb2d368cabda8a65a81de054944cb8d2",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40688
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/no_refresh/round1/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "32529cfbca3c5bfb09c44818c8a3b923e6bc57d79f00a5e2c4a98a33a2fe5fbb",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20746
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-360",
+    "step": 360,
+    "trainer_state_sha256": "8125961fb449817084e3b565d38e50f8f1b8addf3df994ca4ee4375d10b0606b",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 352419
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-240",
+    "step": 240,
+    "trainer_state_sha256": "c19caba8e379a969c4f8057050d2165113f9a3fd33d0e26a2df2a5ae9bdc2b6a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 235121
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-280",
+    "step": 280,
+    "trainer_state_sha256": "5d52569823ea77ac803a7862da0a353580d1bedc783a0bd6d64254c98a53ee76",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 274235
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-220",
+    "step": 220,
+    "trainer_state_sha256": "494f654073cc0d2643b16e7ac0dff78b609c8ceade140edfef565ef7dd9afbdc",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 215583
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-100",
+    "step": 100,
+    "trainer_state_sha256": "fdd1451c262bcf46d742cb67d3868b75c8bbc5a1af9128f41646604317ae4dae",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 98393
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-180",
+    "step": 180,
+    "trainer_state_sha256": "5554ad7ac4c876091d141b3f99a65a092f47b9b6d54daf601362108f2089bf30",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 176568
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-380",
+    "step": 380,
+    "trainer_state_sha256": "91277deba050a40c97342bfc6d8fba2a88e02a064b1b289319973179333616d1",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 372029
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "b60374d242e5167c34bb2f62107dc9192ea0a59ddae9d33ac5855672d450d4d5",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 39809
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-260",
+    "step": 260,
+    "trainer_state_sha256": "da875d1e943e733f3bfb2cdaa0c2e01fc411602a827b2820705375acd8c6f185",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 254686
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-340",
+    "step": 340,
+    "trainer_state_sha256": "14c07904a8224b988f7bdad58dba1493ecf04b4e3502677dda4365de9f8d08e3",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 332893
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-300",
+    "step": 300,
+    "trainer_state_sha256": "427d1db1a06137989bd56ac97412adae9b4a63d21534b38aa43df04d8ea8a94e",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 293831
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-80",
+    "step": 80,
+    "trainer_state_sha256": "692e81f777d75a22fe86277a928da9208041041254a759363801fc53612c6f2a",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 78865
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-60",
+    "step": 60,
+    "trainer_state_sha256": "6d8da13fd9e7ad028fa746d4b2ad8293f4ee0392681b29cbdb6ed9f132ee53ad",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 59352
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-160",
+    "step": 160,
+    "trainer_state_sha256": "4d4b5b3ab23c3e5b768a916da3a004dc337b70d8618e6ce179ec91fcc58762b1",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 157120
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-140",
+    "step": 140,
+    "trainer_state_sha256": "a56846d2906321c8b0fa4989a153a64dc0ee80ae3ae67d17e3f8e7568f8d6e71",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 137511
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "151bd9ebad9d029b936e445d30bd3b0a63c8df162b0cf3894472e678986083dc",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20276
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-400",
+    "step": 400,
+    "trainer_state_sha256": "818b49d2d4e8bf646ff54bebc5a64d88963adab17415c969fa9cf950c4602453",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 391494
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-120",
+    "step": 120,
+    "trainer_state_sha256": "5349f2549a75f80748d5e0ba55bf89f835039c811d2f1080bed593b3ebefea57",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 118033
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-200",
+    "step": 200,
+    "trainer_state_sha256": "ad55704eda9826b638ae93d53868e831aa9c76841787e924a900277690c013d0",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 196101
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/standard_v5_seed41/train/checkpoint-320",
+    "step": 320,
+    "trainer_state_sha256": "9f6bd5538e52066461a5d6e00c425a87ca9585c0d29faf27a12002a2ed111ed1",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 313349
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 10129
+      },
+      "latest": {
+        "bytes": 14
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1102
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/uniform_executor/round2/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "f03e442bbed14188a288fbe68a952c173c5ae77d5b50beb442ec852a4a8447b7",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40604
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16325
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/uniform_executor/round2/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "12d82ccc3e7943a094ad52e6244e5aaea1ccaf42cdbff0379fec36b7234b2f50",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20674
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16325
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/uniform_executor/round3/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "598292538e6095f5fba6abbe04dfbc6b04de54a6364206ef5ceb1e427faad704",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40661
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/uniform_executor/round3/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "45164a326bc2eec7116a5f0121f4eaeb8ff67af6228f3f227f749f8ac1dfd8d1",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20702
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16325
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16389
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/uniform_executor/round1/checkpoint-40",
+    "step": 40,
+    "trainer_state_sha256": "a044abe3a814db2d3a23812aaa2934167f3e0c5d806b055ca25c312accba8638",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 40665
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  },
+  {
+    "directory": "runs/uniform_executor/round1/checkpoint-20",
+    "step": 20,
+    "trainer_state_sha256": "2815a9ffa864e342c7874f8a45f3cf5fc0d542e94d8ada473baab709fbc312ee",
+    "files": {
+      "trainer_state.json": {
+        "bytes": 20732
+      },
+      "rng_state_1.pth": {
+        "bytes": 16389
+      },
+      "training_args.bin": {
+        "bytes": 9937
+      },
+      "latest": {
+        "bytes": 13
+      },
+      "vocab.json": {
+        "bytes": 2776833
+      },
+      "adapter_model.safetensors": {
+        "bytes": 40
+      },
+      "rng_state_5.pth": {
+        "bytes": 16389
+      },
+      "rng_state_4.pth": {
+        "bytes": 16389
+      },
+      "tokenizer_config.json": {
+        "bytes": 4689
+      },
+      "rng_state_2.pth": {
+        "bytes": 16389
+      },
+      "rng_state_3.pth": {
+        "bytes": 16389
+      },
+      "chat_template.jinja": {
+        "bytes": 2427
+      },
+      "adapter_config.json": {
+        "bytes": 1045
+      },
+      "special_tokens_map.json": {
+        "bytes": 616
+      },
+      "zero_to_fp32.py": {
+        "bytes": 33270
+      },
+      "rng_state_6.pth": {
+        "bytes": 16389
+      },
+      "added_tokens.json": {
+        "bytes": 605
+      },
+      "scheduler.pt": {
+        "bytes": 1465
+      },
+      "rng_state_7.pth": {
+        "bytes": 16325
+      },
+      "README.md": {
+        "bytes": 5313
+      },
+      "tokenizer.json": {
+        "bytes": 11421896
+      },
+      "merges.txt": {
+        "bytes": 1671853
+      },
+      "rng_state_0.pth": {
+        "bytes": 16389
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/base/humaneval/score-0.jsonl": "10d901d0e96b28ae4802b99a1f419e5ed62c6ee2cede28f3f6183fd0bc48db45",
+    "${RUN_ROOT}/probes/base/humaneval/score-0.jsonl.complete.json": "6b9f843c80729501734f041f2ed4b7bb05ff12360035b2a5299b0d1b976013ce",
+    "${RUN_ROOT}/probes/base/humaneval/score-0.jsonl.manifest.json": "4c3d7e5bc782e327adbc170e54d8304d5e131831ca73511aa18bf0bb1dcbb239",
+    "${RUN_ROOT}/probes/base/humaneval/score-1.jsonl": "f9dfa1b5f191317f4e156570a7caa32c9394dd7aa0ca5b00e4cae9dbfe9b8e42",
+    "${RUN_ROOT}/probes/base/humaneval/score-1.jsonl.complete.json": "6eacb4e1e3b618692dc6a66acb1a7f84d7c6aa5e648b23c6560bcabbacc69002",
+    "${RUN_ROOT}/probes/base/humaneval/score-1.jsonl.manifest.json": "7f3032dd44f74eb99c9194566191080ed846c55b2804ef1308ec6b91d4332a45",
+    "${RUN_ROOT}/probes/base/humaneval/score-2.jsonl": "0ab18d5016a2f88cdf7d67360081a22107fc69d19ff3740ea73f9f2ab4a984c6",
+    "${RUN_ROOT}/probes/base/humaneval/score-2.jsonl.complete.json": "8bec82e3b475e4ca4a2b305c18af17a017c2c89152f8b4289ff810944eaf1e89",
+    "${RUN_ROOT}/probes/base/humaneval/score-2.jsonl.manifest.json": "0cedc5e63cd2649bab1fda190aba198f4951e73b866984bea5ddb973b7fcd2c8",
+    "${RUN_ROOT}/probes/base/humaneval/score-3.jsonl": "cca92bcd01d16f08cc1db6e0c775bda868dccddb341a6240095624b4a7559731",
+    "${RUN_ROOT}/probes/base/humaneval/score-3.jsonl.complete.json": "bfc8069ef775d52e07280896e1e7217a449034232e4c0185396339227247a58e",
+    "${RUN_ROOT}/probes/base/humaneval/score-3.jsonl.manifest.json": "b35884a22ac16b2386fcd1aa471c5823543d666257ea9b53e5911df6b1c868bd",
+    "${RUN_ROOT}/probes/base/humaneval/score-4.jsonl": "e262c1506f6b3a6fa88024f2e594431a9e9b752372fce907e4940fc90aa0129a",
+    "${RUN_ROOT}/probes/base/humaneval/score-4.jsonl.complete.json": "01c83c5a10e27adbe0865207a14e94d3f972074c76bccc61fe0996d2e3bc89dc",
+    "${RUN_ROOT}/probes/base/humaneval/score-4.jsonl.manifest.json": "2d3cf2c9a42622b82084a263189e973607018e09b26749d2036a689fa6b0b058",
+    "${RUN_ROOT}/probes/base/humaneval/score-5.jsonl": "4d0187f5cbe16ba4254b2d7decf940e990887d8d9bc04807bae7b686a68ecee6",
+    "${RUN_ROOT}/probes/base/humaneval/score-5.jsonl.complete.json": "f6afed6abff426f49c38381fb8778b6f960dbe8b5f54a5dade028044b4b48ff7",
+    "${RUN_ROOT}/probes/base/humaneval/score-5.jsonl.manifest.json": "7ad3ec06b8a30ffcb7bbb7b90198525d89f4c8e47dc3fcfb7be85f1d1bcb7306",
+    "${RUN_ROOT}/probes/base/humaneval/score-6.jsonl": "45d3c40366175256357a44d763557b9b9cf086f234acb17b50dee564417dd69d",
+    "${RUN_ROOT}/probes/base/humaneval/score-6.jsonl.complete.json": "af0352a91fae484e4b8f3d7092711c99c77025ef2698c603d32decb48101a193",
+    "${RUN_ROOT}/probes/base/humaneval/score-6.jsonl.manifest.json": "717502b70844e252583889c81dc369e08bf3cb86c2aff557c3b70a9740735dc2",
+    "${RUN_ROOT}/probes/base/humaneval/score-7.jsonl": "3b2eaa3c12471fa4758965674ee05bd05c0d45d53ccbc52357ffebec303bb41e",
+    "${RUN_ROOT}/probes/base/humaneval/score-7.jsonl.complete.json": "21d15b8a03106a6b7955bc1d80081fa97a23c27b5a1fb33edf9e2de818b5f532",
+    "${RUN_ROOT}/probes/base/humaneval/score-7.jsonl.manifest.json": "2f829e1fe3c02d5df845411a79e15e2d493fe1d470a83d8c6a5d91c5d2235a21"
+  },
+  "completed": 1793971285.0962746,
+  "result": {
+    "${RUN_ROOT}/probes/base/humaneval/score": 8192
+  },
+  "signature": "716fcac7066da94cce089b1e0b43b5347cc69cf3457dad4ea1141c43ff33ed5c",
+  "started": 1793970494.9240558
+}

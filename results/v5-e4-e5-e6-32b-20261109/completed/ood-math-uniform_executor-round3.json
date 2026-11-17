@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-0.jsonl": "ae633b788c0cb777dd3140c10db55fce34a3e30d0f2be1d0506bbb454e26ef99",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-0.jsonl.complete.json": "7c89a113ffca8976532ba7c8928361dbc7022158b3432e84248ebf8ba93dbb58",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-0.jsonl.manifest.json": "1d95eaa708cd6b79b5a7ffe7d22ef346217374f2192ae96e1e1b9fc5e57a2698",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-1.jsonl": "b9598224c675402aeb5be4319855b6909d89f459466520f1b78b10c215d359ca",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-1.jsonl.complete.json": "aa2b0d0d447ca56a089258be8d158e597c5052463ebb0a7fe8cf6471dd333380",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-1.jsonl.manifest.json": "12c3d9b996e2aa8a728f8e2d6c75699ae66bc7946bf37b4e6b4497860b2e9eda",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-2.jsonl": "83f06acbda7114a071e8128b132993a9695bdeaed40b7d15d1daf3f8fa68c9c2",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-2.jsonl.complete.json": "d943af0636176532e0638bdbd58e4ac46b93e48e792d439d1c663a53565cb02b",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-2.jsonl.manifest.json": "b36275102bd95d794cbf6375b73583b561e02e2d4696d666151f7d7d55caf586",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-3.jsonl": "4e54fa7a22d0d742280e910469c782807b67f032e1915aae4770bb545e1cbd6a",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-3.jsonl.complete.json": "43dcc3ce1332d0c226c7d56fdba02e579b7ec7ea9a4d67acc42037d94142e608",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-3.jsonl.manifest.json": "1c3b77b6cd22d90f3ae12b1877c5a4cc7c8a248c375cf39c636e41dfa84d8f2e",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-4.jsonl": "63311f3451171312ddd08cbcd4c391f201ecb898c8a77b4873e6356eeaac5c99",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-4.jsonl.complete.json": "55ae3f3b74c5d39512556c854f064981a9ff872104e6f5f713a1532cccf866d0",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-4.jsonl.manifest.json": "47738ae9b69890df25ef0c81fa9fc9de41276de9ceb83ce8d39a61d1e99831a8",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-5.jsonl": "0dac72e25a19451b1e483691a198749a7f29d11228f04b5085bd95b391391277",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-5.jsonl.complete.json": "22a1509fb1c3b8534f17df483eb4b816993af5af20fd1ca0dd68681ec9ceb1be",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-5.jsonl.manifest.json": "e69cc27af588797924bd1a5d5f1bb4c1c380c2444eaf36b61391c4def671a1b9",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-6.jsonl": "8bc9b718a4205166a0ae1fa705f4cb21c8bb945dcb02fadcb5f5103488b2e759",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-6.jsonl.complete.json": "12aee7c449edac28cd176da6a8849f5b5e12cff625477010d1b14fcbfe4f6a4b",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-6.jsonl.manifest.json": "50e3b79dce131084678b6fd42f51879e7b5ffcff282b17d14ade4c041e757eda",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-7.jsonl": "80f40b32b6bfe9cc863d5eb364454f6ffd6a55e0fe61ab45b80c0af6bf0e5f01",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-7.jsonl.complete.json": "f622c4350396ae28f3e5d1bbe9dbe04b8447a8990be53ed797f2d213961052cb",
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score-7.jsonl.manifest.json": "537bcca3fd8b74b8a47d48261422d766cf7c12d112ac83b81beddb003b8b6ac4"
+  },
+  "completed": 1793936704.809477,
+  "result": {
+    "${RUN_ROOT}/probes/uniform_executor-round3/math/score": 301280
+  },
+  "signature": "60001677dc8673cb7c7af9687154a200707d5fcb33fe9ce6b0f22ebd054463a2",
+  "started": 1793915035.322503
+}

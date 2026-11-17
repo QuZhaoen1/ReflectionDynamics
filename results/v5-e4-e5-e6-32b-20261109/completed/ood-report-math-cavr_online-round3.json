@@ -1,0 +1,40 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/executor-equivalence.json": "3c72e721885761d60214a8212b15cb6b1447b0ef02dc60b9d215f93c655e41c1",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/label_oracle.json": "964409aa3bf544966f2b67c2c3f84913929a595c8ec2f791b85f373345286689",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/policies.csv": "0553a04e5dc5965c3fcb2a432b8a5dd134b88846421db09f5cbe0d3a8fddc9d6",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/policy_states.jsonl": "06bcbc1272691a2b0dc2d246785d996066629bf690e7e812fbaa4c4503d45186",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/predictions-compatible.jsonl": "92b537440d84eb407dc76107a314a5a316596b5f270619f1f6faee79d6eafe61",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/predictions.jsonl": "f484b67f853c75d526f5c41bc5bed276e7511899ab04f7eabe4279146ea340c0",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/cavr/report.json": "2fe671166a77ac799e231e8da931b066d477190bc8857ce944a95408a2ffae5a",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/executor-equivalence.json": "6fe61d5f3a800d70f1ed08fd21df59bab97530386f5d942cb3efd8e7308a3d79",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/label_oracle.json": "964409aa3bf544966f2b67c2c3f84913929a595c8ec2f791b85f373345286689",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/policies.csv": "3139a0584e5b40f20d23cf2a28737ac5cce491c5c1dcb24417899b1744dc98ca",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/policy_states.jsonl": "a22423f974b0f8bd266cca848454687be610a285d8f1c4162f30af4c282c204b",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/predictions-compatible.jsonl": "83e3b548eb26763678494fb645592399386654d4ce9b7f382d41e9c5dbc92e00",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/predictions.jsonl": "ee422cf943ab68cb23eb5b8ce72d9757700205ced7ef9f894aa292eda1ad8167",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/confidence/report.json": "8d8537fd25e8fcef409e5e3ddfc419eed13b9166fb5ebc578ce483871aefc57f",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/executor-equivalence.json": "963fa151f2f922c8987a9ece452287b1c57d98b4f8e87ec4c6dd4ca85c3fce52",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/label_oracle.json": "964409aa3bf544966f2b67c2c3f84913929a595c8ec2f791b85f373345286689",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/policies.csv": "e5aae653b7470ae5a0f43dc2f1fbcb8d96ff0b666f6f6101a97bcdfd880552e8",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/policy_states.jsonl": "caca5bf6c5ffa86259044f573ba29f070ab8b005dff1ec6ac4593ed87717f127",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/predictions-compatible.jsonl": "0eef9910d5a19828781cf9edc2ba2eea392efcadd5522bb1c22e3674bf8569d9",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/predictions.jsonl": "8556cac0f8355155abcc45b8e9e301956fcfdc6a45c255a6fcd2a92eca1b44ed",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/direct/report.json": "856c2d910077b214b8ac619f2dacfd0e034e6db216897aa4a1c1d38761d2ca25",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/executor-equivalence.json": "00f0526d47728ee1ea5f57ac182b58a5c5b021ca72c360505f20e4f81760fea6",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/label_oracle.json": "964409aa3bf544966f2b67c2c3f84913929a595c8ec2f791b85f373345286689",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/policies.csv": "a28535c9048857fe3440352bf9e6ad62ea57dd71a3e45953897e7a2e5a86a81c",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/policy_states.jsonl": "496b96e66036a3db7e9ca0da1995e0349922d9a3ea0ca95db48254347a94752d",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/predictions-compatible.jsonl": "dd6f38cd597802e17e5d557a488f56076388645a3c99d272eca267c317bf8938",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/predictions.jsonl": "fe2d8477fafd653f14e56a265f52024962f1c2b47785ef4bd0ec2618326d8684",
+    "${RUN_ROOT}/reports/ood/math/cavr_online-round3/no_damage/report.json": "a86f8aa9947ad9de32e46b7737d52643fb82642e90b5c6a4f8ffc4f52cf986af"
+  },
+  "completed": 1793893044.4666297,
+  "result": {
+    "controller": "cavr_online-round3",
+    "executor": "cavr_online-round3",
+    "locked_before_test": true
+  },
+  "signature": "4ff42630e5ce5b1f1fc88ec9b2f124632fdd7e182e39b6157cee6a8fc39fecfd",
+  "started": 1793892725.1297915
+}

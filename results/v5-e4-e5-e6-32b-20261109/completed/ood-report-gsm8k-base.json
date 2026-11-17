@@ -1,0 +1,40 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/executor-equivalence.json": "26bd78e513e4d6653121580875c86e423eeade0bc54989c8166ad2f1f9525b40",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/label_oracle.json": "5a451a378bf2527f93275be53da4d099e1a9a9fef698d1c6cb06059b166f3975",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/policies.csv": "cbf2d047c9322006e8958872c0b8d9692992be435f5f680c307300b0cfb7ac4d",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/policy_states.jsonl": "9d6be3d6e3088a6b04d133574f1d274d2736720c161783fda49235ba323d8d91",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/predictions-compatible.jsonl": "5d56baaa5a3a3d3b3d09b4f26fd57bbdc9d0fd0008b988b615717ffc1db4c8f4",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/predictions.jsonl": "6d69a58400eb4ca3873f8ba03dae4c500be1099c89d8eb2d7ef7c9636c569085",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/cavr/report.json": "4e087a0805a44077ed496e3a6f686cecbe948f63247c070d2281d5e463def09d",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/executor-equivalence.json": "9aede1975757076d643cda6bd237cb227fde67036f6d2cae209faf5138d925a2",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/label_oracle.json": "5a451a378bf2527f93275be53da4d099e1a9a9fef698d1c6cb06059b166f3975",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/policies.csv": "d8215f47f816496ee27d9fe9edab1f45e498d5d0d14ddf0bba782b09f4526e45",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/policy_states.jsonl": "941bd26e54d7b3218dce820bc28180224e883682ec9810c8a70a03ab125e8a00",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/predictions-compatible.jsonl": "0cfcb36bc90bb2518bc33f46873ec716a5c8741d68ab256bda670370d6db21dd",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/predictions.jsonl": "b71260ae964b141f3fef426e201e238f40768b717db93322825ef62e4763e57c",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/confidence/report.json": "3f8f00f676469127cb11989f1a6fda358cf05ded5f12b4cde0dd45a0bdab75e4",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/executor-equivalence.json": "62150e8b47b86be9530c3421af6a368e1b450306a46d18ca0a23ce68369fd678",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/label_oracle.json": "5a451a378bf2527f93275be53da4d099e1a9a9fef698d1c6cb06059b166f3975",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/policies.csv": "171a705cfd9f59e1ab52165667b5def267f8ea677be0a72bc8743b87c6637b71",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/policy_states.jsonl": "c3052b821c1ba83dfa6b3d50cf7653200883c7bb1d29c6655c76cb020a9da3ac",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/predictions-compatible.jsonl": "cd8566731cf8e77d91a9ce44b0b6b77596474d5ea54878f81ede932a86db478c",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/predictions.jsonl": "8bf7ceb719fec0d87e421976cdbcfa5b14c27b6c21da906f52afb63eaf36e756",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/direct/report.json": "c665ce42c259040e8bfbf2d31684cf3c1594ab78f45d0fa5d82118ce838fc38b",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/executor-equivalence.json": "d8b31b6fc8c15826bd4f6497ca2f4e68141899672566ce17758acdc160598dfe",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/label_oracle.json": "5a451a378bf2527f93275be53da4d099e1a9a9fef698d1c6cb06059b166f3975",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/policies.csv": "bb6003b0416e0527b1ee25eb5cc223287fd611c77fe5c3e5b7b74eb75f94f323",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/policy_states.jsonl": "7371f7ea036fdb1f08efeab6cede681090f0eaf531a954e9ab369b847944e735",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/predictions-compatible.jsonl": "96bc99cb02249975e016cc87172ae2bb1e0be6445361846ea4e4204021cc78b2",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/predictions.jsonl": "8c633cfb28ead6a89092a01edea2571c71667023357aaa3518f6a2800779b1b9",
+    "${RUN_ROOT}/reports/ood/gsm8k/base/no_damage/report.json": "9aa6674802cc3f05796a4382eb99393a46309d33d9b6b683e8499891b30e28ea"
+  },
+  "completed": 1793946297.870826,
+  "result": {
+    "controller": "base",
+    "executor": "base",
+    "locked_before_test": true
+  },
+  "signature": "316295f483b2541166a862c2e788b6735ffb29b6fceaf86daf682365678a176e",
+  "started": 1793946243.9093108
+}

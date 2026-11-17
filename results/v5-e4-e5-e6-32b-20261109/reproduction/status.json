@@ -1,0 +1,8 @@
+{
+  "E4": "three variants x three rounds x 40 steps",
+  "E5": "four independent datasets x five executors",
+  "E6": "three independent 32B seeds x 400 steps, full checkpoint trajectories",
+  "completed_stages": 172,
+  "stage": "all_complete",
+  "time": 1794161610.809332
+}

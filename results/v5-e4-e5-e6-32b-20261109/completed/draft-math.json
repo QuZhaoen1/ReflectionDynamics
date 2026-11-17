@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/drafts/math/base-0.jsonl": "c4f09dcd9b8bb00f2e0eb4596e7f7cf07f93ecbb19cf0c8f5769e506e2884d42",
+    "${RUN_ROOT}/drafts/math/base-0.jsonl.complete.json": "ee48bf78f7d23865aa4d9dda41445a1e36015ffbd6856975855ccd6b4755266b",
+    "${RUN_ROOT}/drafts/math/base-0.jsonl.manifest.json": "2c410f6ddd86f4f4d5341e97641c22109651fdf38e1167c5c612edf854a7e8d6",
+    "${RUN_ROOT}/drafts/math/base-1.jsonl": "381c20942f23cca08460299dad164176d3c1c82b8ce3b8be5adc71a83f03fa12",
+    "${RUN_ROOT}/drafts/math/base-1.jsonl.complete.json": "d61f87f23b7792951a954c15d1b3a8d0f38efdb48bcf4a29642c6b9442521399",
+    "${RUN_ROOT}/drafts/math/base-1.jsonl.manifest.json": "7ffa1580085d6c5498f5faa128064b932fe8197f26bce801c19f98363bb29099",
+    "${RUN_ROOT}/drafts/math/base-2.jsonl": "8f241f3fa85c66d72935c98a3f98c42b4d4cd4387648c52b84d3dbee1f14a527",
+    "${RUN_ROOT}/drafts/math/base-2.jsonl.complete.json": "9db424f4430e31bf0e88f5e1b151ed19cb2d365b89520d707c4ccc428631ebad",
+    "${RUN_ROOT}/drafts/math/base-2.jsonl.manifest.json": "7a881974591102ce4abf464d4e396a4cd3b1192adcd9f61cbee7b428602a0e9e",
+    "${RUN_ROOT}/drafts/math/base-3.jsonl": "b5694f14a5412ca774e66c9242e36491f6464f5c83e753d13c0cffea0509b458",
+    "${RUN_ROOT}/drafts/math/base-3.jsonl.complete.json": "107e62f8f421ddbdc92f4e886053bb3bbdfe82d64cc2b56c854946758a879879",
+    "${RUN_ROOT}/drafts/math/base-3.jsonl.manifest.json": "fa5f88e3472a0a4267af2693484b0ce430bf581807d10bf9ec039fd679417cd0",
+    "${RUN_ROOT}/drafts/math/base-4.jsonl": "9ebb8284482faab631318c405a387859bf01fba4803d9aa9af456ff5a0d6f2b9",
+    "${RUN_ROOT}/drafts/math/base-4.jsonl.complete.json": "6c1facaa78336a03e42a09c0b7043dcd1be346211ac491d9ffcef52f2ade33d6",
+    "${RUN_ROOT}/drafts/math/base-4.jsonl.manifest.json": "90fcf1c1284128d274eae6a5ddb8c534d30c782a9d6d4f151f03cf8021ca891d",
+    "${RUN_ROOT}/drafts/math/base-5.jsonl": "83d8e1dee4c88c8fd52fb50e80839fa02714432f9fa24746edbfccc5835bfe79",
+    "${RUN_ROOT}/drafts/math/base-5.jsonl.complete.json": "a0869d23dba489f23fcd457264e26e1adf2d7426f9674b5134a5bbd388f5a481",
+    "${RUN_ROOT}/drafts/math/base-5.jsonl.manifest.json": "5a58b998262219af68a0cf02eb8d0d709646841d132545862a55d17bcb13c93b",
+    "${RUN_ROOT}/drafts/math/base-6.jsonl": "ebd5bb22c55681a7cb70c568854343e0bf016c261ea4bf15894561da0cf5b051",
+    "${RUN_ROOT}/drafts/math/base-6.jsonl.complete.json": "546a69bd036111e16ded1be310d2d611844dfb84f97d85d2c15bbdda1d2b95e1",
+    "${RUN_ROOT}/drafts/math/base-6.jsonl.manifest.json": "19473b5e22b9801424b611636e5b173c19a3d76761efe8bbb15cc4c4cde83fd3",
+    "${RUN_ROOT}/drafts/math/base-7.jsonl": "ee830f36e966be6b8c7bc074ac640b2af041193d427c6cf8a4760dbca8844f79",
+    "${RUN_ROOT}/drafts/math/base-7.jsonl.complete.json": "99ddca68c1de8eb7c0bc9fd24e7d5cd727fc5da85b2bf7dff7676f9aac711562",
+    "${RUN_ROOT}/drafts/math/base-7.jsonl.manifest.json": "345663e9ac0458bf843e57b6e0cbf93ee6870555734a63b1b2b4999acec1ffc5"
+  },
+  "completed": 1793799928.3098347,
+  "result": {
+    "${RUN_ROOT}/drafts/math/base": 10000
+  },
+  "signature": "3c593f99a94eac6ad2338204e31089de8244daa18e43d573b8b8407229050fd3",
+  "started": 1793798643.0161355
+}

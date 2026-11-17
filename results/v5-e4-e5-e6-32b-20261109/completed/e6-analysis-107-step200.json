@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step200-audit.json": "7e32db8983a081f339d4484ff6429212308412cfe1d8a0d60c47bd11cbd0235f",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step200-selection.json": "2e3a0331c4f2969a735065e4510eec4f3d3047dbefb782d1c76e28d7ea644d6b"
+  },
+  "completed": 1794153279.2012298,
+  "result": {
+    "checkpoint": "step200"
+  },
+  "signature": "2eb5fdf2998d698e44fd22389218513c9f14916c96342c5d6694f79f9b541a27",
+  "started": 1794153276.434869
+}

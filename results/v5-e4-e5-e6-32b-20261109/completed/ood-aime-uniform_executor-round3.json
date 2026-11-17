@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-0.jsonl": "e25b511fc9ecc4a70d1bf0362961724d176c59770190402eff72243ed62cd73a",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-0.jsonl.complete.json": "08c5ddf47a093ca664c12192e3a145730cbac896aea56d2996b77cb8addc511e",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-0.jsonl.manifest.json": "c4696e3caf341c66e20487c161b8d681858405057829912873c9f497f9382c1d",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-1.jsonl": "0be3d968dfa0a26dcbcef358373edae2974388274b42e598e404e4004530d2f4",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-1.jsonl.complete.json": "71cc07767dc27cbb0aa6a50cdf78475d2738ad162cf9f4bfd4e1a73f5baf451c",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-1.jsonl.manifest.json": "70903580566f5068119badd78fe8620ccf26a46d005109a2b1f22e0b58edc80b",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-2.jsonl": "23f20fea0629f10eda16abc9ef6693aab14de29b22d6c38dccd5b9ae180b80a6",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-2.jsonl.complete.json": "02489d8c35ce6e8612a35783120c5d58d3149e0e250b26a4fd85bf69961e2a58",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-2.jsonl.manifest.json": "45feac841edfab015ab358ad8144f256aa3542925578941b1f96c33c283a06e0",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-3.jsonl": "a48e107ce1ccfcfa38cad17807ef653b1095203f70d23c5dfed677c37a6e7366",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-3.jsonl.complete.json": "e3e3d997eca12a2c6b7ef8b944553a7b60e11c7d24635951fb580857ea769c17",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-3.jsonl.manifest.json": "d947cbdf6e090f254c5e09442551aeb1704576ec066398d56afcaccbf23f8e07",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-4.jsonl": "8aea8178d4283a30b410e02563376fe11da6d72e37f628ddb068fd0d3744e4b2",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-4.jsonl.complete.json": "73298beb78b2d2f51ed3609a8454cbf69c245e96014d029a5e526958fd6c205b",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-4.jsonl.manifest.json": "1c8776221dfb070c898aa187f5490048762842e26310483cd963d3d16b71fc0a",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-5.jsonl": "4634dffcb1e42a7a667b2def9500ca380527b6eae8a6af75d586a427b614baf4",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-5.jsonl.complete.json": "6d0e4584d68ebf5999382407c950330744876e3796559624fa6c71dc5468fa14",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-5.jsonl.manifest.json": "850ebb38280c674b07048cf943dc0405d8782ff12b0b74f697fbaf7979c4aa74",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-6.jsonl": "8462bfe58602be68a26b9ea020ef3da0df161ce2328bedc13e145aa0b372d0f7",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-6.jsonl.complete.json": "37c7be1d999d28c72cdd38802ce14e6d43f87a2067ef9672cec076f10eea3eaa",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-6.jsonl.manifest.json": "fcbd9c16d6caae5f5d6b2b3f5f476ca4f3741a8a9e2fb6f478e2ea2a23656ff1",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-7.jsonl": "613f5e1169f47dd8ab19136c6e84cefd4bdb33fabf962923896408da625d3cb4",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-7.jsonl.complete.json": "75f8bcd4d9d2a677ba6daf15545af66c8845d71451b7c8806c4250c0cbe034c6",
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score-7.jsonl.manifest.json": "4de0ff974eae5cbf4a68ba301360dcbfcb399dcb8d3e2b73a52c736f0015f55c"
+  },
+  "completed": 1793940595.9706995,
+  "result": {
+    "${RUN_ROOT}/probes/uniform_executor-round3/aime/score": 4160
+  },
+  "signature": "8207518787965f7c363e7f3cf99209426c34eb8196d9e7491a8b51ab1669b195",
+  "started": 1793939925.889135
+}

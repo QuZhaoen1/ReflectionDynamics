@@ -1,0 +1,10 @@
+{
+  "metrics": {
+    "damage_rate": 0.1098557710647583,
+    "repair_rate": 0.16130051016807556,
+    "sampled_reflection_probability": 0.5905090065502183,
+    "utility": 0.007368995633187773,
+    "value_selectivity": 0.012115773559810071
+  },
+  "training_seed": 73
+}

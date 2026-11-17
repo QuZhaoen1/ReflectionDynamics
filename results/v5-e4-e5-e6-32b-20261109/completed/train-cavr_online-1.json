@@ -1,0 +1,22 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/adapters/cavr_online/round1/adapter_config.json": "062cd5d479856a6e83ffd8130048d9f0cc9c13907e30bf907c2228b469a5fbfd",
+    "${RUN_ROOT}/adapters/cavr_online/round1/adapter_model.safetensors": "c7454d4d9896c07f8815ff04bee22042c6eab67c553071f72588ced7a5374b8d",
+    "${RUN_ROOT}/adapters/cavr_online/round1/added_tokens.json": "58b54bbe36fc752f79a24a271ef66a0a0830054b4dfad94bde757d851968060b",
+    "${RUN_ROOT}/adapters/cavr_online/round1/chat_template.jinja": "44d5f08f3f72b837eaad09f13a54c1f9f4eb58d75240334548b7fd52a5437fa5",
+    "${RUN_ROOT}/adapters/cavr_online/round1/export.json": "912200be2237dd889133e40e36ea2da301e8e28805b0388aefbf29f42b901d00",
+    "${RUN_ROOT}/adapters/cavr_online/round1/merges.txt": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+    "${RUN_ROOT}/adapters/cavr_online/round1/special_tokens_map.json": "6676f091c8bc4d1b50146427cfde92073402866b87b6e39223227931b70083e9",
+    "${RUN_ROOT}/adapters/cavr_online/round1/tokenizer.json": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa",
+    "${RUN_ROOT}/adapters/cavr_online/round1/tokenizer_config.json": "60f6e7bc948cedd377a20f01d022ef664d026fbc93d72e0a9bdac233f8632181",
+    "${RUN_ROOT}/adapters/cavr_online/round1/vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+    "${RUN_ROOT}/runs/cavr_online/round1/status.json": "198524a242af41bd4b6c1a667536ba836994e604d41cb28ae8b40417a86be55c"
+  },
+  "completed": 1793721940.7843635,
+  "result": {
+    "adapter": "${RUN_ROOT}/adapters/cavr_online/round1",
+    "adapter_sha256": "30c5d8b3fb548e7f84b51acccdfa09f2c223ba4d8ce6d577b7c1b4cb1f5587d7"
+  },
+  "signature": "45a16e6f6761968682af550d011d1846ce06047347688583a54d549ee94a8c9e",
+  "started": 1793717812.357797
+}

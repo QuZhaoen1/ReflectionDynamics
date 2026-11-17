@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/step400/confidence/calibration-107.json": "2fa00b227ef62b17db09de71c99a012750b9c98ff76ef7445a9efafea41a97c5",
+    "${RUN_ROOT}/controllers/step400/confidence/calibration-41.json": "105b8bd77d8e04b69c0f3acfb0f5475a66f00df7da76d2a6a22944db06164ce4",
+    "${RUN_ROOT}/controllers/step400/confidence/calibration-73.json": "4be72b4b395e19f8807d292a06e88e05f7a5a8db9d0bc6a678e4493e9cddad21",
+    "${RUN_ROOT}/controllers/step400/confidence/head-107.safetensors": "779f81d5bd88aeefe95a0fe0bd73e3936a1f280e930a89413faff1d6bd0887c2",
+    "${RUN_ROOT}/controllers/step400/confidence/head-41.safetensors": "56cce8cdcd01fcddcbc09c5857e5e78ff46ca30dbb62353eda9f31f3ee6ef9f7",
+    "${RUN_ROOT}/controllers/step400/confidence/head-73.safetensors": "8aff0547454214f00c9ce27f1647509689cd2f45d769e8fbbc609cba5a085278",
+    "${RUN_ROOT}/controllers/step400/confidence/history.json": "fe219761eca23b52167e5499a216aec01d57f63eddd52958fcebee419cea245c",
+    "${RUN_ROOT}/controllers/step400/confidence/model.json": "2697b5bead596dc54663d5c35f8ab2a6b99d8b27c9655ba810629f9b37f42396",
+    "${RUN_ROOT}/controllers/step400/confidence/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/step400/confidence/train-107.pt": "a4d94208135ea0ea7158d6061f617ddc8569dd479b8dadfcb4fee56c5e0a29f2",
+    "${RUN_ROOT}/controllers/step400/confidence/train-41.pt": "66fece397721bd112dfd6bfc2815debcdb748f60056c199d05b38b01d9320bb7",
+    "${RUN_ROOT}/controllers/step400/confidence/train-73.pt": "4f5f3e69df6b0d94b9432c665483c97c5923fb1d21dcb68629ccea75f8954713",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/gate_holdout/label_oracle.json": "7143c120250a115d43a3c9107111c9e7f09beb4e8bca8374c67017d42c4112a1",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/gate_holdout/policies.csv": "d5ba9a282a8ac6307fc7dd518fc4c13892fb6d7c0ec73c9be693d26612c2b62f",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/gate_holdout/policy_states.jsonl": "5cceaa31f7d71be1f3dfbf430b89e0e7433796338bfa3170b9e3e22c8b043ca2",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/gate_holdout/predictions.jsonl": "7d43e5f509c9912c84373f222da7975c9213a5dfc6e77142d3a1955fed558403",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/gate_holdout/report.json": "663208aad0ce1810a15a6b8c613e2c28288f33e3915c8df314b8035207babe2f",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/validation/label_oracle.json": "ada59c91fc1beed753a95f6a3bc34af8ed7f1716f18c4f50ccbfe0f9a1cefa8d",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/validation/policies.csv": "f9ec9a51a29fdb12cc0d6b13130355850078c677582c66e04c823171c23cecf3",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/validation/policy_states.jsonl": "ceba01f9aec674b91ee0e491ebff506c726442ac3367cae1942d4116c17af6bc",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/validation/predictions.jsonl": "a294618e641d18e72eed4aaf205161c8af50c3ddfc391cbf756ef67be70280c3",
+    "${RUN_ROOT}/reports/frozen/step400/confidence/validation/report.json": "1545556226842db66cdd9f0aeb0d2ed5ea66044c8008dcde8337c5d7422e3dfc"
+  },
+  "completed": 1793692224.6197221,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/step400/confidence"
+  },
+  "signature": "7f910f6b4f0d4085bd10764cf13b3b8b2e6a9bdb6fac0b832836ce12025556fd",
+  "started": 1793692213.4043133
+}

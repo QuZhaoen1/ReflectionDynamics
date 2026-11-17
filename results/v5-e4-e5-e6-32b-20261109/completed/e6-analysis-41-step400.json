@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed41/reports/step400-audit.json": "4edcebdc882b7bf4ec0a066e61402c66550f2a3b851180c8b5d89c32d539f08e",
+    "${RUN_ROOT}/E6/standard_v5_seed41/reports/step400-selection.json": "3f40868390fe3023b368331e069eaa852eb24cff41e1647532b15d918bc68f79"
+  },
+  "completed": 1794036627.9137197,
+  "result": {
+    "checkpoint": "step400"
+  },
+  "signature": "520e454605642caf897192131ff02f76671536bd9042f6c7efd3be967c363948",
+  "started": 1794036625.1965938
+}

@@ -1,0 +1,40 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/executor-equivalence.json": "bcf0054c3606a094e6b1e7bf316ec00a00b0cb8276535ed472ffc791acd906d5",
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/label_oracle.json": "47ec87d06686f59ec9fab5b0e199bd4b3a41ae1a34590cee313662ff5cd8b67d",
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/policies.csv": "0f9a7400aac7b9443cff3f0cb860062b4d8cccacb6596bf3fc62c0ccfa216ced",
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/policy_states.jsonl": "e2d8eff1fb5c313e0f846c4a1eb97e5177bade0ec3be2ba4a7a1b77148b03201",
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/predictions-compatible.jsonl": "78955eeb0a4e933844384f9db41db10d50fb2519c8aa70889377bfb8fd31c72f",
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/predictions.jsonl": "1331acd3a2c859de69567381070b51a2efbc5a33acc3a70ca1368f7291ce9cba",
+    "${RUN_ROOT}/reports/ood/aime/base/cavr/report.json": "a8990d0154e55bc6a1bade3a6d4a6441f96ede216c176a736e903fcba9c4e121",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/executor-equivalence.json": "1cabf4b435b34332bc3fd5a4b24823e3e672230ffed0fdfa3e4c308d8c24dc0e",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/label_oracle.json": "47ec87d06686f59ec9fab5b0e199bd4b3a41ae1a34590cee313662ff5cd8b67d",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/policies.csv": "aac5b81a519ac9f7f57a7a6d4587e55558a872fd1a3793caaa9e843b6a73f7e7",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/policy_states.jsonl": "8b2708e1b4df5ba59c28a16c90b2ea9d81ca93177b5d35421a75854e204cabba",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/predictions-compatible.jsonl": "88eb4bd3d4d0f4340a5eb39c58896cf66e32adf4c21fe7510b5cf64d5b718da7",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/predictions.jsonl": "9d9b2b0bebdca78d1f9b443d3040afb3338364741e0d0948e950b3de2c7d69af",
+    "${RUN_ROOT}/reports/ood/aime/base/confidence/report.json": "d558d5918e108e0c1080b722432487107915d96a9a36e961e88d17b05f4269eb",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/executor-equivalence.json": "48657d66a195f7f50bf471ff3f4297837f9c718ec9e828b9488cce5debaa2108",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/label_oracle.json": "47ec87d06686f59ec9fab5b0e199bd4b3a41ae1a34590cee313662ff5cd8b67d",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/policies.csv": "8883d78b6810ba7be19920b03c86d1d4e779d022d4aa3decd371b52450862ab7",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/policy_states.jsonl": "857e4149de23ada17933d4f8e0b94731d417deacde5446b184c64f2535c98819",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/predictions-compatible.jsonl": "0d23c8bcbaa643952f4fbed2e439558249a03cbd5653c04be2a79a18228f5a19",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/predictions.jsonl": "d4520d228fb235709cc666a290ac0a0dc1f4104e6590340ebeb235c2b8a4a8ae",
+    "${RUN_ROOT}/reports/ood/aime/base/direct/report.json": "853095943372152c606f8f71fd0e5db2c2d8d9f954deab29bd9be43d0522fbb5",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/executor-equivalence.json": "249f54f2402da4ea2023735a2cd6adef8dddc49911abbfd52b0a4c54f85e2426",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/label_oracle.json": "47ec87d06686f59ec9fab5b0e199bd4b3a41ae1a34590cee313662ff5cd8b67d",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/policies.csv": "5c9a4fe24805869f0e84e23760b1f246a981d64d86480168174ccc167d0c4805",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/policy_states.jsonl": "6edf90d60b597adebda3f19032983f1200731647ef9290ce49f2ce1f1955b50b",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/predictions-compatible.jsonl": "96db28a727a5d5c0a4a8c12447ddbce011eeb519b5c58ff767668548fc80742f",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/predictions.jsonl": "84836da769dcae0bd760d1ddb1d3cd49f6273682bf63cd340c1ad3df28e96fd8",
+    "${RUN_ROOT}/reports/ood/aime/base/no_damage/report.json": "889fc7bb7e5e1728bb8df68a22da2d14f7d106c5d6c46f0140e6fe0dce460f6e"
+  },
+  "completed": 1793937879.4346535,
+  "result": {
+    "controller": "base",
+    "executor": "base",
+    "locked_before_test": true
+  },
+  "signature": "e3b5c233eebe4327cc1a33d75f3e80957c66f85fc53dd942b3522428dc6ab5ad",
+  "started": 1793937870.9442809
+}

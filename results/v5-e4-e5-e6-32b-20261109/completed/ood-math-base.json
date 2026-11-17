@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/base/math/score-0.jsonl": "a37b60ee0e6b62019ee3405019b7f3ccf5f9aa338575f632edd25d1b88e1d5eb",
+    "${RUN_ROOT}/probes/base/math/score-0.jsonl.complete.json": "6af3f4c87dc99995c47d80c3924192ef44887e3a6f6b171228dc66bc5ee955be",
+    "${RUN_ROOT}/probes/base/math/score-0.jsonl.manifest.json": "7047993c20182f85051d93046571641f000387e2b23629b29414c50972017a04",
+    "${RUN_ROOT}/probes/base/math/score-1.jsonl": "cc63a12046aee0ba406cf7fa6e2a4ed194fdd870cfb499f5d0213f745a9acdc3",
+    "${RUN_ROOT}/probes/base/math/score-1.jsonl.complete.json": "3ba00dd107ca762ce4f782a8f8a331f874ee1d4d82e833105037cb01f22fc4c8",
+    "${RUN_ROOT}/probes/base/math/score-1.jsonl.manifest.json": "2f29aafa3d582a7541255bd0b07a94dbcc15d31fd674154d2526635bc85708f3",
+    "${RUN_ROOT}/probes/base/math/score-2.jsonl": "47c815961603f262a840c1ed8ee6227b2dcbe50a5c1c2029cc0ea1a5b5acb4c8",
+    "${RUN_ROOT}/probes/base/math/score-2.jsonl.complete.json": "c6b3bb9ee8393eb0981b6f685430e874584614bab54ff86d98bc9b9925444ff8",
+    "${RUN_ROOT}/probes/base/math/score-2.jsonl.manifest.json": "3b6d0fbb7e8e29bc80ed8ff52b351eeb704d91036decfc6a28e6015aa92a0b78",
+    "${RUN_ROOT}/probes/base/math/score-3.jsonl": "72c0156b76f10661415f45016b3c52839d0fcc29e647aebff12d9e5fc702bdb8",
+    "${RUN_ROOT}/probes/base/math/score-3.jsonl.complete.json": "45041b4d0c00ce4e91433ff0f820efb5babefe5d71688b1aa5485c43995b66ee",
+    "${RUN_ROOT}/probes/base/math/score-3.jsonl.manifest.json": "718fd16fcb8e1e315c28bd0f14475ce64c1eecefee60cce6751ee3348c57e0ea",
+    "${RUN_ROOT}/probes/base/math/score-4.jsonl": "fbf0a32730babdb7f359bc0b5f63e7c804396acc998b72c8c1f9f7359af68773",
+    "${RUN_ROOT}/probes/base/math/score-4.jsonl.complete.json": "0816268713286a34ffa93a88e40ee7867c1db2ed244c8ceb6f1d36491eb81302",
+    "${RUN_ROOT}/probes/base/math/score-4.jsonl.manifest.json": "4d3c80e15f95b9f5a6504049b0288b23e63f5962b9ae02a31251c62fafc71335",
+    "${RUN_ROOT}/probes/base/math/score-5.jsonl": "09b56289d3b8444f664640a7771627c1be94732a9aeedbb7eab1d41b2268985c",
+    "${RUN_ROOT}/probes/base/math/score-5.jsonl.complete.json": "e467c9df713cb03d5f2dfadcc94d3e9ef48604fc89b6e3d00685ea9c9d499417",
+    "${RUN_ROOT}/probes/base/math/score-5.jsonl.manifest.json": "fa7ef44f9a67560af2448d13ac13ef2482c46bd9be8cc584d55c3c2503bd82fc",
+    "${RUN_ROOT}/probes/base/math/score-6.jsonl": "2bb7f89305040770234f2bc2de1980c7b0ab7b0d58f6fb8e13523818c60e4252",
+    "${RUN_ROOT}/probes/base/math/score-6.jsonl.complete.json": "de3bb6bdfa3efff560acd93e599adcc82d3ab2f8c3c71c1cb431b68e62f7f2d6",
+    "${RUN_ROOT}/probes/base/math/score-6.jsonl.manifest.json": "e93f459c48e8fcb027c32749feb65bc1911fe34d400121478b9efd42fa2580c5",
+    "${RUN_ROOT}/probes/base/math/score-7.jsonl": "e4393273f6e7849d7edabbeb3d6fe96a061f96c66c6431fc12b24a5424121d61",
+    "${RUN_ROOT}/probes/base/math/score-7.jsonl.complete.json": "c7a94dbebe8a7bda664a1f3eb5176ff028916afbacfed61f2c52d3d551d23fb7",
+    "${RUN_ROOT}/probes/base/math/score-7.jsonl.manifest.json": "7f2b8488baa34cfdafdb4d64d86c8f99732c1e8aaa97d3568724bdd712e234bf"
+  },
+  "completed": 1793819797.1383362,
+  "result": {
+    "${RUN_ROOT}/probes/base/math/score": 301280
+  },
+  "signature": "8fbfeca56416a71384f0b0f111428d596b948db32e17a7305ccaf976894e6fee",
+  "started": 1793800517.5643926
+}

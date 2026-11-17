@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-0.jsonl": "8a07ce8a49584a582895f14a421a465669aae08f7e06bdebd5400f6940a6b6bc",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-0.jsonl.complete.json": "b0df115ff290970da8eea3b1297d059fbb2d786783e83cfbe29c134d5cdfbd5d",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-0.jsonl.manifest.json": "e2fffe627fd9ebf6669cb1a66da404b6783fdcc87284988518d1bf9478229919",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-1.jsonl": "3ddab5a7452f28e32e20b2492bc72e38910b083ac53b8adc36174bf36106bb72",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-1.jsonl.complete.json": "c41f4d3520f7b4bb180034185ac9c0bdd9bb467c560f128ed249893d18006e26",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-1.jsonl.manifest.json": "af5cc4b7279183f28e41bef50caf7f49f4d40aa460b22c31e84866302547e1db",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-2.jsonl": "9a3ffc053562b1cc0a6e648e261b99b8a65108ec30c23b52ff2d49d339c7ebb4",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-2.jsonl.complete.json": "943a605fda68d81ec05555c969a8cabf6702f66732b10eab716ef25036a6b72e",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-2.jsonl.manifest.json": "31b64113731b339088cd408adf68a55e7e6eda4aa937afe8ef54045f749835bd",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-3.jsonl": "5abaf8c1b6a7d5f576b8a2c272d8945acf3dbda1571c5ccf48c6ca4bade7a778",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-3.jsonl.complete.json": "6fbc40558b0aea63c139d1869aed6bfeb46250d6fed9fae2f2549644a62d6229",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-3.jsonl.manifest.json": "70d6c2347a4dfdf0e9505d4c0f52f5784dbc7b0358bbef2db3059f7f4b853fcc",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-4.jsonl": "1b71654229b3660051546ecd45451cf55c178278a28faf1c8b498f33ccfa19f1",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-4.jsonl.complete.json": "14fc4cc13651ac8a0193659011c93e0369fd8a026291f2c4f9101ad5a1f6afec",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-4.jsonl.manifest.json": "d842ef94c731c98cab8224970b1df4f89f2f4347bb619dbcc5fd9fff03724bc6",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-5.jsonl": "929c7b94ef7e6f7240b4b845d848657cf06a5bc68e2137252460144162f47dd2",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-5.jsonl.complete.json": "d79c10b975dc37ed683a0dc917b3de319fd7224b49731a38ed6d85728f34a833",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-5.jsonl.manifest.json": "d8d70db791756e4ee53e502ec5101718b13b504038a64f3b5ce64ef19f228de7",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-6.jsonl": "2c004b6d585d4f335185800744a77683d03e5378becfb407fd3d28b5562fa8af",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-6.jsonl.complete.json": "c467e7b314452c86b9977c97402c1acf16a1fa42f28386232d6125ffc6c6bcdb",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-6.jsonl.manifest.json": "3454ed7e8f48f2a5faebb2a4739a944293022055797fabc357f20e0036cf4e97",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-7.jsonl": "fc688ceb18a1d55e06bb85904868ca5255c5b7164b90f7286b61f71f3b53837e",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-7.jsonl.complete.json": "023892046fcd9635dfbda68b5bc0da3b30bf444d9761828bc267acf89cb7bb73",
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score-7.jsonl.manifest.json": "27d967b0896c6490df7e1e1cc4ab1f54769de18c2b47b4d94c7545fbdeb78495"
+  },
+  "completed": 1793964282.6879241,
+  "result": {
+    "${RUN_ROOT}/probes/no_refresh-round3/gsm8k/score": 84224
+  },
+  "signature": "5096270e8cc8c3081063a3a60b05f34be6c51b487b0df9321ce9f7b553c212a5",
+  "started": 1793958416.4049864
+}

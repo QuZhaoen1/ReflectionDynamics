@@ -1,0 +1,83 @@
+[
+  {
+    "seed": 41,
+    "before": {
+      "sampled_reflection_probability": 0.5974686135371179,
+      "repair_rate": 0.15625,
+      "damage_rate": 0.11923076957464218,
+      "value_selectivity": 0.011030546344642074,
+      "utility": -0.00013646288209606986
+    },
+    "after": {
+      "sampled_reflection_probability": 0.5825259279475983,
+      "repair_rate": 0.15719696879386902,
+      "damage_rate": 0.11442307382822037,
+      "value_selectivity": 0.010867570221773041,
+      "utility": 0.003002183406113537
+    },
+    "modular_gain_before": 0.010949014055676855,
+    "modular_gain_after": 0.012616419896288209,
+    "training_change": {
+      "mean": 0.0016674058406113538,
+      "ci_low": -0.0016776598927884456,
+      "ci_high": 0.004928479375790354,
+      "draws": 3000,
+      "clusters": 295,
+      "unit": "original problem; state-weighted; conditional on recorded generations"
+    }
+  },
+  {
+    "seed": 73,
+    "before": {
+      "sampled_reflection_probability": 0.5981850436681223,
+      "repair_rate": 0.15561868250370026,
+      "damage_rate": 0.11298076808452606,
+      "value_selectivity": 0.01113765611294121,
+      "utility": 0.003138646288209607
+    },
+    "after": {
+      "sampled_reflection_probability": 0.5905090065502183,
+      "repair_rate": 0.16130051016807556,
+      "damage_rate": 0.1098557710647583,
+      "value_selectivity": 0.012115773559810071,
+      "utility": 0.007368995633187773
+    },
+    "modular_gain_before": 0.013015147379912663,
+    "modular_gain_after": 0.01646723185043668,
+    "training_change": {
+      "mean": 0.0034520844705240175,
+      "ci_low": 4.50231960540839e-05,
+      "ci_high": 0.006884418965259193,
+      "draws": 3000,
+      "clusters": 295,
+      "unit": "original problem; state-weighted; conditional on recorded generations"
+    }
+  },
+  {
+    "seed": 107,
+    "before": {
+      "sampled_reflection_probability": 0.5961039847161572,
+      "repair_rate": 0.15814393758773804,
+      "damage_rate": 0.11538461595773697,
+      "value_selectivity": 0.01125570637567695,
+      "utility": 0.0028657205240174674
+    },
+    "after": {
+      "sampled_reflection_probability": 0.5936476528384279,
+      "repair_rate": 0.1584595888853073,
+      "damage_rate": 0.1108173057436943,
+      "value_selectivity": 0.011595653143234776,
+      "utility": 0.005594978165938865
+    },
+    "modular_gain_before": 0.012963973799126638,
+    "modular_gain_after": 0.014917098799126638,
+    "training_change": {
+      "mean": 0.001953125,
+      "ci_low": -0.001172449101640203,
+      "ci_high": 0.005347507603163664,
+      "draws": 3000,
+      "clusters": 295,
+      "unit": "original problem; state-weighted; conditional on recorded generations"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step80-audit.json": "7a0541fe43d7fa04fc2812d292c9ca0b4ce5c8efbf578eecf036f1ab2f98f5af",
+    "${RUN_ROOT}/E6/standard_v5_seed73/reports/step80-selection.json": "370ee564304a6f499c825042eae081986194cb8189c68df9fff007c98dfe2274"
+  },
+  "completed": 1794086512.563565,
+  "result": {
+    "checkpoint": "step80"
+  },
+  "signature": "762114e6a13ef674b42eefaece80fc6d8a333b76f4f690a8e7b6816911c9f5df",
+  "started": 1794086509.8631935
+}

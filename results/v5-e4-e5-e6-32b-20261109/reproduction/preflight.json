@@ -1,0 +1,50 @@
+{
+  "config_sha256": "3d40e6194171a2d79939161984f650a0d18a37ba5371264c86abcbbc0adc2019",
+  "deepspeed_verified": {
+    "gradient_accumulation_steps": 4,
+    "train_batch_size": 32,
+    "train_micro_batch_size_per_gpu": 1
+  },
+  "feature_encoder_match": true,
+  "generation_canary": {
+    "events": 16,
+    "executor_identities": 1,
+    "generation_seconds": 50.86343908961862,
+    "states": 2,
+    "success": true,
+    "targets_shape": [
+      2,
+      7
+    ]
+  },
+  "input_files": 32,
+  "max_draft_prompt_tokens": {
+    "aime": 418,
+    "gsm8k": 213,
+    "humaneval": 401,
+    "math": 1361
+  },
+  "max_train_prompt_tokens": 1821,
+  "orchestration_tests": 5,
+  "peft_load_validation": {
+    "adapter": "step400",
+    "exactly_matching_tensors": 512,
+    "gradient_norm": 1.0852012634277344,
+    "model": "Qwen2.5-32B",
+    "single_gpu_optimizer_update": true
+  },
+  "project_tests": 87,
+  "sandbox_image": "task-seccomp-v1:5770f9fb399e5523bfb2187c7d21eca00a8f8c6aa9a01dd1a0db7b98b1a94918",
+  "source_files": 58,
+  "success": true,
+  "vllm_concurrent_tcpstore_verified": [
+    19001,
+    19129,
+    19257,
+    19385,
+    19513,
+    19641,
+    19769,
+    19897
+  ]
+}

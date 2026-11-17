@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/calibration-107.json": "ed83fdb1e6b93a8828e8d2fb1b37d674442ffd0ffb72f6591552586a169db502",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/calibration-41.json": "4884a1755c77ef7d528e6870a90953b274ea5c20ca368cf0f2c2067f6828de92",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/calibration-73.json": "e3d9a1e0c1c0f3d7e91a4fc5774a2212f4f44ed5c395da2e85be62595c089946",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/head-107.safetensors": "092e492f00000fe4de25b7a15f63b98f6ec08a93b23de8d000a9253fa208e0d5",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/head-41.safetensors": "96d46a6da15d12a0e29b2a915ffa7d4a6e6caf2c043d0818ec585d5b80e42278",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/head-73.safetensors": "c44294c4b2621ec013ffa65e0e18816503757b56dd0e654fe95c3e611ba0d208",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/history.json": "5dd062fdb8bd1e6a5e363cc35bb69a0dbfaa0882cba042d3816901e849446990",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/model.json": "0b14835e61dd4e5dca2815d2bcf72dfa06c252bf98f62844f0806ccda6c8152c",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/train-107.pt": "dfc9840628e904aa0997254bd573e0ffa4f5843d5ca3826a3eb51de8f7712f86",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/train-41.pt": "f9ae920435bac0b1f4eb0a8b93f39c95376e2add61db488aeddcb78017aac9de",
+    "${RUN_ROOT}/controllers/cavr_online-round3/direct/train-73.pt": "45125a7189e9682f56008cee4caa2a384d5bf6693b2aaebd0eebcc9a24399dc7",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/gate_holdout/label_oracle.json": "713a264dcff1743978facce2b1684d6f2de680dc2243ed51426482d75a72a0cf",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/gate_holdout/policies.csv": "3a1f229299a36d64eef28dc84a54b6a44ab16ee247689e6e9e46737c0c68408c",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/gate_holdout/policy_states.jsonl": "365163057266f40cc9f2cabde87acd3cbe71d502ed341e25c54960cd3f3b17d3",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/gate_holdout/predictions.jsonl": "682cb735bdbd5e2746472d9484ac36d05018bfdf300e5c00af4ec692abccc6cd",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/gate_holdout/report.json": "8957a47dbd5720930fe24e3ccab11bbcc8a22075568e67e1faacf1f41c269982",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/validation/label_oracle.json": "f0a8cd243a15b5cb9488811a9bcaaacd63b371b48dae5169bcf75e12a5c0fbcb",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/validation/policies.csv": "21e8770f6b6efa3a7dd193398c5f50956728af409de7dcd03d514d21b93d2f62",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/validation/policy_states.jsonl": "baa5477e6bbbc93f27767242c9e328b3c56ea13a9b19207aabb01acf5b146417",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/validation/predictions.jsonl": "005351daa7c4bbe2c05fd115c4f281db9e936c7988fd21a8eb8dbb616a68fbfe",
+    "${RUN_ROOT}/reports/frozen/cavr_online-round3/direct/validation/report.json": "5fd0cc74968fda718de791b8a8492893677b733ccb020ca3c0192d200c5df993"
+  },
+  "completed": 1793738737.7942061,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/cavr_online-round3/direct"
+  },
+  "signature": "753c26444955542e06277ed064f8ee7dc65ef9e9d32b910d50860b82f760b79f",
+  "started": 1793738726.254488
+}

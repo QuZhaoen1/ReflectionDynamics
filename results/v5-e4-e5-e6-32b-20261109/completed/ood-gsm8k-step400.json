@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/step400/gsm8k/score-0.jsonl": "647f7910915f9afa010aec927dd3a12f5b6dda13e8cb8ccd9cb543c40b6130cb",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-0.jsonl.complete.json": "05dfff0cbfddea52079321dce2336bc722b7443425e1436121c46bacc63a60b7",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-0.jsonl.manifest.json": "06980427e9dd6f5597ca6854b9d1db1843e55e5877873deee6b935ee8b90efdf",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-1.jsonl": "99b8102f4558a742991fe2742954a39b20b25cd1e7b91767ee7fda5a70f2154f",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-1.jsonl.complete.json": "daf195c520aad51e508895be1a97a73138f1f723ac9db454e7f7947ca7154afb",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-1.jsonl.manifest.json": "19f2bcba0a38caea960c1ffeb8aaea3e7b6eb813e422b576ae32168ac972e986",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-2.jsonl": "49a4e4d37f45c4084304a19ef194c7762ea97d688b4ea40775dd41553a3883b6",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-2.jsonl.complete.json": "665d5688b2748f430958bc9d02b581195ea0af768039a0f0acb9f4957c4268ce",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-2.jsonl.manifest.json": "8260705ee5f3cd05f6b2c20471135e5a67d74dca04e83661ee42fc9161ed52dc",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-3.jsonl": "d4b624b49df45ca79b8b1514983b3c47384299f6542374303259f1fcf7fa9c79",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-3.jsonl.complete.json": "da8416afc1b284086c1fceb9983a34422f2f8bcbbc629715f467b43ac12f3c00",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-3.jsonl.manifest.json": "425f654c982a7f3efdcaedebfa06c88889e9b73ce41f2b53e4265cd1e6ec69d4",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-4.jsonl": "dc1e10de3aac4aa4f5e33ca1b48a30e614142fc05d4f91e6bdb52a08bb1701c8",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-4.jsonl.complete.json": "72eda1eabcc4ce30fa5e745dcfdc75abbe5a952b1af3d331d90a52337a4bf948",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-4.jsonl.manifest.json": "71cbd2beda7ee6dd03e318201622ff924e365213407f4353a54b0d819ebc5d0e",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-5.jsonl": "6a80a92c53314e667c52d928b225abb7776d550a484f38e4a94c5109e0896d6f",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-5.jsonl.complete.json": "a4cb1198f7791491e14acb69939db5c5b2fe93b18822e0fd75c5e987d117af6f",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-5.jsonl.manifest.json": "697ccbfe1580c3de5d64d424d25e88d46dea8161cb1d34e05ff20ac546cd0cf0",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-6.jsonl": "2efb88d7388d0ec628dd19057714b820d8122044dd599236f61e09fa7a7583f9",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-6.jsonl.complete.json": "629af1031a2a0df00447a2c1e2b07c78a940718bcdefac73e126dfbe33109d82",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-6.jsonl.manifest.json": "6c2be277dbd5d914d04ec45087c21bfd67f8a8df7e881bd3bf01edafc781d735",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-7.jsonl": "07e7d63cc63316157afefcc2ee2ec366472e006ed5750986b209a1564fe5904f",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-7.jsonl.complete.json": "8cefe6034929a122720c93b0c3c6064e5f566b163efada3ead7502ab1d132586",
+    "${RUN_ROOT}/probes/step400/gsm8k/score-7.jsonl.manifest.json": "22e7bf23254489b23035c34b3da6c585c5443a6244a02812fa9ccb9973b3caf5"
+  },
+  "completed": 1793952435.292871,
+  "result": {
+    "${RUN_ROOT}/probes/step400/gsm8k/score": 84224
+  },
+  "signature": "242556656c2e4b8615ee52d611aa6d23353855bd65c8b2c2dc574626ad779170",
+  "started": 1793946298.9942653
+}

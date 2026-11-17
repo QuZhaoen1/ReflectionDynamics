@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/drafts/aime/base-0.jsonl": "41f476483c4600d446fac75023b793cbc8439996a3aff790f7ff75bda0437464",
+    "${RUN_ROOT}/drafts/aime/base-0.jsonl.complete.json": "d0b4f5945337a086e547ef75040610276d1fc23d1fd0f5f4c30c4b61ede2a0a5",
+    "${RUN_ROOT}/drafts/aime/base-0.jsonl.manifest.json": "e2f38ce2c4db5a6e930dd36d5576fc7e1f58b385e59898a9590ba548ef5bdc68",
+    "${RUN_ROOT}/drafts/aime/base-1.jsonl": "0ef2d97674f41246eefec8668eece5efb848d6ab7a8a98edcb957b15a7aee100",
+    "${RUN_ROOT}/drafts/aime/base-1.jsonl.complete.json": "bafb9005861dbab08699cfd87492344ab1d641a469b24a8b78d24eafca5148f4",
+    "${RUN_ROOT}/drafts/aime/base-1.jsonl.manifest.json": "d2e8cf22e18fb255ee320cbc017f02c77305160981438c0df1da26f73ee089ec",
+    "${RUN_ROOT}/drafts/aime/base-2.jsonl": "588059fe673ae2fc42fd4f5682ccc4d5a3e6256bb23ef9ec896b0079db202788",
+    "${RUN_ROOT}/drafts/aime/base-2.jsonl.complete.json": "c44f9a7e7ea05337bfe8cc74799d8c2342b284c26741fbc90d172b470bc27928",
+    "${RUN_ROOT}/drafts/aime/base-2.jsonl.manifest.json": "736c65aeb67eef8a0e277670edfbfe7747f5c6ce9738bc49f09ff0a29c25694c",
+    "${RUN_ROOT}/drafts/aime/base-3.jsonl": "6da4bc2395dc8cdd860c25e99ea9b8e43710e05501faf63626401bb78af4ddfb",
+    "${RUN_ROOT}/drafts/aime/base-3.jsonl.complete.json": "e58b8f4f8384d27b902539a2407e0377b17b0b773845652715b935ed23d2f709",
+    "${RUN_ROOT}/drafts/aime/base-3.jsonl.manifest.json": "01263ff7882f68ff5aacfde6a329b78467bbdb7c38b1fdeb81e3837598b76ccd",
+    "${RUN_ROOT}/drafts/aime/base-4.jsonl": "7ee348f2ce81642cfa6ba65e6f4d36990fa4d3dc45a4396ea80bcd626dcb8ea6",
+    "${RUN_ROOT}/drafts/aime/base-4.jsonl.complete.json": "6e304bddc831395f95c1f5a2e982a51777b8e911d1b26daf9b5fbe331e95dcf0",
+    "${RUN_ROOT}/drafts/aime/base-4.jsonl.manifest.json": "c7bb134f0a5f6db4ae40efa798fe9d83627047790fcb7844018f301e97f1e4b7",
+    "${RUN_ROOT}/drafts/aime/base-5.jsonl": "f8a2eabeb7823fd39547bc13713772bfe7f8ed823eb584b98ad3c5802f04dca2",
+    "${RUN_ROOT}/drafts/aime/base-5.jsonl.complete.json": "5f1e959e7b31f5223447038443199c09345f764f7af423f87498157de2a38e80",
+    "${RUN_ROOT}/drafts/aime/base-5.jsonl.manifest.json": "4702c67abcd02e0628d72c0dc5f9da82b95ed86b94ceed64e6e8f0b089fd46ec",
+    "${RUN_ROOT}/drafts/aime/base-6.jsonl": "655337c3a358270941de76713a03e1118c07f55d702df9c508c802902dd3d072",
+    "${RUN_ROOT}/drafts/aime/base-6.jsonl.complete.json": "ea7c7e05f3b99d3722ea6fef64be06eb6315d5b0c925de511adb86d193582ee5",
+    "${RUN_ROOT}/drafts/aime/base-6.jsonl.manifest.json": "3ca3dbf052840b75cbf2e81396c3656c51d293dc46536d5a5a95ecc1b4fc1fa1",
+    "${RUN_ROOT}/drafts/aime/base-7.jsonl": "f15256eb556e9905fd9ba6376c903ba83722cbb0b675026480eab947a36cf654",
+    "${RUN_ROOT}/drafts/aime/base-7.jsonl.complete.json": "9400c22d59c6fa2bf623d7660a603dd76d1eebba64b965c80844b9f583df88fd",
+    "${RUN_ROOT}/drafts/aime/base-7.jsonl.manifest.json": "9f2be76e740a9f6f672c2afa690d635acba956bf22e744f6f2cec720e6905f11"
+  },
+  "completed": 1793937182.4341905,
+  "result": {
+    "${RUN_ROOT}/drafts/aime/base": 180
+  },
+  "signature": "c2ab6cfee3e9ba2e5060074415d8ebd010e1de86aba6ce69bcbde83f6dd75cfb",
+  "started": 1793937027.4125218
+}

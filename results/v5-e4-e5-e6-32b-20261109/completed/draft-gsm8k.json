@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/drafts/gsm8k/base-0.jsonl": "71011e838babfdb0f426a882001cd7f0fb352cb23b4d6dec438a6c7a0bd39d3d",
+    "${RUN_ROOT}/drafts/gsm8k/base-0.jsonl.complete.json": "d821dade6301f236e959b276f557948c313f2c38e34143e34f2c65202d659c32",
+    "${RUN_ROOT}/drafts/gsm8k/base-0.jsonl.manifest.json": "29e235d417866c0094934eb6a0da00313a0edc976409acbda2565b93070f768e",
+    "${RUN_ROOT}/drafts/gsm8k/base-1.jsonl": "2c9e0ca33a7a0d5a09503c30199b4df2cb946b6d2aada1a0370832255f7ed4e3",
+    "${RUN_ROOT}/drafts/gsm8k/base-1.jsonl.complete.json": "9c7960c562eb9e9cb82b43db0ece76284025bda04c6ab76b2d2d52c025cd2c37",
+    "${RUN_ROOT}/drafts/gsm8k/base-1.jsonl.manifest.json": "5303e0c71c0a92e2458483702bf4742ee8cea5bb64cb467e12fd72db3d21455b",
+    "${RUN_ROOT}/drafts/gsm8k/base-2.jsonl": "4917e1f28a9d1c10b2d217e384e15cc493e97abd10ba931b7dcb44d2674e7586",
+    "${RUN_ROOT}/drafts/gsm8k/base-2.jsonl.complete.json": "c048d8b496fcdbb4cd7a6847dbadcfa097a50ab572eba03e76cdccf31109c8ef",
+    "${RUN_ROOT}/drafts/gsm8k/base-2.jsonl.manifest.json": "639b67928de921db7b2222e9edb0ef8035c19d4b63dd0d5a7ea4a7eba53c6723",
+    "${RUN_ROOT}/drafts/gsm8k/base-3.jsonl": "a4033895b3144c467166a359423146be13896ec089568f1d659836cfba83da76",
+    "${RUN_ROOT}/drafts/gsm8k/base-3.jsonl.complete.json": "2a4dae2d31e2f66ee6615d8aa5e5c47a859288f2af4e29353179718e4cd8c5bb",
+    "${RUN_ROOT}/drafts/gsm8k/base-3.jsonl.manifest.json": "e538d659749471f2a5c87a3522424692fc792e39f2d3ec66baf517990421eee9",
+    "${RUN_ROOT}/drafts/gsm8k/base-4.jsonl": "bd3a42144cd98c53daf507601ccad902c56c0ac7f7419e36a416725a79f8dd7d",
+    "${RUN_ROOT}/drafts/gsm8k/base-4.jsonl.complete.json": "1669e29e040f13609bb62a3bf14dd64644463e17445c654a2ac6506ac9ef480f",
+    "${RUN_ROOT}/drafts/gsm8k/base-4.jsonl.manifest.json": "a7b0d296ed843a7bdc8ce81ea98af764da75de10e701f61831c911d7a88c4ec5",
+    "${RUN_ROOT}/drafts/gsm8k/base-5.jsonl": "ca65dd2f821e45f9de4ebfc7e3e5e802fd115f5b7a1c91eb1b68f7744ebbe43f",
+    "${RUN_ROOT}/drafts/gsm8k/base-5.jsonl.complete.json": "d7c92397dbfff0c697c3a6206981e801b9b231daec35cf20522f4114eca6fa92",
+    "${RUN_ROOT}/drafts/gsm8k/base-5.jsonl.manifest.json": "fa44cebfcfa94d6b7abc3efc08d390e15f807f08edfecc8299e69c556d54c725",
+    "${RUN_ROOT}/drafts/gsm8k/base-6.jsonl": "4ee8606888568110b817c7cf2a7c654aa905ef6fb588143be9cc5850d0ae221c",
+    "${RUN_ROOT}/drafts/gsm8k/base-6.jsonl.complete.json": "18aab375c7ac7252dece5b0f229c283fafe6434cc805bb6580b92f5d4ef32525",
+    "${RUN_ROOT}/drafts/gsm8k/base-6.jsonl.manifest.json": "24931463a4c1c4d5551790fba0a6c57c98df7fbe44f0358e1159fcaa601954e7",
+    "${RUN_ROOT}/drafts/gsm8k/base-7.jsonl": "1eb1fe6349d8aeaddac91c305e2c00bab6232de2696c8f575212554d7f748d8b",
+    "${RUN_ROOT}/drafts/gsm8k/base-7.jsonl.complete.json": "a71e4478ef06ac6fcfa1029317d40b49f8a29c1a3a5ea8b7dced5815fe472196",
+    "${RUN_ROOT}/drafts/gsm8k/base-7.jsonl.manifest.json": "9ff190db95f7b90a6af52e4e7e1947a5e99ff437d3fb4219000472195d268b89"
+  },
+  "completed": 1793940906.1098545,
+  "result": {
+    "${RUN_ROOT}/drafts/gsm8k/base": 2638
+  },
+  "signature": "b16a621c3ec6192b4180df6e25d6ecd20a5efe07e2554c8dcecf42220ec73a0e",
+  "started": 1793940606.041409
+}

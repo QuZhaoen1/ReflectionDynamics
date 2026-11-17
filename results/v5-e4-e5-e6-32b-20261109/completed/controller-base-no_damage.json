@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/controllers/base/no_damage/calibration-107.json": "c5dc23477cdd26c1596c21301273abf2fa09700c69d30bda9bc7ea546a551704",
+    "${RUN_ROOT}/controllers/base/no_damage/calibration-41.json": "87dfabd6e1b7b659f4e441fe60c93232a48f9b4cc6f291d5c91c3e3cc2b0581c",
+    "${RUN_ROOT}/controllers/base/no_damage/calibration-73.json": "2d8a0ff9354b7ce4301fde6f845648abd3cef5cc1b8781889736f7986a01311b",
+    "${RUN_ROOT}/controllers/base/no_damage/head-107.safetensors": "291c941e5ed5062cf0969a88f5f2894892302aa4e753939a39236870baca4f18",
+    "${RUN_ROOT}/controllers/base/no_damage/head-41.safetensors": "e5d90da4254d994ff343b8e660ea75f052c4fb833b3f8f2f64332d3747e32143",
+    "${RUN_ROOT}/controllers/base/no_damage/head-73.safetensors": "31bd532566a6d7d2e6fa694b1141caff5fa7c9bdb38ade1abb5eb9b8cf60a09b",
+    "${RUN_ROOT}/controllers/base/no_damage/history.json": "d2e1e3d72c6a9f0c27d88b00407b9a9e5ddc522de1778587bf42961a7fe7d8be",
+    "${RUN_ROOT}/controllers/base/no_damage/model.json": "63e1697684b1b9975858cc183aacb406a108c272bdc38690c69835a3a05ef22c",
+    "${RUN_ROOT}/controllers/base/no_damage/scaler.npz": "d83101062123a6fcda253b48305cf4a5a9b3bd10ce791a3220df44c688f03742",
+    "${RUN_ROOT}/controllers/base/no_damage/train-107.pt": "84cfb061db4a0350b4d3075d223f03aaa7644ca1b63b70c1892f500c94ad0cd4",
+    "${RUN_ROOT}/controllers/base/no_damage/train-41.pt": "789878661e270178d0da890615d4c3eb5b7d0d75e2ac9e4c8315031607500953",
+    "${RUN_ROOT}/controllers/base/no_damage/train-73.pt": "c1ba56dd5656fcbea85ee6f6b16457c9734a0027e0bd93e41b94f15e71250a46",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/gate_holdout/label_oracle.json": "d17a982b1d2ba205effa78a55c80cd0267c16b32627b18a2ff1744c11b1f4591",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/gate_holdout/policies.csv": "23b2b0b49595c9f1190f8affd4bde6eb5b3e2574ee4d88d258dafb2d93d252d4",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/gate_holdout/policy_states.jsonl": "926da030f7768e32a8ddb02b69b2e25d913da91078fcfec9010e0eddf8b5742a",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/gate_holdout/predictions.jsonl": "aab7dd6923e357fca5ce26d836485a57d9b5e0bb7d41d8e6fbb3d32a5df3e560",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/gate_holdout/report.json": "07f0c20dae4a1a536b1de69330d46e075938d5bf1a7c575c01bf931c6135de39",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/validation/label_oracle.json": "b0fdb3bafa0ced0371c3669ef7d282b0c5ec3ad4f0e4664ebc6ef817655f1f8b",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/validation/policies.csv": "12b81747a6718359a334da6b3e93f01d523b65990f7c61b2d47a815caaac80c9",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/validation/policy_states.jsonl": "ff06972d950378b30f7503f58601750016c54fd003a793d34ae829933ad8b539",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/validation/predictions.jsonl": "0a199670b153066022cb9129ac975a8ca44c862c0b04358a96c6a82c264d0b71",
+    "${RUN_ROOT}/reports/frozen/base/no_damage/validation/report.json": "1214ee22a988051f6fc0d8c251d71f4d25c485511956562983b82b51bf1f95e3"
+  },
+  "completed": 1793775134.032481,
+  "result": {
+    "controller": "${RUN_ROOT}/controllers/base/no_damage"
+  },
+  "signature": "8a79fa6f5aaa1332df40aa84e407dd8b4f981a5d2988f561dadb5fbf1b20ad06",
+  "started": 1793775122.4289687
+}

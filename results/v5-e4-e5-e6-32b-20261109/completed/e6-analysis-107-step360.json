@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step360-audit.json": "709a60d87d45fa18c4b0e502e7544b01d11d4724206bae0ad80c220838bed6ed",
+    "${RUN_ROOT}/E6/standard_v5_seed107/reports/step360-selection.json": "152682d28de86bac52b1b25d0030d3935edd7134d07001f38c2fe60e58166475"
+  },
+  "completed": 1794159960.236378,
+  "result": {
+    "checkpoint": "step360"
+  },
+  "signature": "0240b2f6ccf5986ae992512dd71fafcd09c499ef3881ea973bbe7d456e4e913e",
+  "started": 1794159957.494829
+}

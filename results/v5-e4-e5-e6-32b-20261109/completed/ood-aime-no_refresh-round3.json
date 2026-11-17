@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-0.jsonl": "183f5df3433faf370113609295d16a996c4f393c596c1431d265eb591c674e51",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-0.jsonl.complete.json": "cddc4664b37730fedee39de9c20e40f7fc4f720c86f0081424a3ae661f07153b",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-0.jsonl.manifest.json": "526bb80cf1dd2bbb70494692b73e601539ff4b5e2f378053d315f0c90496fcc2",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-1.jsonl": "81d38a5c12c97a7adc1b419cfc6da895f65f8eede7e1addd369e2b657c2048ad",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-1.jsonl.complete.json": "281b64dd8eafd5c83ff47c3958505224a40f545842d10dcde4cc48d17bb88132",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-1.jsonl.manifest.json": "19bc1477352feeff941d4978976bf0d9e23cec4d4803bf94dc008019a350bca2",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-2.jsonl": "197a437c1dcf7e23a1208376b5dc1a29036ae1568c5bf56b0910c59b95a36bd7",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-2.jsonl.complete.json": "93fd2829aff5681d263b20366f2bc23994cbe58c9c9d354c5762bea342975033",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-2.jsonl.manifest.json": "bec8bd16e6ac4a7d714867e1f521de3ecfe078aa99f3de4f35dabeb446b61128",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-3.jsonl": "4766bcfd31625047ebeb16314286dc2153e72b5f17ddd4f66725ed3bc0f99113",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-3.jsonl.complete.json": "8139fa7c22a89dffc7b9fde2acfb3a4166a62e1bafdb7aa4926f95caaca9cf90",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-3.jsonl.manifest.json": "26efd54ef5600b4163781834f5946fcb3d2408292889deaa01cee57ec91ac645",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-4.jsonl": "c52641fc6a61108f768903f0f3b0ecffb78eedd5eba6e4bc4e94c42142058f28",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-4.jsonl.complete.json": "cd16c0ae3b02629215172f2cd705a5fcf719797ce08cb45ccfe91687c421deed",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-4.jsonl.manifest.json": "325e9feaad6c5279ba64212e3e4024972f7c835dbee06b1d57ca6597712de221",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-5.jsonl": "2ca4d520f8236ee3af141a41e6505a841ccd6c914160f6f3c3a995abaf9a16f1",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-5.jsonl.complete.json": "6280c9293eb7ca3b9eb427f7e5f058d4a9d14962734f179db32a9c19a8cc75a4",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-5.jsonl.manifest.json": "0349f269fb97d6504ae58564c22c605000336347193c391b3ff3087787f49a31",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-6.jsonl": "b5531fffc9c265be3c26732d8caaee4a95131c9ae88f72a8f81861d99a130cba",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-6.jsonl.complete.json": "ea16e4586863da31e2a01e36307cd71e8a472dd5b1d6ef788d5b83f3b232fa05",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-6.jsonl.manifest.json": "004acbefcc9d2a7a41f06ecb90e640fbd78fa3c38352a21a1c8c3bbb1e7dd89b",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-7.jsonl": "b8c03a6dee3d6ec2cc2cf99ae3d7d4055b9bd58ae9ff43d56b3a6bc804552d0c",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-7.jsonl.complete.json": "99c05f92039389ed7afd0fc163976d4b0f4f22c18f69f3246b7f6befb8ed210f",
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score-7.jsonl.manifest.json": "8e93d8a19f026d10062600bad4bb6238f8f0ea8265e4b4d012665ed25cb90ebf"
+  },
+  "completed": 1793939915.878623,
+  "result": {
+    "${RUN_ROOT}/probes/no_refresh-round3/aime/score": 4160
+  },
+  "signature": "457d0faa4b8c3379a512d4865fb92bfda9473d8e733ea7f9777f4224563b565b",
+  "started": 1793939235.794942
+}

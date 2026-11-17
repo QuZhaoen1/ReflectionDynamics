@@ -1,0 +1,32 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/cavr/label_oracle.json": "57cce3152b5b9c5530c7665a763888cb887101556399564a445f150dc0f3b480",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/cavr/policies.csv": "21601fa97e6ebae2b1c0cda47b892b4fa9f9a9aa2ab82f06f9fc9b4a11d273cf",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/cavr/policy_states.jsonl": "6a1dd38fa51cb2a1fba433315982ee62eb132fdecb99b376d71bd83c1b86a406",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/cavr/predictions.jsonl": "fc1e262a30f5527415e01f56b1f5541426a6da41722e5c82db32979e8d4b1fd5",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/cavr/report.json": "b61439021a18979f5b79738e546932965429e0512148cd9b690c0e192b41879b",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/confidence/label_oracle.json": "57cce3152b5b9c5530c7665a763888cb887101556399564a445f150dc0f3b480",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/confidence/policies.csv": "67aca5d6dabfbe3e9abd1d42222f09142a913af1aa6c842aadf1a84fc645497f",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/confidence/policy_states.jsonl": "1e5162c371f4c10edaed9adba9d1bcfcfae7cee70b7917b418a08aeb172a7c96",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/confidence/predictions.jsonl": "c98961c0a1e5711cdfc42d4303e672f3750676ce1a0bb922ddaaa2b153fc8683",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/confidence/report.json": "f2c99fd42112c47ac9059e453bba22ae0a582618247fc7a62c4b81e16ccfb5a4",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/direct/label_oracle.json": "57cce3152b5b9c5530c7665a763888cb887101556399564a445f150dc0f3b480",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/direct/policies.csv": "de637f9ea4dac18953bd0b08d56a6775e726995b2f6ae1ec2f8ff0c4a3d6e7ab",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/direct/policy_states.jsonl": "4ffdcca551fe8ef6259dff1edb38ac397f7036a0242724f3862a91fe82a19c9a",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/direct/predictions.jsonl": "c1d9bf3f2969be5df8bfd06368f2d6953099ad2a8c4cbb9a1cf0ebcde61e66a9",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/direct/report.json": "6178ddc2579c7b93ac9c9353b7110137b5ca970b6298dfcbd04b8c61a259e7c2",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/no_damage/label_oracle.json": "57cce3152b5b9c5530c7665a763888cb887101556399564a445f150dc0f3b480",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/no_damage/policies.csv": "e07301eccbd9eb9c16b625701df7dda7e210b1825b869fd44d110ddb75e9740f",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/no_damage/policy_states.jsonl": "263acc291dc0d2647ee44e9cc08b58a84c6ff5505d612a19f1dcf74c0bb2f4a1",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/no_damage/predictions.jsonl": "ad89e41886d73f6579d6f7fab80c1c1716ecf60d3466108cc7493b88f9746ed4",
+    "${RUN_ROOT}/reports/ood/aime/no_refresh-round3/no_damage/report.json": "8d7155fd5d979e41fdfa80439ce35f00d1f32a6a3410b3f40e2aa0c607da2c44"
+  },
+  "completed": 1793939925.0015843,
+  "result": {
+    "controller": "step400",
+    "executor": "no_refresh-round3",
+    "locked_before_test": true
+  },
+  "signature": "f67caf6221816adb60a02007482a500d11c9d1f9cab24e36f1492a83020da8df",
+  "started": 1793939916.7186148
+}

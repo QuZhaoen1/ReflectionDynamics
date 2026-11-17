@@ -1,0 +1,11 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/online/uniform_executor/round1-states.jsonl": "6d0f76ef3ea2033bffd318760986de5e1a02024d7b59b92b8202ef17fb950f6b"
+  },
+  "completed": 1793752014.3939178,
+  "result": {
+    "states": 360
+  },
+  "signature": "1cb33858ec2ffba100545f50f2c41f70b6a02714b222b9096c3e08e798c04cf2",
+  "started": 1793752014.3644292
+}

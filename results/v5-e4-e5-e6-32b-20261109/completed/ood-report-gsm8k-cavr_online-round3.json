@@ -1,0 +1,40 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/executor-equivalence.json": "f53438d2286f9d84d8f944d063927ee685adf605ca26a822e1f390f66fa547c8",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/label_oracle.json": "8709609a17eea4c68916ef4d1efeccd30a30f1f4b42a12fee5b7c56d61dd01fd",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/policies.csv": "2f67999f6e642c6b7c99dce226a0a06be33791add353355258cd6226a231447b",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/policy_states.jsonl": "86d8ed9cd98e828a5e80c79a02dae9b44947a4f21c948359cd2486edbbe23aa4",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/predictions-compatible.jsonl": "31f8f18da11b77a42a59fc4666b1001b4cd2e625f8ba9e8737d423efdf40b93b",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/predictions.jsonl": "585cd098a3ae3aa6d829627fcb72a02a221482621a6dbf51b4703f6422f0f8c7",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/cavr/report.json": "50e8751306d971237f51bfeb47b1bc84fcab2cfa31808f684f696c87c976ec57",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/executor-equivalence.json": "429d89bf665ad63c76dece17a47d9dff3239a84c47bc63a5bd8e4891f38a8028",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/label_oracle.json": "8709609a17eea4c68916ef4d1efeccd30a30f1f4b42a12fee5b7c56d61dd01fd",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/policies.csv": "e7c000c14caf40a7cb881a8803911b6bf20d9d8992c1d76cce7219e9c1b33126",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/policy_states.jsonl": "29952f451f437d16420c94ab0109030a7d337d8cc9262cd09384bb62daba0d8b",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/predictions-compatible.jsonl": "e6512d394e084cc038f9ca5a79b635879d6fc10b2e50190d6888427f089fcd73",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/predictions.jsonl": "71718990387dd458d02ae80e6c2000d21fc83bb9dac046333ee43e0a04f35e58",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/confidence/report.json": "6c39d8dd3ebb67190aa3a5878d424889195854fc4410770fc14770a5dc21ace2",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/executor-equivalence.json": "82451cf99d4fe0043e64a8aef9eb8108331a3e4460cad78a21cb7b6b73df0868",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/label_oracle.json": "8709609a17eea4c68916ef4d1efeccd30a30f1f4b42a12fee5b7c56d61dd01fd",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/policies.csv": "7246917e68cb2899f38faa33c250e43d8b27d52c25a303be72db58a085136e98",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/policy_states.jsonl": "3cbaa3815a758b4179066feb176798181e927fa3b767382048758a1de4914d8f",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/predictions-compatible.jsonl": "edc2c276fad7da2f8100a5f3ade32bce80adc71a96bfdf919e50208a94f92bbc",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/predictions.jsonl": "db03427ad141eaeff60d84acf6214c9020e731de31c29ce18307f7f10332531f",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/direct/report.json": "c9724003cbfc7390b3cf0fef7fa95dae983c291b04bdf9a5e825735c4d82dbbb",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/executor-equivalence.json": "283acc12365e1e9510c01f97d52248cdb1ff11d6c408f281afb77c96c206c8c8",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/label_oracle.json": "8709609a17eea4c68916ef4d1efeccd30a30f1f4b42a12fee5b7c56d61dd01fd",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/policies.csv": "7f387722c29e8c04ae53fc2afe4ff8cac6d5985c91978e92f27cb7df0b9e3977",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/policy_states.jsonl": "ede9a6cdc3bc56595f79e233b828f8a7556376ed63fe663d5c31c7eaf8efa982",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/predictions-compatible.jsonl": "06e9142d31c7900cee835f366b9a40c039d18632c9448c7c4792c6c11cf90068",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/predictions.jsonl": "1eb46d5c74694f48c8dbe991d22a8927f9870d51cec7b4605e311d61b1e0af33",
+    "${RUN_ROOT}/reports/ood/gsm8k/cavr_online-round3/no_damage/report.json": "269cf0f903e215ff5225c1b8723a31217ae7f572ee402298eb653c0a9ff4ba03"
+  },
+  "completed": 1793958414.2590177,
+  "result": {
+    "controller": "cavr_online-round3",
+    "executor": "cavr_online-round3",
+    "locked_before_test": true
+  },
+  "signature": "f10432ed48710006587bb4268c063c7f6e0561f5ef080619d6e2d6be97103aa8",
+  "started": 1793958360.1395304
+}

@@ -1,0 +1,34 @@
+{
+  "artifacts": {
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-0.jsonl": "fcf79a87a4a367e7e0ee469482867c255487dfe6d0df9f6f8a96abc6d00561e5",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-0.jsonl.complete.json": "6761236bc7c9e57496d341bcfa1b5b47d6ba6a00f2fd6a479597dc4e116ba285",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-0.jsonl.manifest.json": "d65a8302c408cafc6dd34abae3529217c4b6ce2596c80765384e79f81f5241b1",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-1.jsonl": "51ca810f664fe2704fa5ef41548b6f77f13cb331cdbaf996cb757a0e6139b91e",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-1.jsonl.complete.json": "cc939443b22ea0aae72c7c58376e3b560815054c0090981c3ac171f4e7af1289",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-1.jsonl.manifest.json": "b8aa705aff01fd1a3dd65cc1a3b554eec319815021ba2c0c9b8c2b1cbac8e36c",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-2.jsonl": "6779cd8a4c9ec901f6a74bc92488c039e1dced087436e0a3052af265d8d6e700",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-2.jsonl.complete.json": "e6911a8a3816d73be8bf40cbab056397cf45099493fb592c8d360bc549aa06d8",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-2.jsonl.manifest.json": "46b6858652834f9ede4c71aaa28468a2ba04f8f5cc46c2c1a6338ad8d6195e05",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-3.jsonl": "308c8330ebd685a71c513e52a4a2f08d3b32cc8cd80a17b5987a5b7d48ff298b",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-3.jsonl.complete.json": "1a42e34c8982b45cfecf4adacc7a071a1b52008ffd47dfe0b347a1a7454e813e",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-3.jsonl.manifest.json": "b2e19f01f1dc205aa787dc53631de7a5e51ce571e323ed5f3e50b04a32f8a7a9",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-4.jsonl": "2772a903d48caccdfe6d5d232627e519d7495b50ccaebd9c28a7e17d9692ec9d",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-4.jsonl.complete.json": "80b29b3d3e261317384c16ae630de76cb62bc3f1a791fe25812b73b6865c76da",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-4.jsonl.manifest.json": "7f1003190b5327e2fb46cf8f36349426670ceeac52d62b5fd53b873fe8bf5fcb",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-5.jsonl": "3a1c9f19fafcdbe22fe0363201bcb3381a4ba7ee3288067eadc68fbe6c7d065e",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-5.jsonl.complete.json": "57b453340a316f9d66fbea0d990432ff1819a96d833b430bac658e39d3f619a2",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-5.jsonl.manifest.json": "0d3e6579787c13efad404cba42113a8e41959f567a357dea987e105c034d951b",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-6.jsonl": "c461450f17df6c6d04bf5ff97caa612ffd16df56b6bbcb02fad4f635803bf46c",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-6.jsonl.complete.json": "b57ffecdcc0082532a549474a29435b0b77474ad775032fd315831612ca87c59",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-6.jsonl.manifest.json": "6f9e1d5df320fce5c592ed374484a36dd527e2ebf889e3737a1c59228cfe4e33",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-7.jsonl": "69d40d3d3f65660ecbe2d2a0eb4866569c9f6eca60dd4fce9ce716c8348c936a",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-7.jsonl.complete.json": "a8ba8c4891cd56fac10489546e1eee3eec95d41669b38fe5df5109f33267ae8b",
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score-7.jsonl.manifest.json": "9449d46e0b1af364233a9184721113d476a9d80635c66a8dda70323be157661d"
+  },
+  "completed": 1793914715.2446194,
+  "result": {
+    "${RUN_ROOT}/probes/no_refresh-round3/math/score": 301280
+  },
+  "signature": "96208a5b854d184bb435caeebeda63c537ec6e7fb034360ba4c7f515435be0bd",
+  "started": 1793893045.7640245
+}
